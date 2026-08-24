@@ -1,43 +1,68 @@
 {
+<<<<<<< HEAD
   "last_check": "2026-08-24T22:47:43.582479+00:00",
   "sources": {
     "openlearn_ou": {
       "name": "OpenLearn - The Open University (Free Certified Learning)",
       "last_check": "2026-08-24T22:47:39.061615+00:00",
+=======
+  "last_check": "2026-08-24T22:47:56.477295+00:00",
+  "sources": {
+    "openlearn_ou": {
+      "name": "OpenLearn - The Open University (Free Certified Learning)",
+      "last_check": "2026-08-24T22:47:56.444189+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "status": "HEALTHY",
       "items_found": 2,
       "error": ""
     },
     "mit_ocw": {
       "name": "MIT OpenCourseWare (Management & Leadership)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:47:38.619657+00:00",
+=======
+      "last_check": "2026-08-24T22:47:56.434786+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "status": "HEALTHY",
       "items_found": 1,
       "error": ""
     },
     "ibm_skillsbuild": {
       "name": "IBM SkillsBuild (Free Tech & Professional Capability)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:47:39.629298+00:00",
+=======
+      "last_check": "2026-08-24T22:47:56.454286+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "status": "HEALTHY",
       "items_found": 1,
       "error": ""
     },
     "coursera_hr_ld": {
       "name": "Coursera Free Audit Catalog (L&D, HR, People Analytics)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:47:39.360593+00:00",
+=======
+      "last_check": "2026-08-24T22:47:56.447805+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "status": "HEALTHY",
       "items_found": 2,
       "error": ""
     },
     "microsoft_learn_ai_hr": {
       "name": "Microsoft Learn - AI, Digital Skills & Copilot for Workplace",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:47:39.627558+00:00",
+=======
+      "last_check": "2026-08-24T22:47:56.452178+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "status": "HEALTHY",
       "items_found": 2,
       "error": ""
     },
     "cipd_news": {
       "name": "CIPD (Chartered Institute of Personnel and Development)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:47:37.047437+00:00",
       "status": "ERROR",
       "items_found": 0,
@@ -74,33 +99,84 @@
     "harvard_online_free": {
       "name": "Harvard Online Free Learning & Lectures",
       "last_check": "2026-08-24T22:47:38.812094+00:00",
+=======
+      "last_check": "2026-08-24T22:47:56.424061+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.cipd.org', port=443): Max retries exceeded with url: /uk/knowledge/rss/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106399cd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "cipm_nigeria": {
+      "name": "CIPM Nigeria (Chartered Institute of Personnel Management of Nigeria)",
+      "last_check": "2026-08-24T22:47:56.426389+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='cipmnigeria.net', port=443): Max retries exceeded with url: /feed/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10634eb20>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "shrm_insights": {
+      "name": "SHRM (Society for Human Resource Management)",
+      "last_check": "2026-08-24T22:47:56.428220+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.shrm.org', port=443): Max retries exceeded with url: /rss/hr-news.xml (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10634e820>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "atd_blog": {
+      "name": "ATD (Association for Talent Development)",
+      "last_check": "2026-08-24T22:47:56.430472+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.td.org', port=443): Max retries exceeded with url: /rss/insights (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10634ef10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "hci_research": {
+      "name": "Human Capital Institute (HCI)",
+      "last_check": "2026-08-24T22:47:56.432760+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.hci.org', port=443): Max retries exceeded with url: /feed (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106364d90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "harvard_online_free": {
+      "name": "Harvard Online Free Learning & Lectures",
+      "last_check": "2026-08-24T22:47:56.441166+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "status": "HEALTHY",
       "items_found": 1,
       "error": ""
     },
     "stanford_online": {
       "name": "Stanford Online Free Webinars & Masterclasses",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:47:39.360174+00:00",
+=======
+      "last_check": "2026-08-24T22:47:56.447085+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "status": "HEALTHY",
       "items_found": 0,
       "error": ""
     },
     "edx_hr_leadership": {
       "name": "edX Free Audit Courseware (MIT, Harvard, Wharton, Columbia)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:47:39.362170+00:00",
+=======
+      "last_check": "2026-08-24T22:47:56.449636+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "status": "HEALTHY",
       "items_found": 1,
       "error": ""
     },
     "saylor_academy": {
       "name": "Saylor Academy Free College-Level HR & Management",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:47:39.630184+00:00",
+=======
+      "last_check": "2026-08-24T22:47:56.455569+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "status": "HEALTHY",
       "items_found": 0,
       "error": ""
     },
     "mckinsey_org": {
       "name": "McKinsey Organization & People Strategy Insights",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:47:39.955593+00:00",
       "status": "HEALTHY",
       "items_found": 25,
@@ -175,6 +251,82 @@
       "status": "HEALTHY",
       "items_found": 0,
       "error": ""
+=======
+      "last_check": "2026-08-24T22:47:56.457911+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Max retries exceeded with url: /insights/rss (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1063778b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "deloitte_insights": {
+      "name": "Deloitte Human Capital Trends & Research",
+      "last_check": "2026-08-24T22:47:56.459897+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='www2.deloitte.com', port=443): Max retries exceeded with url: /us/en/insights/rss.xml (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106377c10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "wef_future_of_jobs": {
+      "name": "World Economic Forum - Centre for the New Economy & Society",
+      "last_check": "2026-08-24T22:47:56.461911+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.weforum.org', port=443): Max retries exceeded with url: /agenda/rss (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1063777f0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "hbr_talent_ld": {
+      "name": "Harvard Business Review (Managing People & Learning)",
+      "last_check": "2026-08-24T22:47:56.463939+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='feeds.hbr.org', port=443): Max retries exceeded with url: /harvardbusiness (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1063777f0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "mit_sloan_review": {
+      "name": "MIT Sloan Management Review (Workforce & AI)",
+      "last_check": "2026-08-24T22:47:56.466129+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='sloanreview.mit.edu', port=443): Max retries exceeded with url: /feed/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1063a8f40>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "yt_stanford_gsb": {
+      "name": "Stanford Graduate School of Business (Public Lectures)",
+      "last_check": "2026-08-24T22:47:56.467924+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /feeds/videos.xml?channel_id=UC0PnXmF81nO9q5vV4i7lYpw (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106399c10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "yt_harvard_business": {
+      "name": "Harvard Business School & HBR Channel",
+      "last_check": "2026-08-24T22:47:56.469604+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /feeds/videos.xml?channel_id=UCqZXz0lKqC8W9HrkG7iGzKw (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106399d90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "yt_mit_sloan": {
+      "name": "MIT Sloan School of Management",
+      "last_check": "2026-08-24T22:47:56.471625+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /feeds/videos.xml?channel_id=UC3B7W2yZkI6I8uDq3p5Uo7A (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1063649a0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "yt_aihr": {
+      "name": "Academy to Innovate HR (AIHR Public Masterclasses)",
+      "last_check": "2026-08-24T22:47:56.473518+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /feeds/videos.xml?channel_id=UC2K3I6e7f_FhLpP7eF8vVXA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1063649a0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "businessday_hr": {
+      "name": "BusinessDay Nigeria (Human Capital & Enterprise Intelligence)",
+      "last_check": "2026-08-24T22:47:56.475474+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='businessday.ng', port=443): Max retries exceeded with url: /feed/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106364340>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "african_management_institute": {
+      "name": "African Management Institute (Workforce Capability)",
+      "last_check": "2026-08-24T22:47:56.477291+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.africanmanagers.org', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106364190>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
     }
   }
 }

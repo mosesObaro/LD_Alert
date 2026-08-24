@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "last_updated": "2026-08-24T22:47:43.913226+00:00",
+=======
+  "last_updated": "2026-08-24T22:47:56.534171+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
   "last_updated_lagos": "Monday, 24 August 2026 | 11:47 PM WAT",
   "user": {
     "name": "Emuesiri Jessica Agbabune",
@@ -7,8 +11,12 @@
     "current_role": "Head / Learning & Development Manager",
     "organization": "TD Africa",
     "country": "Nigeria",
+<<<<<<< HEAD
     "timezone": "Africa/Lagos",
     "email": "emuesirijessica@gmail.com}"
+=======
+    "timezone": "Africa/Lagos"
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
   },
   "career_progression": {
     "current_stage": "Stage 3: Strategic Learning & Capability Development",
@@ -31,15 +39,26 @@
       "provider": "OpenLearn - The Open University (Free Certified Learning)",
       "type": "Course",
       "url": "https://www.open.edu/openlearn/money-business/leadership-management/developing-leadership-practice/content-section-0",
+<<<<<<< HEAD
       "date_published": "2026-08-24T22:47:38.813273+00:00",
       "date_discovered": "2026-08-24T22:47:38.813273+00:00",
+=======
+      "date_published": "2026-08-24T22:47:56.442775+00:00",
+      "date_discovered": "2026-08-24T22:47:56.442775+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "duration": "15 hours (Self-paced)",
       "cost": "100% Free",
       "pricing_type": "Free Certified Course",
       "topics": [
+<<<<<<< HEAD
         "Leadership Development",
         "Executive Presence",
         "Adult Learning"
+=======
+        "Executive Presence",
+        "Adult Learning",
+        "Leadership Development"
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       ],
       "career_stage": "Stage 5: Enterprise Talent / Strategic HR Leadership",
       "relevance_score": 82.5,
@@ -72,15 +91,26 @@
       "provider": "MIT OpenCourseWare (Management & Leadership)",
       "type": "Course",
       "url": "https://ocw.mit.edu/courses/15-668-people-and-organizations-fall-2010",
+<<<<<<< HEAD
       "date_published": "2026-08-24T22:47:38.370632+00:00",
       "date_discovered": "2026-08-24T22:47:38.370632+00:00",
+=======
+      "date_published": "2026-08-24T22:47:56.433339+00:00",
+      "date_discovered": "2026-08-24T22:47:56.433339+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "duration": "Full Semester Courseware",
       "cost": "100% Free",
       "pricing_type": "Free Content",
       "topics": [
+<<<<<<< HEAD
         "Organizational Development",
         "Strategic HR",
         "Talent Management"
+=======
+        "Strategic HR",
+        "Talent Management",
+        "Organizational Development"
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
       "relevance_score": 86.2,
@@ -113,16 +143,28 @@
       "provider": "IBM SkillsBuild (Free Tech & Professional Capability)",
       "type": "Course",
       "url": "https://skillsbuild.org/students/course-catalog/artificial-intelligence",
+<<<<<<< HEAD
       "date_published": "2026-08-24T22:47:39.629196+00:00",
       "date_discovered": "2026-08-24T22:47:39.629196+00:00",
+=======
+      "date_published": "2026-08-24T22:47:56.454067+00:00",
+      "date_discovered": "2026-08-24T22:47:56.454067+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "duration": "2.5 hours",
       "cost": "100% Free",
       "pricing_type": "Free Certified Course",
       "topics": [
+<<<<<<< HEAD
         "AI Governance",
         "Digital HR",
         "AI for HR",
         "Future of Work & AI"
+=======
+        "Future of Work & AI",
+        "AI for HR",
+        "Digital HR",
+        "AI Governance"
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       ],
       "career_stage": "Stage 1: L&D Foundations",
       "relevance_score": 85.8,
@@ -656,15 +698,26 @@
       "provider": "MIT OpenCourseWare (Management & Leadership)",
       "type": "Course",
       "url": "https://ocw.mit.edu/courses/15-668-people-and-organizations-fall-2010",
+<<<<<<< HEAD
       "date_published": "2026-08-24T22:47:38.370632+00:00",
       "date_discovered": "2026-08-24T22:47:38.370632+00:00",
+=======
+      "date_published": "2026-08-24T22:47:56.433339+00:00",
+      "date_discovered": "2026-08-24T22:47:56.433339+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "duration": "Full Semester Courseware",
       "cost": "100% Free",
       "pricing_type": "Free Content",
       "topics": [
+<<<<<<< HEAD
         "Organizational Development",
         "Strategic HR",
         "Talent Management"
+=======
+        "Strategic HR",
+        "Talent Management",
+        "Organizational Development"
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
       "relevance_score": 86.2,
@@ -697,16 +750,28 @@
       "provider": "IBM SkillsBuild (Free Tech & Professional Capability)",
       "type": "Course",
       "url": "https://skillsbuild.org/students/course-catalog/artificial-intelligence",
+<<<<<<< HEAD
       "date_published": "2026-08-24T22:47:39.629196+00:00",
       "date_discovered": "2026-08-24T22:47:39.629196+00:00",
+=======
+      "date_published": "2026-08-24T22:47:56.454067+00:00",
+      "date_discovered": "2026-08-24T22:47:56.454067+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "duration": "2.5 hours",
       "cost": "100% Free",
       "pricing_type": "Free Certified Course",
       "topics": [
+<<<<<<< HEAD
         "AI Governance",
         "Digital HR",
         "AI for HR",
         "Future of Work & AI"
+=======
+        "Future of Work & AI",
+        "AI for HR",
+        "Digital HR",
+        "AI Governance"
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       ],
       "career_stage": "Stage 1: L&D Foundations",
       "relevance_score": 85.8,
@@ -739,16 +804,28 @@
       "provider": "Coursera Free Audit Catalog (L&D, HR, People Analytics)",
       "type": "Course",
       "url": "https://www.coursera.org/learn/talent-management",
+<<<<<<< HEAD
       "date_published": "2026-08-24T22:47:39.360472+00:00",
       "date_discovered": "2026-08-24T22:47:39.360472+00:00",
+=======
+      "date_published": "2026-08-24T22:47:56.447660+00:00",
+      "date_discovered": "2026-08-24T22:47:56.447660+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "duration": "4 weeks (Free to audit lectures and readings)",
       "cost": "Course content: Free to audit (Certificate: Paid)",
       "pricing_type": "Course content: Free to audit (Certificate: Paid)",
       "topics": [
+<<<<<<< HEAD
         "Succession Planning",
         "Talent Reviews",
         "Nine-Box Grid",
         "Talent Management"
+=======
+        "Talent Management",
+        "Talent Reviews",
+        "Succession Planning",
+        "Nine-Box Grid"
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
       "relevance_score": 85.0,
@@ -868,14 +945,19 @@
       "provider": "Microsoft Learn - AI, Digital Skills & Copilot for Workplace",
       "type": "Course",
       "url": "https://learn.microsoft.com/en-us/training/paths/create-use-analytics-reports-power-bi",
+<<<<<<< HEAD
       "date_published": "2026-08-24T22:47:39.363023+00:00",
       "date_discovered": "2026-08-24T22:47:39.363023+00:00",
+=======
+      "date_published": "2026-08-24T22:47:56.450710+00:00",
+      "date_discovered": "2026-08-24T22:47:56.450710+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "duration": "3 hours",
       "cost": "100% Free",
       "pricing_type": "Free Certified Course",
       "topics": [
-        "L&D Dashboards",
         "Learning Analytics",
+        "L&D Dashboards",
         "People Analytics"
       ],
       "career_stage": "Stage 5: Enterprise Talent / Strategic HR Leadership",
@@ -909,16 +991,28 @@
       "provider": "Coursera Free Audit Catalog (L&D, HR, People Analytics)",
       "type": "Course",
       "url": "https://www.coursera.org/learn/wharton-people-analytics",
+<<<<<<< HEAD
       "date_published": "2026-08-24T22:47:39.360472+00:00",
       "date_discovered": "2026-08-24T22:47:39.360472+00:00",
+=======
+      "date_published": "2026-08-24T22:47:56.447660+00:00",
+      "date_discovered": "2026-08-24T22:47:56.447660+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "duration": "4 weeks (Free to audit)",
       "cost": "Course content: Free to audit (Certificate: Paid)",
       "pricing_type": "Course content: Free to audit (Certificate: Paid)",
       "topics": [
+<<<<<<< HEAD
         "Talent Development",
         "Workforce Planning",
         "Learning Analytics",
         "People Analytics"
+=======
+        "Learning Analytics",
+        "People Analytics",
+        "Workforce Planning",
+        "Talent Development"
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       ],
       "career_stage": "Stage 3: Strategic Learning & Capability Development",
       "relevance_score": 83.5,
@@ -951,15 +1045,26 @@
       "provider": "OpenLearn - The Open University (Free Certified Learning)",
       "type": "Course",
       "url": "https://www.open.edu/openlearn/money-business/leadership-management/developing-leadership-practice/content-section-0",
+<<<<<<< HEAD
       "date_published": "2026-08-24T22:47:38.813273+00:00",
       "date_discovered": "2026-08-24T22:47:38.813273+00:00",
+=======
+      "date_published": "2026-08-24T22:47:56.442775+00:00",
+      "date_discovered": "2026-08-24T22:47:56.442775+00:00",
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       "duration": "15 hours (Self-paced)",
       "cost": "100% Free",
       "pricing_type": "Free Certified Course",
       "topics": [
+<<<<<<< HEAD
         "Leadership Development",
         "Executive Presence",
         "Adult Learning"
+=======
+        "Executive Presence",
+        "Adult Learning",
+        "Leadership Development"
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
       ],
       "career_stage": "Stage 5: Enterprise Talent / Strategic HR Leadership",
       "relevance_score": 82.5,
@@ -986,6 +1091,92 @@
         "depth_value": 90.0,
         "total_score": 82.5
       }
+<<<<<<< HEAD
+=======
+    },
+    {
+      "title": "Empower Workforce Productivity with Microsoft 365 Copilot & AI",
+      "provider": "Microsoft Learn - AI, Digital Skills & Copilot for Workplace",
+      "type": "Course",
+      "url": "https://learn.microsoft.com/en-us/training/modules/empower-workforce-copilot",
+      "date_published": "2026-08-24T22:47:56.450710+00:00",
+      "date_discovered": "2026-08-24T22:47:56.450710+00:00",
+      "duration": "1 hour module",
+      "cost": "100% Free",
+      "pricing_type": "Free Certified Course",
+      "topics": [
+        "Future of Work & AI",
+        "AI for HR",
+        "Digital HR",
+        "Generative AI"
+      ],
+      "career_stage": "Stage 1: L&D Foundations",
+      "relevance_score": 76.8,
+      "free": true,
+      "summary": "Practical training on leveraging AI assistants to streamline workplace workflows, synthesize HR documents, and accelerate learning.",
+      "why_relevant": "Directly applicable to TD Africa AI Academy and modern digital HR workflow design.",
+      "td_africa_application": "",
+      "practical_application": "",
+      "free_alternative": null,
+      "status": "NOT STARTED",
+      "difficulty": "Intermediate",
+      "event_date": null,
+      "registration_deadline": null,
+      "location": "Virtual / Online",
+      "speaker_or_author": null,
+      "canonical_hash": "6c56f99e711ff9bcb9d48d241a67609ff4cc48f5ef4404fadc2ce1ded2f9a87c",
+      "score_breakdown": {
+        "career_relevance": 90.0,
+        "practical_ld_relevance": 50.0,
+        "talent_management": 40.0,
+        "quality_credibility": 95.0,
+        "free_accessibility": 100.0,
+        "recency": 100.0,
+        "depth_value": 90.0,
+        "total_score": 76.8
+      }
+    },
+    {
+      "title": "Leading Organizational Change (Columbia University)",
+      "provider": "edX Free Audit Courseware (MIT, Harvard, Wharton, Columbia)",
+      "type": "Course",
+      "url": "https://www.edx.org/learn/business-administration/columbia-university-leading-organizational-change",
+      "date_published": "2026-08-24T22:47:56.449521+00:00",
+      "date_discovered": "2026-08-24T22:47:56.449521+00:00",
+      "duration": "4 weeks (Free to audit)",
+      "cost": "Course content: Free to audit (Certificate: Paid)",
+      "pricing_type": "Course content: Free to audit (Certificate: Paid)",
+      "topics": [
+        "Change Management",
+        "Leadership",
+        "Organizational Development"
+      ],
+      "career_stage": "Stage 2: Effective L&D Management",
+      "relevance_score": 75.5,
+      "free": true,
+      "summary": "Columbia University framework for diagnosing organizational friction, architecting change coalitions, and sustaining new behaviors.",
+      "why_relevant": "Essential executive capability for driving enterprise-wide LMS adoption and learning culture shifts.",
+      "td_africa_application": "",
+      "practical_application": "",
+      "free_alternative": null,
+      "status": "NOT STARTED",
+      "difficulty": "Intermediate",
+      "event_date": null,
+      "registration_deadline": null,
+      "location": "Virtual / Online",
+      "speaker_or_author": null,
+      "canonical_hash": "1e496e0b11418434391dd31b410bc5d688b9213b591efb07a134f82ca3e81df7",
+      "score_breakdown": {
+        "career_relevance": 90.0,
+        "practical_ld_relevance": 50.0,
+        "talent_management": 40.0,
+        "quality_credibility": 90.0,
+        "free_accessibility": 95.0,
+        "recency": 100.0,
+        "depth_value": 90.0,
+        "total_score": 75.5
+      }
+>>>>>>> a9f82d4 (chore: sanitize personal emails and ensure privacy in public files)
     }
   ]
 }

@@ -78,10 +78,13 @@ class DashboardGenerator:
                 "next_action": weekly_plan.next_action
             }
 
+        user_info = dict(profile.get("user", {}))
+        user_info.pop("email", None)  # Omit private email from public dashboard JSON
+
         payload = {
             "last_updated": to_iso_string(),
             "last_updated_lagos": format_lagos_time(),
-            "user": profile.get("user", {}),
+            "user": user_info,
             "career_progression": profile.get("career_progression", {}),
             "weekly_plan": plan_dict,
             "competencies": [c.to_dict() for c in competencies],
