@@ -1,6 +1,44 @@
 {
-  "last_updated": "2026-08-24T00:00:00Z",
-  "total_seen": 0,
-  "seen_urls": {},
-  "seen_hashes": {}
+  "last_updated": "2026-08-24T22:31:12.142561+00:00",
+  "total_seen": 3,
+  "seen_urls": {
+    "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0": {
+      "title": "Workplace Learning and Capability Development",
+      "provider": "OpenLearn - The Open University (Free Certified Learning)",
+      "date_seen": "2026-08-24T22:31:12.142391+00:00",
+      "score": 92.5,
+      "doi": null
+    },
+    "https://ocw.mit.edu/courses/15-668-people-and-organizations-fall-2010": {
+      "title": "People and Organizations (MIT Sloan Management)",
+      "provider": "MIT OpenCourseWare (Management & Leadership)",
+      "date_seen": "2026-08-24T22:31:12.142456+00:00",
+      "score": 86.2,
+      "doi": null
+    },
+    "https://skillsbuild.org/students/course-catalog/artificial-intelligence": {
+      "title": "Artificial Intelligence Fundamentals & Responsible AI",
+      "provider": "IBM SkillsBuild (Free Tech & Professional Capability)",
+      "date_seen": "2026-08-24T22:31:12.142517+00:00",
+      "score": 85.8,
+      "doi": null
+    }
+  },
+  "seen_hashes": {
+    "28eaff8294a6001fa05c3493611cb392b5da9ede4be32f68c918609d61eaff7a": {
+      "title": "Workplace Learning and Capability Development",
+      "url": "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0",
+      "date_seen": "2026-08-24T22:31:12.142391+00:00"
+    },
+    "e1854cb50a989b71b7fd19b501a54504390eacbc740263a59e6432b18ce7dfff": {
+      "title": "People and Organizations (MIT Sloan Management)",
+      "url": "https://ocw.mit.edu/courses/15-668-people-and-organizations-fall-2010",
+      "date_seen": "2026-08-24T22:31:12.142456+00:00"
+    },
+    "23fcea98efbbc0b89f7b240616956c0ba29638910f135042712718088b00ec97": {
+      "title": "Artificial Intelligence Fundamentals & Responsible AI",
+      "url": "https://skillsbuild.org/students/course-catalog/artificial-intelligence",
+      "date_seen": "2026-08-24T22:31:12.142517+00:00"
+    }
+  }
 }

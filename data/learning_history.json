@@ -1,15 +1,81 @@
 {
   "user": "Emuesiri Jessica Agbabune",
-  "last_updated": "2026-08-24T00:00:00Z",
+  "last_updated": "2026-08-24T22:31:12.142748+00:00",
   "summary": {
-    "total_recommended": 0,
+    "total_recommended": 3,
     "completed": 0,
     "in_progress": 0,
     "applied": 0,
     "skipped": 0,
     "total_learning_minutes": 0
   },
-  "history": [],
+  "history": [
+    {
+      "title": "Workplace Learning and Capability Development",
+      "provider": "OpenLearn - The Open University (Free Certified Learning)",
+      "url": "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0",
+      "type": "Course",
+      "pricing_type": "Free Certified Course",
+      "topics": [
+        "Talent Development",
+        "Learning Culture",
+        "Adult Learning",
+        "L&D Strategy"
+      ],
+      "career_stage": "Stage 3: Strategic Learning & Capability Development",
+      "relevance_score": 92.5,
+      "week_recommended": 35,
+      "date_recommended": "2026-08-24T22:31:12.142425+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "People and Organizations (MIT Sloan Management)",
+      "provider": "MIT OpenCourseWare (Management & Leadership)",
+      "url": "https://ocw.mit.edu/courses/15-668-people-and-organizations-fall-2010",
+      "type": "Course",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Talent Management",
+        "Strategic HR",
+        "Organizational Development"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 86.2,
+      "week_recommended": 35,
+      "date_recommended": "2026-08-24T22:31:12.142485+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "Artificial Intelligence Fundamentals & Responsible AI",
+      "provider": "IBM SkillsBuild (Free Tech & Professional Capability)",
+      "url": "https://skillsbuild.org/students/course-catalog/artificial-intelligence",
+      "type": "Course",
+      "pricing_type": "Free Certified Course",
+      "topics": [
+        "Digital HR",
+        "AI Governance",
+        "Future of Work & AI",
+        "AI for HR"
+      ],
+      "career_stage": "Stage 1: L&D Foundations",
+      "relevance_score": 85.8,
+      "week_recommended": 35,
+      "date_recommended": "2026-08-24T22:31:12.142555+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    }
+  ],
   "feedback_penalties": {
     "skipped_topics": {},
     "skipped_providers": {},

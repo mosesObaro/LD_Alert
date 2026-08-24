@@ -1,180 +1,180 @@
 {
-  "last_check": "2026-08-24T21:14:00.533734+00:00",
+  "last_check": "2026-08-24T22:31:12.141727+00:00",
   "sources": {
     "cipd_news": {
       "name": "CIPD (Chartered Institute of Personnel and Development)",
-      "last_check": "2026-08-24T21:14:00.479096+00:00",
+      "last_check": "2026-08-24T22:31:03.988131+00:00",
       "status": "ERROR",
       "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.cipd.org', port=443): Max retries exceeded with url: /uk/knowledge/rss/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.cipd.org', port=443): Failed to resolve 'www.cipd.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.cipd.org/uk/knowledge/rss/"
     },
     "cipm_nigeria": {
       "name": "CIPM Nigeria (Chartered Institute of Personnel Management of Nigeria)",
-      "last_check": "2026-08-24T21:14:00.481546+00:00",
+      "last_check": "2026-08-24T22:31:04.022803+00:00",
       "status": "ERROR",
       "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='cipmnigeria.net', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='cipmnigeria.net', port=443): Failed to resolve 'cipmnigeria.net' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "error": "ConnectionError: HTTPSConnectionPool(host='cipmnigeria.net', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='cipmnigeria.net', port=443): Failed to resolve 'cipmnigeria.net' ([Errno -2] Name or service not known)\"))"
     },
     "shrm_insights": {
       "name": "SHRM (Society for Human Resource Management)",
-      "last_check": "2026-08-24T21:14:00.483273+00:00",
+      "last_check": "2026-08-24T22:31:04.433987+00:00",
       "status": "ERROR",
       "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.shrm.org', port=443): Max retries exceeded with url: /rss/hr-news.xml (Caused by NameResolutionError(\"HTTPSConnection(host='www.shrm.org', port=443): Failed to resolve 'www.shrm.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.shrm.org/rss/hr-news.xml"
     },
     "atd_blog": {
       "name": "ATD (Association for Talent Development)",
-      "last_check": "2026-08-24T21:14:00.484993+00:00",
+      "last_check": "2026-08-24T22:31:04.963537+00:00",
       "status": "ERROR",
       "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.td.org', port=443): Max retries exceeded with url: /rss/insights (Caused by NameResolutionError(\"HTTPSConnection(host='www.td.org', port=443): Failed to resolve 'www.td.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.td.org/rss/insights"
     },
     "hci_research": {
       "name": "Human Capital Institute (HCI)",
-      "last_check": "2026-08-24T21:14:00.487584+00:00",
+      "last_check": "2026-08-24T22:31:05.932276+00:00",
       "status": "ERROR",
       "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.hci.org', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='www.hci.org', port=443): Failed to resolve 'www.hci.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.hci.org/feed"
     },
     "mit_ocw": {
       "name": "MIT OpenCourseWare (Management & Leadership)",
-      "last_check": "2026-08-24T21:14:00.489981+00:00",
+      "last_check": "2026-08-24T22:31:06.120230+00:00",
       "status": "HEALTHY",
       "items_found": 1,
       "error": ""
     },
     "harvard_online_free": {
       "name": "Harvard Online Free Learning & Lectures",
-      "last_check": "2026-08-24T21:14:00.495713+00:00",
+      "last_check": "2026-08-24T22:31:06.431648+00:00",
       "status": "HEALTHY",
       "items_found": 1,
       "error": ""
     },
     "openlearn_ou": {
       "name": "OpenLearn - The Open University (Free Certified Learning)",
-      "last_check": "2026-08-24T21:14:00.498866+00:00",
+      "last_check": "2026-08-24T22:31:06.617336+00:00",
       "status": "HEALTHY",
       "items_found": 2,
       "error": ""
     },
     "stanford_online": {
       "name": "Stanford Online Free Webinars & Masterclasses",
-      "last_check": "2026-08-24T21:14:00.502198+00:00",
+      "last_check": "2026-08-24T22:31:06.853843+00:00",
       "status": "HEALTHY",
       "items_found": 0,
       "error": ""
     },
     "coursera_hr_ld": {
       "name": "Coursera Free Audit Catalog (L&D, HR, People Analytics)",
-      "last_check": "2026-08-24T21:14:00.502897+00:00",
+      "last_check": "2026-08-24T22:31:06.854363+00:00",
       "status": "HEALTHY",
       "items_found": 2,
       "error": ""
     },
     "edx_hr_leadership": {
       "name": "edX Free Audit Courseware (MIT, Harvard, Wharton, Columbia)",
-      "last_check": "2026-08-24T21:14:00.504438+00:00",
+      "last_check": "2026-08-24T22:31:06.856010+00:00",
       "status": "HEALTHY",
       "items_found": 1,
       "error": ""
     },
     "microsoft_learn_ai_hr": {
       "name": "Microsoft Learn - AI, Digital Skills & Copilot for Workplace",
-      "last_check": "2026-08-24T21:14:00.507149+00:00",
+      "last_check": "2026-08-24T22:31:07.025151+00:00",
       "status": "HEALTHY",
       "items_found": 2,
       "error": ""
     },
     "ibm_skillsbuild": {
       "name": "IBM SkillsBuild (Free Tech & Professional Capability)",
-      "last_check": "2026-08-24T21:14:00.508878+00:00",
+      "last_check": "2026-08-24T22:31:07.026723+00:00",
       "status": "HEALTHY",
       "items_found": 1,
       "error": ""
     },
     "saylor_academy": {
       "name": "Saylor Academy Free College-Level HR & Management",
-      "last_check": "2026-08-24T21:14:00.509923+00:00",
+      "last_check": "2026-08-24T22:31:07.027632+00:00",
       "status": "HEALTHY",
       "items_found": 0,
       "error": ""
     },
     "mckinsey_org": {
       "name": "McKinsey Organization & People Strategy Insights",
-      "last_check": "2026-08-24T21:14:00.511922+00:00",
-      "status": "ERROR",
-      "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Max retries exceeded with url: /insights/rss (Caused by NameResolutionError(\"HTTPSConnection(host='www.mckinsey.com', port=443): Failed to resolve 'www.mckinsey.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "last_check": "2026-08-24T22:31:07.388336+00:00",
+      "status": "HEALTHY",
+      "items_found": 25,
+      "error": ""
     },
     "deloitte_insights": {
       "name": "Deloitte Human Capital Trends & Research",
-      "last_check": "2026-08-24T21:14:00.514148+00:00",
+      "last_check": "2026-08-24T22:31:08.583982+00:00",
       "status": "ERROR",
       "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='www2.deloitte.com', port=443): Max retries exceeded with url: /us/en/insights/rss.xml (Caused by NameResolutionError(\"HTTPSConnection(host='www2.deloitte.com', port=443): Failed to resolve 'www2.deloitte.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.deloitte.com/us/en/insights/rss.xml"
     },
     "wef_future_of_jobs": {
       "name": "World Economic Forum - Centre for the New Economy & Society",
-      "last_check": "2026-08-24T21:14:00.516280+00:00",
+      "last_check": "2026-08-24T22:31:08.985517+00:00",
       "status": "ERROR",
       "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.weforum.org', port=443): Max retries exceeded with url: /agenda/rss (Caused by NameResolutionError(\"HTTPSConnection(host='www.weforum.org', port=443): Failed to resolve 'www.weforum.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/rss"
     },
     "hbr_talent_ld": {
       "name": "Harvard Business Review (Managing People & Learning)",
-      "last_check": "2026-08-24T21:14:00.518470+00:00",
+      "last_check": "2026-08-24T22:31:09.231098+00:00",
       "status": "ERROR",
       "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='feeds.hbr.org', port=443): Max retries exceeded with url: /harvardbusiness (Caused by NameResolutionError(\"HTTPSConnection(host='feeds.hbr.org', port=443): Failed to resolve 'feeds.hbr.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "error": "SSLError: HTTPSConnectionPool(host='feeds.hbr.org', port=443): Max retries exceeded with url: /harvardbusiness (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
     },
     "mit_sloan_review": {
       "name": "MIT Sloan Management Review (Workforce & AI)",
-      "last_check": "2026-08-24T21:14:00.520691+00:00",
-      "status": "ERROR",
-      "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='sloanreview.mit.edu', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='sloanreview.mit.edu', port=443): Failed to resolve 'sloanreview.mit.edu' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "last_check": "2026-08-24T22:31:09.607300+00:00",
+      "status": "HEALTHY",
+      "items_found": 20,
+      "error": ""
     },
     "yt_stanford_gsb": {
       "name": "Stanford Graduate School of Business (Public Lectures)",
-      "last_check": "2026-08-24T21:14:00.522882+00:00",
+      "last_check": "2026-08-24T22:31:09.994237+00:00",
       "status": "ERROR",
       "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /feeds/videos.xml?channel_id=UC0PnXmF81nO9q5vV4i7lYpw (Caused by NameResolutionError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC0PnXmF81nO9q5vV4i7lYpw"
     },
     "yt_harvard_business": {
       "name": "Harvard Business School & HBR Channel",
-      "last_check": "2026-08-24T21:14:00.525348+00:00",
+      "last_check": "2026-08-24T22:31:10.349785+00:00",
       "status": "ERROR",
       "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /feeds/videos.xml?channel_id=UCqZXz0lKqC8W9HrkG7iGzKw (Caused by NameResolutionError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqZXz0lKqC8W9HrkG7iGzKw"
     },
     "yt_mit_sloan": {
       "name": "MIT Sloan School of Management",
-      "last_check": "2026-08-24T21:14:00.527650+00:00",
+      "last_check": "2026-08-24T22:31:10.683895+00:00",
       "status": "ERROR",
       "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /feeds/videos.xml?channel_id=UC3B7W2yZkI6I8uDq3p5Uo7A (Caused by NameResolutionError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC3B7W2yZkI6I8uDq3p5Uo7A"
     },
     "yt_aihr": {
       "name": "Academy to Innovate HR (AIHR Public Masterclasses)",
-      "last_check": "2026-08-24T21:14:00.529777+00:00",
+      "last_check": "2026-08-24T22:31:11.017434+00:00",
       "status": "ERROR",
       "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /feeds/videos.xml?channel_id=UC2K3I6e7f_FhLpP7eF8vVXA (Caused by NameResolutionError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC2K3I6e7f_FhLpP7eF8vVXA"
     },
     "businessday_hr": {
       "name": "BusinessDay Nigeria (Human Capital & Enterprise Intelligence)",
-      "last_check": "2026-08-24T21:14:00.531709+00:00",
-      "status": "ERROR",
-      "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='businessday.ng', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='businessday.ng', port=443): Failed to resolve 'businessday.ng' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "last_check": "2026-08-24T22:31:11.232615+00:00",
+      "status": "HEALTHY",
+      "items_found": 5,
+      "error": ""
     },
     "african_management_institute": {
       "name": "African Management Institute (Workforce Capability)",
-      "last_check": "2026-08-24T21:14:00.533729+00:00",
-      "status": "ERROR",
+      "last_check": "2026-08-24T22:31:12.141722+00:00",
+      "status": "HEALTHY",
       "items_found": 0,
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.africanmanagers.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.africanmanagers.org', port=443): Failed to resolve 'www.africanmanagers.org' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "error": ""
     }
   }
 }
