@@ -1,0 +1,26 @@
+{
+  "user": "Emuesiri Jessica Agbabune",
+  "last_updated": "2026-08-24T00:00:00Z",
+  "artifacts": [
+    {
+      "id": "artifact_tna_blueprint",
+      "title": "TD Africa Enterprise TNA Framework & Audit Instrument",
+      "category": "Learning & Development",
+      "competencies": ["tna", "ld_strategy"],
+      "status": "COMPLETED",
+      "date_created": "2026-07-15",
+      "file_reference": "portfolio/tna_framework.pdf",
+      "impact_summary": "Standardized annual skill-gap assessment across 6 departments at TD Africa."
+    },
+    {
+      "id": "artifact_microlearning_spark",
+      "title": "SIMBA Spark Microlearning Architecture & Engagement Playbook",
+      "category": "Digital HR & Capability",
+      "competencies": ["digital_hr", "adult_learning"],
+      "status": "COMPLETED",
+      "date_created": "2026-08-01",
+      "file_reference": "portfolio/simba_spark_playbook.pdf",
+      "impact_summary": "Increased weekly active learning adoption through structured byte-sized modules."
+    }
+  ]
+}

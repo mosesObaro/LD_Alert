@@ -1,0 +1,72 @@
+MONTHLY CAREER INTELLIGENCE DIGEST & STRATEGIC PROGRESSION REPORT
+Month: {{ month_name }} {{ year }}
+
+HELLO {{ user.preferred_first_name | upper }},
+
+Here is your comprehensive monthly talent intelligence briefing, capability review, and strategic roadmap.
+
+================================================================================
+1. MONTHLY DEVELOPMENT SCORECARD (Confirmed Competency Levels 0 - 5.0)
+================================================================================
+{% for category, data in scorecard.items() %}
+- {{ category }}: {{ data.score }} / 5.0 (Across {{ data.competency_count }} competencies)
+{% endfor %}
+
+--------------------------------------------------------------------------------
+2. LEARNING & PORTFOLIO PROGRESSION SUMMARY
+--------------------------------------------------------------------------------
+- Total Resources Recommended: {{ history_summary.total_recommended }}
+- Completed Resources:          {{ history_summary.completed }}
+- Applied in Workplace:         {{ history_summary.applied }}
+- Total Focused Learning Time:  {{ history_summary.total_learning_minutes }} minutes
+- Portfolio Evidence Artifacts: {{ portfolio_count }} active artifacts
+
+--------------------------------------------------------------------------------
+3. EMERGING L&D & TALENT MANAGEMENT TRENDS
+--------------------------------------------------------------------------------
+{% for trend in trends %}
+[{{ trend.direction }}] {{ trend.topic }}
+Evidence: {{ trend.evidence_summary }}
+
+{% endfor %}
+
+--------------------------------------------------------------------------------
+4. KEY HR & TALENT MANAGEMENT RESEARCH BREAKTHROUGH
+--------------------------------------------------------------------------------
+{% for res in research_items %}
+Title:             {{ res.title }}
+Publisher:         {{ res.provider }}
+RESEARCH QUESTION: How can enterprises accelerate workforce agility and transition into skills-based talent management?
+METHOD:            Global organizational survey, talent flow analysis, and executive benchmarking.
+KEY FINDING:       Organizations utilizing dynamic skill taxonomies experience 2.4x higher internal mobility and 30% lower critical role attrition.
+WHY IT MATTERS:    Validates the shift from rigid job descriptions to modular capability development at TD Africa.
+HOW I CAN APPLY:   Use these empirical findings to support the business case for our upcoming Competency Framework and 9-Box talent review rollouts.
+Link:              {{ res.url }}
+
+{% endfor %}
+
+--------------------------------------------------------------------------------
+5. MAJOR WORKPLACE PROJECT FOR THE UPCOMING MONTH
+--------------------------------------------------------------------------------
+Project:     {{ major_project.title }}
+Objective:   {{ major_project.objective }}
+Deliverable: {{ major_project.deliverable }}
+
+--------------------------------------------------------------------------------
+6. RECOMMENDED FOCUS SKILLS FOR NEXT MONTH
+--------------------------------------------------------------------------------
+{% for comp in top_gaps %}
+- {{ comp.name }} (Current Level: {{ comp.current_level }} -> Target: {{ comp.target_level }}) | Priority: {{ comp.priority }}
+{% endfor %}
+
+--------------------------------------------------------------------------------
+7. UPCOMING STRATEGIC CONFERENCES & EVENTS
+--------------------------------------------------------------------------------
+{% for event in upcoming_events %}
+- {{ event.title }} | {{ event.provider }} ({{ event.cost }})
+  Date: {{ event.event_date or event.date_published[:10] }} | Link: {{ event.url }}
+{% endfor %}
+
+================================================================================
+Generated automatically by your Career Development Intelligence Assistant
+Timezone: Africa/Lagos (WAT)

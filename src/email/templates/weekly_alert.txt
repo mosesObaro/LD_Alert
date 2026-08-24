@@ -1,0 +1,116 @@
+HELLO {{ user.preferred_first_name | upper }},
+
+THIS WEEK'S DEVELOPMENT THEME:
+{{ plan.theme }}
+
+WHY THIS MATTERS:
+{{ plan.why_matters }}
+
+--------------------------------------------------------------------------------
+1. IMMEDIATE L&D SKILL
+--------------------------------------------------------------------------------
+Resource:    {{ plan.core_ld_resource.title }}
+Provider:    {{ plan.core_ld_resource.provider }}
+Type:        {{ plan.core_ld_resource.type }}
+Free/Paid:   {{ plan.core_ld_resource.cost }} ({{ plan.core_ld_resource.pricing_type }})
+Duration:    {{ plan.core_ld_resource.duration }}
+Date:        {{ plan.core_ld_resource.date_published[:10] }}
+Difficulty:  {{ plan.core_ld_resource.difficulty }}
+Link:        {{ plan.core_ld_resource.url }}
+
+What you will learn:
+{{ plan.core_ld_resource.summary }}
+
+Why this matters to your current role:
+{{ plan.core_ld_resource.why_relevant }}
+
+TD AFRICA APPLICATION:
+{{ plan.core_ld_resource.td_africa_application }}
+
+--------------------------------------------------------------------------------
+2. TALENT DEVELOPMENT / TALENT MANAGEMENT
+--------------------------------------------------------------------------------
+Resource:    {{ plan.core_talent_management_resource.title }}
+Provider:    {{ plan.core_talent_management_resource.provider }}
+Type:        {{ plan.core_talent_management_resource.type }}
+Free/Paid:   {{ plan.core_talent_management_resource.cost }} ({{ plan.core_talent_management_resource.pricing_type }})
+Duration:    {{ plan.core_talent_management_resource.duration }}
+Date:        {{ plan.core_talent_management_resource.date_published[:10] }}
+Link:        {{ plan.core_talent_management_resource.url }}
+
+What you will learn:
+{{ plan.core_talent_management_resource.summary }}
+
+Career relevance:
+{{ plan.core_talent_management_resource.why_relevant }}
+
+PRACTICAL APPLICATION:
+{{ plan.core_talent_management_resource.practical_application }}
+
+{% if plan.core_talent_management_resource.free_alternative %}
+FREE ALTERNATIVE:
+{{ plan.core_talent_management_resource.free_alternative.title }} - {{ plan.core_talent_management_resource.free_alternative.url }}
+{% endif %}
+
+--------------------------------------------------------------------------------
+3. BROADER HR / BUSINESS / DIGITAL SKILL
+--------------------------------------------------------------------------------
+Resource:    {{ plan.core_broader_skill_resource.title }}
+Provider:    {{ plan.core_broader_skill_resource.provider }}
+Type:        {{ plan.core_broader_skill_resource.type }}
+Free/Paid:   {{ plan.core_broader_skill_resource.cost }} ({{ plan.core_broader_skill_resource.pricing_type }})
+Duration:    {{ plan.core_broader_skill_resource.duration }}
+Date:        {{ plan.core_broader_skill_resource.date_published[:10] }}
+Link:        {{ plan.core_broader_skill_resource.url }}
+
+What you will learn:
+{{ plan.core_broader_skill_resource.summary }}
+
+Career relevance:
+{{ plan.core_broader_skill_resource.why_relevant }}
+
+--------------------------------------------------------------------------------
+THIS WEEK'S PRACTICAL CHALLENGE
+--------------------------------------------------------------------------------
+{{ plan.practical_challenge.title }} (Estimated Time: {{ plan.practical_challenge.estimated_time_minutes }} mins)
+
+Instructions:
+{{ plan.practical_challenge.instructions }}
+
+Deliverable:
+{{ plan.practical_challenge.deliverable }}
+
+--------------------------------------------------------------------------------
+PORTFOLIO EVIDENCE
+--------------------------------------------------------------------------------
+Artifact:    {{ plan.portfolio_evidence.artifact_type }}
+Description: {{ plan.portfolio_evidence.description }}
+Templates:   {{ plan.portfolio_evidence.example_templates | join(', ') }}
+
+--------------------------------------------------------------------------------
+REFLECTION
+--------------------------------------------------------------------------------
+1. {{ plan.reflection_questions[0] }}
+2. {{ plan.reflection_questions[1] }}
+3. {{ plan.reflection_questions[2] }}
+
+--------------------------------------------------------------------------------
+NEXT ACTION
+--------------------------------------------------------------------------------
+{{ plan.next_action }}
+
+================================================================================
+THIS WEEK'S 3 ACTIONS
+================================================================================
+1. Learn:
+   {{ plan.three_actions.learn }}
+
+2. Apply:
+   {{ plan.three_actions.apply }}
+
+3. Capture:
+   {{ plan.three_actions.capture }}
+
+--------------------------------------------------------------------------------
+Generated automatically by your Career Development Intelligence Assistant
+Timezone: Africa/Lagos (WAT) | Total Recommended Core Time: {{ plan.total_learning_time_minutes }} mins

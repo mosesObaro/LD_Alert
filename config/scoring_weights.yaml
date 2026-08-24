@@ -1,0 +1,33 @@
+# ==============================================================================
+# Relevance & Scoring Weights Configuration (0 - 100 Scale)
+# ==============================================================================
+
+weights:
+  career_relevance: 0.25           # Talent Development, Talent Management, Strategic HR
+  practical_ld_relevance: 0.20     # Direct application to current Head/L&D Manager role at TD Africa
+  talent_management: 0.15          # Succession planning, 9-box, talent reviews, competency frameworks
+  quality_credibility: 0.15        # Tier 1 (Universities, Professional bodies, WEF, McKinsey) vs Tier 2/3
+  free_accessibility: 0.10         # 100% Free / Free-audit = 100; Paid without free alt = low
+  recency: 0.05                    # < 7 days = 100, < 30 days = 85, < 90 days = 70, evergreen = 75
+  depth_value: 0.10                # Structured masterclass / deep framework vs superficial blog
+
+thresholds:
+  critical: 90                     # Send immediately or place at top of weekly alert
+  high: 80                         # Main weekly alert recommendations
+  good: 70                         # Secondary / optional recommendations if space permits
+  low: 60                          # Stored in archive / memory, but excluded from alerts
+  ignore: 0                        # Discarded immediately
+
+tier_scores:
+  tier_1: 95                       # CIPD, CIPM, SHRM, ATD, Harvard, MIT, Stanford, McKinsey, WEF
+  tier_2: 85                       # Coursera, edX, OpenLearn, Microsoft Learn, IBM, Deloitte, HBR
+  tier_3: 70                       # Established independent educators, niche HR blogs
+  tier_4: 35                       # Unverified web sources
+
+pricing_scores:
+  free_content: 100
+  free_audit: 95
+  free_event: 100
+  free_certificate: 100
+  paid_content: 30
+  paid_certificate: 70

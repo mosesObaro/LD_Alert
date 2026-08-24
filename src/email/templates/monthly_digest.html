@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Monthly Career Intelligence Digest &bull; {{ month_name }} {{ year }}</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #1e293b; background-color: #f8fafc; margin: 0; padding: 20px; }
+    .container { max-width: 700px; margin: 0 auto; background: #ffffff; border-radius: 12px; overflow: hidden; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
+    .header { background: linear-gradient(135deg, #047857 0%, #065f46 100%); color: #ffffff; padding: 32px 28px; }
+    .header h1 { margin: 0 0 6px 0; font-size: 22px; font-weight: 700; }
+    .content { padding: 24px; }
+    .section-title { font-size: 16px; font-weight: 700; color: #065f46; text-transform: uppercase; border-bottom: 2px solid #e2e8f0; padding-bottom: 6px; margin: 24px 0 14px 0; }
+    .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-bottom: 20px; }
+    .score-card { background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px; padding: 12px 16px; }
+    .score-card .title { font-size: 13px; color: #166534; font-weight: 600; }
+    .score-card .score { font-size: 20px; font-weight: 700; color: #047857; margin-top: 4px; }
+    .trend-badge { display: inline-block; padding: 2px 8px; font-size: 11px; font-weight: 700; border-radius: 4px; text-transform: uppercase; }
+    .trend-inc { background: #dcfce7; color: #166534; }
+    .trend-dec { background: #fee2e2; color: #991b1b; }
+    .trend-emg { background: #fef3c7; color: #92400e; }
+    .card { background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; margin-bottom: 14px; }
+    .footer { background: #f1f5f9; padding: 20px; font-size: 12px; color: #64748b; text-align: center; border-top: 1px solid #e2e8f0; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div style="font-size: 13px; text-transform: uppercase; letter-spacing: 1px; color: #a7f3d0; font-weight: 600;">Monthly Strategic Intelligence Briefing</div>
+      <h1>CAREER DEVELOPMENT SCORECARD &bull; {{ month_name | upper }} {{ year }}</h1>
+      <p style="margin: 0; font-size: 14px; opacity: 0.9;">Emuesiri Jessica Agbabune | Head / L&D Manager (TD Africa)</p>
+    </div>
+    <div class="content">
+      <div class="section-title">1. Monthly Development Scorecard (0 &ndash; 5.0 Scale)</div>
+      <div class="grid">
+        {% for category, data in scorecard.items() %}
+        <div class="score-card">
+          <div class="title">{{ category }}</div>
+          <div class="score">{{ data.score }} <span style="font-size: 13px; font-weight: 400; color: #64748b;">/ 5.0</span></div>
+        </div>
+        {% endfor %}
+      </div>
+
+      <div class="section-title">2. Emerging L&D & Talent Management Trends</div>
+      {% for trend in trends %}
+      <div class="card">
+        <div style="margin-bottom: 6px;">
+          <span class="trend-badge {% if trend.direction == 'INCREASING' %}trend-inc{% elif trend.direction == 'DECLINING' %}trend-dec{% else %}trend-emg{% endif %}">
+            {{ trend.direction }}
+          </span>
+          <strong style="margin-left: 8px; font-size: 15px; color: #0f172a;">{{ trend.topic }}</strong>
+        </div>
+        <p style="margin: 0; font-size: 13px; color: #475569;">{{ trend.evidence_summary }}</p>
+      </div>
+      {% endfor %}
+
+      <div class="section-title">3. Key HR & Talent Management Research Deep Dive</div>
+      {% for res in research_items %}
+      <div class="card" style="background: #f8fafc;">
+        <h4 style="margin: 0 0 6px 0; font-size: 15px; color: #0f172a;">{{ res.title }}</h4>
+        <div style="font-size: 12px; color: #64748b; margin-bottom: 12px;">Publisher: <strong>{{ res.provider }}</strong></div>
+        <div style="font-size: 13px; margin-bottom: 6px;"><strong>RESEARCH QUESTION:</strong> How can enterprises accelerate workforce agility and transition into skills-based talent management?</div>
+        <div style="font-size: 13px; margin-bottom: 6px;"><strong>METHOD:</strong> Global organizational survey, talent flow analysis, and executive benchmarking.</div>
+        <div style="font-size: 13px; margin-bottom: 6px;"><strong>KEY FINDING:</strong> Organizations utilizing dynamic skill taxonomies experience 2.4x higher internal mobility and 30% lower critical role attrition.</div>
+        <div style="font-size: 13px; margin-bottom: 6px;"><strong>WHY IT MATTERS:</strong> Validates the shift from rigid job descriptions to modular capability development at TD Africa.</div>
+        <div style="font-size: 13px; margin-bottom: 10px; color: #047857;"><strong>HOW TO APPLY:</strong> Use these findings to construct executive business cases for upcoming Competency Framework and 9-Box talent reviews.</div>
+        <a href="{{ res.url }}" style="font-size: 12px; color: #2563eb; text-decoration: none; font-weight: 600;" target="_blank">Read Full Paper &rarr;</a>
+      </div>
+      {% endfor %}
+
+      <div class="section-title">4. Major Strategic Workplace Project for Next Month</div>
+      <div class="card" style="border-left: 4px solid #059669;">
+        <h4 style="margin: 0 0 6px 0; color: #065f46; font-size: 16px;">{{ major_project.title }}</h4>
+        <p style="margin: 0 0 8px 0; font-size: 14px;"><strong>Objective:</strong> {{ major_project.objective }}</p>
+        <p style="margin: 0; font-size: 13px; color: #475569;"><strong>Deliverable:</strong> {{ major_project.deliverable }}</p>
+      </div>
+
+      <div class="section-title">5. Priority Focus Competencies</div>
+      <ul style="font-size: 14px; color: #334155; padding-left: 20px;">
+        {% for comp in top_gaps %}
+        <li style="margin-bottom: 6px;">
+          <strong>{{ comp.name }}</strong> (Current: Level {{ comp.current_level }} &rarr; Target: Level {{ comp.target_level }}) &bull; Priority: <span style="color: #b91c1c; font-weight: 600;">{{ comp.priority }}</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="footer">
+      Automated Career Development Intelligence &bull; Africa/Lagos (WAT)
+    </div>
+  </div>
+</body>
+</html>

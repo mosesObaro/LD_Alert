@@ -1,0 +1,299 @@
+# ==============================================================================
+# Career Gap & Competency Matrix (27 Core Competencies)
+# User: Emuesiri Jessica Agbabune
+# Role: Head / Learning & Development Manager -> Talent Management Leadership
+# Levels: 1 = Beginner | 2 = Developing | 3 = Competent | 4 = Advanced | 5 = Strategic/Expert
+# ==============================================================================
+
+stages:
+  stage_1: "L&D Foundations"
+  stage_2: "Effective L&D Management"
+  stage_3: "Strategic Learning & Capability Development"
+  stage_4: "Talent Development & Talent Management"
+  stage_5: "Enterprise Talent / Strategic HR Leadership"
+
+competencies:
+  # ----------------------------------------------------------------------------
+  # A. LEARNING & DEVELOPMENT CAPABILITY (Current Core)
+  # ----------------------------------------------------------------------------
+  - id: "ld_strategy"
+    name: "L&D Strategy"
+    category: "Learning & Development"
+    current_level: 4
+    target_level: 5
+    priority: "High"
+    practical_evidence: "Annual TD Africa L&D Strategy & 3-Year Capability Blueprint"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 3: Strategic Learning & Capability Development"
+
+  - id: "tna"
+    name: "Training Needs Analysis (TNA)"
+    category: "Learning & Development"
+    current_level: 4
+    target_level: 5
+    priority: "Medium"
+    practical_evidence: "Departmental and individual skill-gap audit instruments & TNA report"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 3: Strategic Learning & Capability Development"
+
+  - id: "learning_design"
+    name: "Learning Design"
+    category: "Learning & Development"
+    current_level: 3
+    target_level: 4
+    priority: "Medium"
+    practical_evidence: "Blended learning journey architecture & curriculum blueprints"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 3: Strategic Learning & Capability Development"
+
+  - id: "adult_learning"
+    name: "Adult Learning"
+    category: "Learning & Development"
+    current_level: 4
+    target_level: 5
+    priority: "Low"
+    practical_evidence: "Andragogical design principles applied across TD Africa programmes"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 2: Effective L&D Management"
+
+  - id: "facilitation"
+    name: "Facilitation"
+    category: "Learning & Development"
+    current_level: 4
+    target_level: 5
+    priority: "Medium"
+    practical_evidence: "Executive workshop & leadership cohort facilitation guides"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 2: Effective L&D Management"
+
+  - id: "training_evaluation"
+    name: "Training Evaluation"
+    category: "Learning & Development"
+    current_level: 3
+    target_level: 5
+    priority: "High"
+    practical_evidence: "Kirkpatrick Level 1-4 evaluation framework & post-training behavioral audits"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 3: Strategic Learning & Capability Development"
+
+  - id: "learning_analytics"
+    name: "Learning Analytics"
+    category: "Learning & Development"
+    current_level: 3
+    target_level: 5
+    priority: "High"
+    practical_evidence: "Automated L&D Executive Dashboard & adoption analytics"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 3: Strategic Learning & Capability Development"
+
+  - id: "learning_roi"
+    name: "Learning ROI"
+    category: "Learning & Development"
+    current_level: 3
+    target_level: 5
+    priority: "High"
+    practical_evidence: "Phillips ROI calculation model for high-impact certifications"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 4: Talent Development & Talent Management"
+
+  # ----------------------------------------------------------------------------
+  # B. TALENT DEVELOPMENT & CAREER PATHING
+  # ----------------------------------------------------------------------------
+  - id: "leadership_development"
+    name: "Leadership Development"
+    category: "Talent Development"
+    current_level: 3
+    target_level: 5
+    priority: "High"
+    practical_evidence: "Emerging Leaders & Executive Acceleration Programme syllabus"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 4: Talent Development & Talent Management"
+
+  - id: "talent_development"
+    name: "Talent Development"
+    category: "Talent Development"
+    current_level: 3
+    target_level: 5
+    priority: "Critical"
+    practical_evidence: "Enterprise capability growth framework & developmental assignment guidelines"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 4: Talent Development & Talent Management"
+
+  - id: "career_development"
+    name: "Career Development"
+    category: "Talent Development"
+    current_level: 3
+    target_level: 5
+    priority: "High"
+    practical_evidence: "Dual-track career pathing models & internal mobility blueprints"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 4: Talent Development & Talent Management"
+
+  - id: "competency_management"
+    name: "Competency Management"
+    category: "Talent Development"
+    current_level: 3
+    target_level: 5
+    priority: "Critical"
+    practical_evidence: "Organization-wide role-based competency dictionary & assessment rubrics"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 4: Talent Development & Talent Management"
+
+  # ----------------------------------------------------------------------------
+  # C. STRATEGIC TALENT MANAGEMENT & SUCCESSION
+  # ----------------------------------------------------------------------------
+  - id: "talent_management"
+    name: "Talent Management"
+    category: "Talent Management"
+    current_level: 3
+    target_level: 5
+    priority: "Critical"
+    practical_evidence: "Integrated Talent Architecture connecting recruitment, L&D, and succession"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 4: Talent Development & Talent Management"
+
+  - id: "succession_planning"
+    name: "Succession Planning"
+    category: "Talent Management"
+    current_level: 2
+    target_level: 5
+    priority: "Critical"
+    practical_evidence: "9-Box Talent Review template, critical role risk index, and succession slates"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 4: Talent Development & Talent Management"
+
+  - id: "performance_management"
+    name: "Performance Management"
+    category: "Human Resource Management"
+    current_level: 3
+    target_level: 5
+    priority: "Medium"
+    practical_evidence: "Continuous performance enablement framework & OKR alignment guide"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 3: Strategic Learning & Capability Development"
+
+  - id: "employee_engagement"
+    name: "Employee Engagement"
+    category: "Human Resource Management"
+    current_level: 3
+    target_level: 4
+    priority: "Medium"
+    practical_evidence: "Engagement pulse action plan and learning-culture survey analysis"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 3: Strategic Learning & Capability Development"
+
+  - id: "organizational_development"
+    name: "Organizational Development"
+    category: "Human Resource Management"
+    current_level: 2
+    target_level: 4
+    priority: "High"
+    practical_evidence: "Organization design diagnosis & team effectiveness intervention toolkit"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 5: Enterprise Talent / Strategic HR Leadership"
+
+  - id: "change_management"
+    name: "Change Management"
+    category: "Human Resource Management"
+    current_level: 3
+    target_level: 5
+    priority: "High"
+    practical_evidence: "Change impact assessment & stakeholder communication strategy for tech rollouts"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 4: Talent Development & Talent Management"
+
+  - id: "hr_strategy"
+    name: "HR Strategy"
+    category: "Human Resource Management"
+    current_level: 3
+    target_level: 5
+    priority: "High"
+    practical_evidence: "Strategic People Plan aligned to commercial business goals"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 5: Enterprise Talent / Strategic HR Leadership"
+
+  - id: "hr_business_partnering"
+    name: "HR Business Partnering"
+    category: "Human Resource Management"
+    current_level: 3
+    target_level: 5
+    priority: "High"
+    practical_evidence: "Strategic HRBP consulting deck & line-manager talent advisory toolkit"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 4: Talent Development & Talent Management"
+
+  # ----------------------------------------------------------------------------
+  # D. PEOPLE ANALYTICS & DIGITAL HR
+  # ----------------------------------------------------------------------------
+  - id: "people_analytics"
+    name: "People Analytics"
+    category: "People Analytics"
+    current_level: 2
+    target_level: 4
+    priority: "Critical"
+    practical_evidence: "Attrition driver analysis, capability predictive model, and Power BI report"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 4: Talent Development & Talent Management"
+
+  - id: "ai_for_hr"
+    name: "AI for HR"
+    category: "Future of Work & AI"
+    current_level: 3
+    target_level: 5
+    priority: "Critical"
+    practical_evidence: "AI Academy curriculum, prompt library for HR/L&D, and AI governance policy"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 4: Talent Development & Talent Management"
+
+  - id: "digital_hr"
+    name: "Digital HR"
+    category: "Future of Work & AI"
+    current_level: 3
+    target_level: 5
+    priority: "High"
+    practical_evidence: "LMS optimization roadmap, microlearning engagement funnel (SIMBA Spark)"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 3: Strategic Learning & Capability Development"
+
+  # ----------------------------------------------------------------------------
+  # E. BUSINESS & FINANCIAL ACUMEN, LEADERSHIP
+  # ----------------------------------------------------------------------------
+  - id: "business_acumen"
+    name: "Business Acumen"
+    category: "Business & Commercial Acumen"
+    current_level: 3
+    target_level: 5
+    priority: "High"
+    practical_evidence: "Commercial business case connecting talent capability to revenue expansion"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 5: Enterprise Talent / Strategic HR Leadership"
+
+  - id: "financial_acumen"
+    name: "Financial Acumen"
+    category: "Business & Commercial Acumen"
+    current_level: 2
+    target_level: 4
+    priority: "High"
+    practical_evidence: "Zero-based L&D departmental budgeting and cost-benefit financial model"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 5: Enterprise Talent / Strategic HR Leadership"
+
+  - id: "executive_communication"
+    name: "Executive Communication"
+    category: "Leadership & Executive Presence"
+    current_level: 3
+    target_level: 5
+    priority: "High"
+    practical_evidence: "C-Suite executive presentation deck and strategic talent briefing papers"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 4: Talent Development & Talent Management"
+
+  - id: "stakeholder_management"
+    name: "Stakeholder Management"
+    category: "Leadership & Executive Presence"
+    current_level: 4
+    target_level: 5
+    priority: "Medium"
+    practical_evidence: "Executive influence matrix and departmental stakeholder SLA"
+    last_reviewed: "2026-08-20"
+    target_stage: "Stage 4: Talent Development & Talent Management"

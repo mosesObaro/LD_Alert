@@ -1,0 +1,18 @@
+{
+  "user": "Emuesiri Jessica Agbabune",
+  "last_updated": "2026-08-24T00:00:00Z",
+  "summary": {
+    "total_recommended": 0,
+    "completed": 0,
+    "in_progress": 0,
+    "applied": 0,
+    "skipped": 0,
+    "total_learning_minutes": 0
+  },
+  "history": [],
+  "feedback_penalties": {
+    "skipped_topics": {},
+    "skipped_providers": {},
+    "highly_rated_topics": {}
+  }
+}

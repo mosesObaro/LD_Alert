@@ -1,0 +1,31 @@
+CRITICAL CAREER INTELLIGENCE ALERT | HIGH VALUE OPPORTUNITY
+
+HELLO {{ user.preferred_first_name | upper }},
+
+An exceptionally high-value learning opportunity matching your strategic career progression has just been discovered.
+
+================================================================================
+OPPORTUNITY DETAILS
+================================================================================
+Title:        {{ resource.title }}
+Provider:     {{ resource.provider }}
+Type:         {{ resource.type }}
+Cost:         {{ resource.cost }} ({{ resource.pricing_type }})
+Duration:     {{ resource.duration }}
+Date / Event: {{ resource.event_date or resource.date_published[:10] }}
+Location:     {{ resource.location }}
+Relevance:    {{ resource.relevance_score }}/100 (CRITICAL PRIORITY)
+Direct Link:  {{ resource.url }}
+
+WHAT MAKES THIS EXCEPTIONAL:
+{{ resource.summary }}
+
+WHY THIS MATTERS FOR YOUR TALENT MANAGEMENT PROGRESSION:
+{{ resource.why_relevant }}
+
+RECOMMENDED IMMEDIATE ACTION:
+Register or secure access immediately at: {{ resource.url }}
+
+--------------------------------------------------------------------------------
+Generated automatically by your Career Development Intelligence Assistant
+Timezone: Africa/Lagos (WAT)

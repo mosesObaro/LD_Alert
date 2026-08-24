@@ -1,0 +1,75 @@
+# ==============================================================================
+# User Profile Configuration
+# L&D / Talent Management Career Development Intelligence System
+# ==============================================================================
+
+user:
+  name: "Emuesiri Jessica Agbabune"
+  preferred_first_name: "Emuesiri"
+  current_role: "Head / Learning & Development Manager"
+  organization: "TD Africa"
+  country: "Nigeria"
+  timezone: "Africa/Lagos"
+  email: "${RECIPIENT_EMAIL:-emuesiri.agbabune@example.com}"
+
+professional_background:
+  current_responsibilities:
+    - "Training Needs Analysis (TNA) at organizational, departmental, and individual levels"
+    - "L&D strategy and annual training-calendar development"
+    - "Learning culture assessment and transformation"
+    - "Employee onboarding and induction architecture"
+    - "Leadership development and high-potential pipelines"
+    - "Employee capability development and skills frameworks"
+    - "Learning communication and engagement campaigns"
+    - "Microlearning deployment through SIMBA Spark"
+    - "OEM and professional certification management"
+    - "LMS administration, continuous optimization, and adoption drive"
+    - "Training evaluation (Kirkpatrick model) and effectiveness measurement"
+    - "Learning analytics, L&D executive dashboards, and ROI reporting"
+    - "Stakeholder and line-manager engagement"
+    - "Mentoring and knowledge-sharing frameworks"
+    - "Career development and internal mobility initiatives"
+    - "Competency and skill-gap identification"
+    - "AI Academy and digital capability transformation"
+    - "Vendor and training-provider management"
+    - "L&D budgeting and business-case justification"
+    - "Executive-level presentations"
+  prior_experience:
+    - "Human Resources Management"
+    - "Recruitment and Talent Acquisition"
+    - "Onboarding Architecture"
+    - "Programme Coordination"
+    - "Employee Development"
+  credentials:
+    - "Associate Member of the Chartered Institute of Personnel Management (ACIPM), Nigeria"
+    - "Postgraduate Studies in Industrial Relations, Personnel Management, and Public Administration"
+
+career_progression:
+  current_stage: "Stage 3: Strategic Learning & Capability Development"
+  target_stage: "Stage 4: Talent Development & Talent Management"
+  long_term_stage: "Stage 5: Enterprise Talent / Strategic HR Leadership"
+  career_goals:
+    - "Master Strategic Talent Development and Talent Management leadership"
+    - "Build end-to-end succession planning and critical-role risk frameworks"
+    - "Champion People Analytics, predictive talent modeling, and L&D ROI"
+    - "Pioneer AI-powered learning and digital workforce capability (AI Academy)"
+    - "Advance toward Head / Director of Talent Management & Strategic HR"
+
+learning_preferences:
+  weekly_learning_limit_minutes: 90
+  max_core_recommendations: 3
+  max_optional_recommendations: 5
+  max_upcoming_events: 3
+  max_research_reports: 3
+  max_career_opportunities: 3
+  prefer_free_resources: true
+  free_resources_only: false
+  preferred_content_types:
+    - "free_course"
+    - "free_lecture"
+    - "free_webinar"
+    - "university_open_courseware"
+    - "toolkit_or_framework"
+    - "research_whitepaper"
+    - "podcast_masterclass"
+    - "free_audit_course"

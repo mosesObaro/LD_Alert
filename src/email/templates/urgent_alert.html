@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CRITICAL CAREER INTELLIGENCE ALERT</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #1e293b; background-color: #fef2f2; margin: 0; padding: 20px; }
+    .container { max-width: 650px; margin: 0 auto; background: #ffffff; border-radius: 12px; overflow: hidden; border: 1px solid #fecaca; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
+    .header { background: linear-gradient(135deg, #991b1b 0%, #dc2626 100%); color: #ffffff; padding: 28px 24px; }
+    .header h1 { margin: 0; font-size: 20px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; }
+    .badge { display: inline-block; background: #fef08a; color: #854d0e; padding: 4px 8px; font-size: 11px; font-weight: 700; border-radius: 4px; text-transform: uppercase; margin-bottom: 8px; }
+    .content { padding: 24px; }
+    .card { background: #fff5f5; border-left: 4px solid #ef4444; padding: 18px; border-radius: 0 8px 8px 0; margin-bottom: 20px; }
+    .btn { display: inline-block; background: #dc2626; color: #ffffff !important; text-decoration: none; padding: 10px 20px; border-radius: 6px; font-size: 14px; font-weight: 700; margin-top: 14px; }
+    .footer { background: #f8fafc; padding: 16px 24px; font-size: 12px; color: #64748b; text-align: center; border-top: 1px solid #e2e8f0; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <span class="badge">Critical Priority &bull; Score: {{ resource.relevance_score }}/100</span>
+      <h1>URGENT CAREER DEVELOPMENT OPPORTUNITY</h1>
+      <p style="margin: 6px 0 0 0; font-size: 13px; opacity: 0.9;">Discovered for Emuesiri Jessica Agbabune (TD Africa)</p>
+    </div>
+    <div class="content">
+      <h2 style="margin: 0 0 10px 0; font-size: 18px; color: #0f172a;">{{ resource.title }}</h2>
+      <div style="font-size: 13px; color: #64748b; margin-bottom: 16px;">
+        Provider: <strong>{{ resource.provider }}</strong> &bull; Cost: <strong>{{ resource.cost }}</strong> &bull; Duration: <strong>{{ resource.duration }}</strong>
+      </div>
+
+      <div class="card">
+        <h4 style="margin: 0 0 6px 0; color: #991b1b; text-transform: uppercase; font-size: 13px;">Executive Summary</h4>
+        <p style="margin: 0; font-size: 14px;">{{ resource.summary }}</p>
+      </div>
+
+      <h4 style="margin: 16px 0 6px 0; font-size: 14px; color: #0f172a; text-transform: uppercase;">Strategic Value for Talent Management Progression</h4>
+      <p style="font-size: 14px; margin: 0 0 16px 0;">{{ resource.why_relevant }}</p>
+
+      <a href="{{ resource.url }}" class="btn" target="_blank">Access Opportunity Now &rarr;</a>
+    </div>
+    <div class="footer">
+      Automated Urgency Alert &bull; Verified by Career Development Intelligence System (WAT)
+    </div>
+  </div>
+</body>
+</html>

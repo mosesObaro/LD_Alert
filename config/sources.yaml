@@ -1,0 +1,293 @@
+# ==============================================================================
+# Trusted Sources Configuration
+# L&D / Talent Management Career Development Intelligence System
+# ==============================================================================
+
+sources:
+  # ----------------------------------------------------------------------------
+  # TIER 1: PROFESSIONAL BODIES & RECOGNIZED INSTITUTIONS
+  # ----------------------------------------------------------------------------
+  - id: "cipd_news"
+    name: "CIPD (Chartered Institute of Personnel and Development)"
+    url: "https://www.cipd.org"
+    feed_url: "https://www.cipd.org/uk/knowledge/rss/"
+    type: "rss"
+    tier: 1
+    category: "professional_body"
+    topics: ["L&D Strategy", "Talent Management", "People Analytics", "Future of Work", "HR Strategy"]
+    pricing_bias: "mixed"
+    enabled: true
+
+  - id: "cipm_nigeria"
+    name: "CIPM Nigeria (Chartered Institute of Personnel Management of Nigeria)"
+    url: "https://cipmnigeria.net"
+    feed_url: "https://cipmnigeria.net/feed/"
+    type: "rss"
+    tier: 1
+    category: "africa_nigeria"
+    topics: ["HR Strategy", "Talent Management", "Leadership Development", "Nigeria HR", "Labor Relations"]
+    pricing_bias: "mostly_free"
+    enabled: true
+
+  - id: "shrm_insights"
+    name: "SHRM (Society for Human Resource Management)"
+    url: "https://www.shrm.org"
+    feed_url: "https://www.shrm.org/rss/hr-news.xml"
+    type: "rss"
+    tier: 1
+    category: "professional_body"
+    topics: ["Talent Management", "Employee Engagement", "AI for HR", "Workforce Planning", "L&D"]
+    pricing_bias: "mixed"
+    enabled: true
+
+  - id: "atd_blog"
+    name: "ATD (Association for Talent Development)"
+    url: "https://www.td.org"
+    feed_url: "https://www.td.org/rss/insights"
+    type: "rss"
+    tier: 1
+    category: "professional_body"
+    topics: ["Learning Design", "Instructional Design", "Microlearning", "Talent Development", "Evaluation"]
+    pricing_bias: "mixed"
+    enabled: true
+
+  - id: "hci_research"
+    name: "Human Capital Institute (HCI)"
+    url: "https://www.hci.org"
+    feed_url: "https://www.hci.org/feed"
+    type: "rss"
+    tier: 1
+    category: "professional_body"
+    topics: ["Talent Management", "Succession Planning", "Strategic HRBP", "Leadership Development"]
+    pricing_bias: "mixed"
+    enabled: true
+
+  # ----------------------------------------------------------------------------
+  # TIER 1: TOP UNIVERSITIES & OPEN COURSEWARE (Free Lectures, Masterclasses)
+  # ----------------------------------------------------------------------------
+  - id: "mit_ocw"
+    name: "MIT OpenCourseWare (Management & Leadership)"
+    url: "https://ocw.mit.edu"
+    feed_url: "https://ocw.mit.edu/rss/new/"
+    type: "platform"
+    tier: 1
+    category: "university"
+    topics: ["Leadership Development", "Business Acumen", "Organizational Development", "AI and Work"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  - id: "harvard_online_free"
+    name: "Harvard Online Free Learning & Lectures"
+    url: "https://pll.harvard.edu/catalog/free"
+    feed_url: "https://pll.harvard.edu/rss/free-courses"
+    type: "platform"
+    tier: 1
+    category: "university"
+    topics: ["Leadership", "Business Strategy", "Executive Communication", "AI and Data"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  - id: "openlearn_ou"
+    name: "OpenLearn - The Open University (Free Certified Learning)"
+    url: "https://www.open.edu/openlearn"
+    feed_url: "https://www.open.edu/openlearn/about-openlearn/rss-feeds"
+    type: "platform"
+    tier: 1
+    category: "university"
+    topics: ["Adult Learning", "Leadership", "People Management", "Workplace Psychology", "Digital Skills"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  - id: "stanford_online"
+    name: "Stanford Online Free Webinars & Masterclasses"
+    url: "https://online.stanford.edu/free-courses"
+    feed_url: "https://online.stanford.edu/rss/free-content"
+    type: "platform"
+    tier: 1
+    category: "university"
+    topics: ["AI for Leadership", "Organizational Design", "Change Leadership", "Innovation"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  # ----------------------------------------------------------------------------
+  # TIER 1/2: FREE-TO-AUDIT PLATFORMS & TECH ACADEMIES
+  # ----------------------------------------------------------------------------
+  - id: "coursera_hr_ld"
+    name: "Coursera Free Audit Catalog (L&D, HR, People Analytics)"
+    url: "https://www.coursera.org"
+    type: "platform"
+    tier: 2
+    category: "learning_platform"
+    topics: ["People Analytics", "Talent Management", "Instructional Design", "Strategic HR", "AI for HR"]
+    pricing_bias: "free_audit"
+    enabled: true
+
+  - id: "edx_hr_leadership"
+    name: "edX Free Audit Courseware (MIT, Harvard, Wharton, Columbia)"
+    url: "https://www.edx.org"
+    type: "platform"
+    tier: 2
+    category: "learning_platform"
+    topics: ["Leadership Pipelines", "Business Acumen", "Financial Literacy for HR", "People Strategy"]
+    pricing_bias: "free_audit"
+    enabled: true
+
+  - id: "microsoft_learn_ai_hr"
+    name: "Microsoft Learn - AI, Digital Skills & Copilot for Workplace"
+    url: "https://learn.microsoft.com"
+    feed_url: "https://learn.microsoft.com/api/content/rss"
+    type: "platform"
+    tier: 1
+    category: "technology"
+    topics: ["AI for HR", "Generative AI", "Power BI Dashboards", "Digital Transformation"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  - id: "ibm_skillsbuild"
+    name: "IBM SkillsBuild (Free Tech & Professional Capability)"
+    url: "https://skillsbuild.org"
+    type: "platform"
+    tier: 1
+    category: "technology"
+    topics: ["AI Academy", "Data Analytics", "Critical Thinking", "Agile Leadership"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  - id: "saylor_academy"
+    name: "Saylor Academy Free College-Level HR & Management"
+    url: "https://www.saylor.org"
+    type: "platform"
+    tier: 2
+    category: "learning_platform"
+    topics: ["Human Resource Management", "Business Strategy", "Organizational Behavior"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  # ----------------------------------------------------------------------------
+  # TIER 1: RESEARCH INSTITUTIONS & STRATEGIC CONSULTING
+  # ----------------------------------------------------------------------------
+  - id: "mckinsey_org"
+    name: "McKinsey Organization & People Strategy Insights"
+    url: "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights"
+    feed_url: "https://www.mckinsey.com/insights/rss"
+    type: "rss"
+    tier: 1
+    category: "research_consulting"
+    topics: ["Future of Work", "Skills-based organizations", "Talent Management", "AI Transformation"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  - id: "deloitte_insights"
+    name: "Deloitte Human Capital Trends & Research"
+    url: "https://www2.deloitte.com/us/en/insights/focus/human-capital-trends.html"
+    feed_url: "https://www2.deloitte.com/us/en/insights/rss.xml"
+    type: "rss"
+    tier: 1
+    category: "research_consulting"
+    topics: ["Human Capital Trends", "Talent Models", "AI in the Workplace", "Internal Mobility"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  - id: "wef_future_of_jobs"
+    name: "World Economic Forum - Centre for the New Economy & Society"
+    url: "https://www.weforum.org"
+    feed_url: "https://www.weforum.org/agenda/rss"
+    type: "rss"
+    tier: 1
+    category: "research_consulting"
+    topics: ["Future of Work", "Reskilling", "AI Impact", "Global Skills Taxonomy"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  - id: "hbr_talent_ld"
+    name: "Harvard Business Review (Managing People & Learning)"
+    url: "https://hbr.org"
+    feed_url: "https://feeds.hbr.org/harvardbusiness"
+    type: "rss"
+    tier: 1
+    category: "academic_journal"
+    topics: ["Leadership Development", "Talent Management", "Performance Management", "Executive Communication"]
+    pricing_bias: "mostly_free"
+    enabled: true
+
+  - id: "mit_sloan_review"
+    name: "MIT Sloan Management Review (Workforce & AI)"
+    url: "https://sloanreview.mit.edu"
+    feed_url: "https://sloanreview.mit.edu/feed/"
+    type: "rss"
+    tier: 1
+    category: "academic_journal"
+    topics: ["AI Governance", "Skills Strategy", "People Analytics", "Talent Agility"]
+    pricing_bias: "mostly_free"
+    enabled: true
+
+  # ----------------------------------------------------------------------------
+  # TIER 1/2: YOUTUBE UNIVERSITY & EXPERT LECTURE FEEDS
+  # ----------------------------------------------------------------------------
+  - id: "yt_stanford_gsb"
+    name: "Stanford Graduate School of Business (Public Lectures)"
+    url: "https://www.youtube.com/@stanfordgsb"
+    channel_id: "UC0PnXmF81nO9q5vV4i7lYpw"
+    type: "youtube"
+    tier: 1
+    category: "university"
+    topics: ["Executive Presence", "Strategic Communication", "Leadership", "Organizational Change"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  - id: "yt_harvard_business"
+    name: "Harvard Business School & HBR Channel"
+    url: "https://www.youtube.com/@harvardbusinessreview"
+    channel_id: "UCqZXz0lKqC8W9HrkG7iGzKw"
+    type: "youtube"
+    tier: 1
+    category: "university"
+    topics: ["Talent Reviews", "Leadership Pipelines", "Negotiation", "Business Acumen"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  - id: "yt_mit_sloan"
+    name: "MIT Sloan School of Management"
+    url: "https://www.youtube.com/@MITSloan"
+    channel_id: "UC3B7W2yZkI6I8uDq3p5Uo7A"
+    type: "youtube"
+    tier: 1
+    category: "university"
+    topics: ["AI for Management", "Workforce Analytics", "Strategic Decision Making"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  - id: "yt_aihr"
+    name: "Academy to Innovate HR (AIHR Public Masterclasses)"
+    url: "https://www.youtube.com/@AIHR"
+    channel_id: "UC2K3I6e7f_FhLpP7eF8vVXA"
+    type: "youtube"
+    tier: 2
+    category: "expert_educator"
+    topics: ["People Analytics", "HR Dashboards", "Strategic HRBP", "Competency Frameworks", "TNA"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  # ----------------------------------------------------------------------------
+  # TIER 1: NIGERIA & AFRICA HR / TALENT DEVELOPMENT HUBS
+  # ----------------------------------------------------------------------------
+  - id: "businessday_hr"
+    name: "BusinessDay Nigeria (Human Capital & Enterprise Intelligence)"
+    url: "https://businessday.ng/category/enterprise/"
+    feed_url: "https://businessday.ng/feed/"
+    type: "rss"
+    tier: 2
+    category: "africa_nigeria"
+    topics: ["Nigeria Workforce", "African Leadership", "L&D Investment", "Enterprise Capability"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  - id: "african_management_institute"
+    name: "African Management Institute (Workforce Capability)"
+    url: "https://www.africanmanagers.org"
+    type: "rss"
+    tier: 2
+    category: "africa_nigeria"
+    topics: ["African Talent Management", "Managerial Capability", "Practical Leadership"]
+    pricing_bias: "mostly_free"
+    enabled: true
