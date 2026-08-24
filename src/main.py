@@ -4,6 +4,7 @@ Main CLI Entrypoint for L&D / Talent Management Career Intelligence System.
 
 import argparse
 import sys
+import os
 from pathlib import Path
 from typing import List, Optional
 
@@ -123,12 +124,13 @@ def execute_weekly_workflow(dry_run: bool = False) -> None:
     subject, html_content, text_content = renderer.render_weekly_alert(weekly_plan, profile)
 
     # Send email
+    recipient_email = os.environ.get("EMAIL_TO") or os.environ.get("RECIPIENT_EMAIL") or profile.get("user", {}).get("email")
     sender = EmailSender()
     success, msg = sender.send(
         subject=subject,
         html_content=html_content,
         text_content=text_content,
-        to_email=profile.get("user", {}).get("email"),
+        to_email=recipient_email,
         dry_run=dry_run
     )
 
@@ -166,12 +168,13 @@ def execute_urgent_workflow(dry_run: bool = False) -> None:
     renderer = EmailRenderer()
     subject, html_content, text_content = renderer.render_urgent_alert(top_critical, profile)
 
+    recipient_email = os.environ.get("EMAIL_TO") or os.environ.get("RECIPIENT_EMAIL") or profile.get("user", {}).get("email")
     sender = EmailSender()
     success, msg = sender.send(
         subject=subject,
         html_content=html_content,
         text_content=text_content,
-        to_email=profile.get("user", {}).get("email"),
+        to_email=recipient_email,
         dry_run=dry_run
     )
     logger.info(f"Urgent alert workflow finished. Status: {msg}")
@@ -212,12 +215,13 @@ def execute_monthly_workflow(dry_run: bool = False) -> None:
         user_profile=profile
     )
 
+    recipient_email = os.environ.get("EMAIL_TO") or os.environ.get("RECIPIENT_EMAIL") or profile.get("user", {}).get("email")
     sender = EmailSender()
     success, msg = sender.send(
         subject=subject,
         html_content=html_content,
         text_content=text_content,
-        to_email=profile.get("user", {}).get("email"),
+        to_email=recipient_email,
         dry_run=dry_run
     )
 

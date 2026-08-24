@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "last_check": "2026-08-24T22:31:12.141727+00:00",
   "sources": {
     "cipd_news": {
@@ -18,110 +19,188 @@
     "shrm_insights": {
       "name": "SHRM (Society for Human Resource Management)",
       "last_check": "2026-08-24T22:31:04.433987+00:00",
+=======
+  "last_check": "2026-08-24T22:39:38.272514+00:00",
+  "sources": {
+    "cipd_news": {
+      "name": "CIPD (Chartered Institute of Personnel and Development)",
+      "last_check": "2026-08-24T22:39:21.193300+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.cipd.org/uk/knowledge/rss/"
+    },
+    "cipm_nigeria": {
+      "name": "CIPM Nigeria (Chartered Institute of Personnel Management of Nigeria)",
+      "last_check": "2026-08-24T22:39:21.198539+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='cipmnigeria.net', port=443): Max retries exceeded with url: /feed/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x109055eb0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+    },
+    "shrm_insights": {
+      "name": "SHRM (Society for Human Resource Management)",
+      "last_check": "2026-08-24T22:39:22.343758+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "ERROR",
       "items_found": 0,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.shrm.org/rss/hr-news.xml"
     },
     "atd_blog": {
       "name": "ATD (Association for Talent Development)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:04.963537+00:00",
+=======
+      "last_check": "2026-08-24T22:39:23.064087+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "ERROR",
       "items_found": 0,
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.td.org/rss/insights"
     },
     "hci_research": {
       "name": "Human Capital Institute (HCI)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:05.932276+00:00",
+=======
+      "last_check": "2026-08-24T22:39:24.385240+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "ERROR",
       "items_found": 0,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.hci.org/feed"
     },
     "mit_ocw": {
       "name": "MIT OpenCourseWare (Management & Leadership)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:06.120230+00:00",
+=======
+      "last_check": "2026-08-24T22:39:25.033406+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "HEALTHY",
       "items_found": 1,
       "error": ""
     },
     "harvard_online_free": {
       "name": "Harvard Online Free Learning & Lectures",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:06.431648+00:00",
+=======
+      "last_check": "2026-08-24T22:39:25.779345+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "HEALTHY",
       "items_found": 1,
       "error": ""
     },
     "openlearn_ou": {
       "name": "OpenLearn - The Open University (Free Certified Learning)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:06.617336+00:00",
+=======
+      "last_check": "2026-08-24T22:39:26.397077+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "HEALTHY",
       "items_found": 2,
       "error": ""
     },
     "stanford_online": {
       "name": "Stanford Online Free Webinars & Masterclasses",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:06.853843+00:00",
+=======
+      "last_check": "2026-08-24T22:39:27.692621+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "HEALTHY",
       "items_found": 0,
       "error": ""
     },
     "coursera_hr_ld": {
       "name": "Coursera Free Audit Catalog (L&D, HR, People Analytics)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:06.854363+00:00",
+=======
+      "last_check": "2026-08-24T22:39:27.694263+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "HEALTHY",
       "items_found": 2,
       "error": ""
     },
     "edx_hr_leadership": {
       "name": "edX Free Audit Courseware (MIT, Harvard, Wharton, Columbia)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:06.856010+00:00",
+=======
+      "last_check": "2026-08-24T22:39:27.695279+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "HEALTHY",
       "items_found": 1,
       "error": ""
     },
     "microsoft_learn_ai_hr": {
       "name": "Microsoft Learn - AI, Digital Skills & Copilot for Workplace",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:07.025151+00:00",
+=======
+      "last_check": "2026-08-24T22:39:28.088485+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "HEALTHY",
       "items_found": 2,
       "error": ""
     },
     "ibm_skillsbuild": {
       "name": "IBM SkillsBuild (Free Tech & Professional Capability)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:07.026723+00:00",
+=======
+      "last_check": "2026-08-24T22:39:28.092043+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "HEALTHY",
       "items_found": 1,
       "error": ""
     },
     "saylor_academy": {
       "name": "Saylor Academy Free College-Level HR & Management",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:07.027632+00:00",
+=======
+      "last_check": "2026-08-24T22:39:28.092765+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "HEALTHY",
       "items_found": 0,
       "error": ""
     },
     "mckinsey_org": {
       "name": "McKinsey Organization & People Strategy Insights",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:07.388336+00:00",
+=======
+      "last_check": "2026-08-24T22:39:29.064150+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "HEALTHY",
       "items_found": 25,
       "error": ""
     },
     "deloitte_insights": {
       "name": "Deloitte Human Capital Trends & Research",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:08.583982+00:00",
+=======
+      "last_check": "2026-08-24T22:39:30.419287+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "ERROR",
       "items_found": 0,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.deloitte.com/us/en/insights/rss.xml"
     },
     "wef_future_of_jobs": {
       "name": "World Economic Forum - Centre for the New Economy & Society",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:08.985517+00:00",
+=======
+      "last_check": "2026-08-24T22:39:31.168589+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "ERROR",
       "items_found": 0,
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/rss"
     },
     "hbr_talent_ld": {
       "name": "Harvard Business Review (Managing People & Learning)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:09.231098+00:00",
       "status": "ERROR",
       "items_found": 0,
@@ -130,48 +209,82 @@
     "mit_sloan_review": {
       "name": "MIT Sloan Management Review (Workforce & AI)",
       "last_check": "2026-08-24T22:31:09.607300+00:00",
+=======
+      "last_check": "2026-08-24T22:39:31.461279+00:00",
+      "status": "ERROR",
+      "items_found": 0,
+      "error": "SSLError: HTTPSConnectionPool(host='feeds.hbr.org', port=443): Max retries exceeded with url: /harvardbusiness (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+    },
+    "mit_sloan_review": {
+      "name": "MIT Sloan Management Review (Workforce & AI)",
+      "last_check": "2026-08-24T22:39:32.738994+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "HEALTHY",
       "items_found": 20,
       "error": ""
     },
     "yt_stanford_gsb": {
       "name": "Stanford Graduate School of Business (Public Lectures)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:09.994237+00:00",
+=======
+      "last_check": "2026-08-24T22:39:33.824624+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "ERROR",
       "items_found": 0,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC0PnXmF81nO9q5vV4i7lYpw"
     },
     "yt_harvard_business": {
       "name": "Harvard Business School & HBR Channel",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:10.349785+00:00",
+=======
+      "last_check": "2026-08-24T22:39:34.231394+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "ERROR",
       "items_found": 0,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqZXz0lKqC8W9HrkG7iGzKw"
     },
     "yt_mit_sloan": {
       "name": "MIT Sloan School of Management",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:10.683895+00:00",
+=======
+      "last_check": "2026-08-24T22:39:34.813627+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "ERROR",
       "items_found": 0,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC3B7W2yZkI6I8uDq3p5Uo7A"
     },
     "yt_aihr": {
       "name": "Academy to Innovate HR (AIHR Public Masterclasses)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:11.017434+00:00",
+=======
+      "last_check": "2026-08-24T22:39:35.430826+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "ERROR",
       "items_found": 0,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC2K3I6e7f_FhLpP7eF8vVXA"
     },
     "businessday_hr": {
       "name": "BusinessDay Nigeria (Human Capital & Enterprise Intelligence)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:11.232615+00:00",
+=======
+      "last_check": "2026-08-24T22:39:36.052033+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "HEALTHY",
       "items_found": 5,
       "error": ""
     },
     "african_management_institute": {
       "name": "African Management Institute (Workforce Capability)",
+<<<<<<< HEAD
       "last_check": "2026-08-24T22:31:12.141722+00:00",
+=======
+      "last_check": "2026-08-24T22:39:38.272510+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "HEALTHY",
       "items_found": 0,
       "error": ""

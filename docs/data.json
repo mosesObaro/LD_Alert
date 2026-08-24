@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "last_updated": "2026-08-24T22:31:12.462871+00:00",
   "last_updated_lagos": "Monday, 24 August 2026 | 11:31 PM WAT",
+=======
+  "last_updated": "2026-08-24T22:39:39.296514+00:00",
+  "last_updated_lagos": "Monday, 24 August 2026 | 11:39 PM WAT",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
   "user": {
     "name": "Emuesiri Jessica Agbabune",
     "preferred_first_name": "Emuesiri",
@@ -8,7 +13,7 @@
     "organization": "TD Africa",
     "country": "Nigeria",
     "timezone": "Africa/Lagos",
-    "email": "emuesiri.agbabune@example.com"
+    "email": "obaro.moses.emisho@gmail.com}"
   },
   "career_progression": {
     "current_stage": "Stage 3: Strategic Learning & Capability Development",
@@ -27,6 +32,7 @@
     "theme": "Transforming L&D into Enterprise Talent Architecture",
     "why_matters": "Connecting training evaluation directly to high-potential retention and succession slates.",
     "core_ld": {
+<<<<<<< HEAD
       "title": "Workplace Learning and Capability Development",
       "provider": "OpenLearn - The Open University (Free Certified Learning)",
       "type": "Course",
@@ -48,6 +54,30 @@
       "summary": "Explores how organizations build collective capability, foster informal learning networks, and embed continuous workplace learning.",
       "why_relevant": "Directly supports TD Africa learning culture transformation and microlearning strategy.",
       "td_africa_application": "Apply the frameworks from 'Workplace Learning and Capability Development' directly to refine TD Africa's annual TNA cycle, integrate modular lessons into SIMBA Spark microlearning, and deliver measurable capability metrics for executive reporting.",
+=======
+      "title": "Beyond the copilot: Scaling the agentic product development life cycle",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "type": "Research Report / Whitepaper",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle",
+      "date_published": "2026-08-21T00:00:00+00:00",
+      "date_discovered": "2026-08-24T22:39:29.060381+00:00",
+      "duration": "Self-paced",
+      "cost": "100% Free",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Talent Management",
+        "Future of Work & AI",
+        "Future of Work",
+        "AI Transformation",
+        "Skills-based organizations"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 77.5,
+      "free": true,
+      "summary": "Only a few software teams are seeing real impact from incorporating AI. The key is launching an AI-driven redesign of the entire product development system, rather than just deploying new tools.",
+      "why_relevant": "Published by Tier-1 authority (McKinsey Organization & People Strategy Insights) addressing core capability areas.",
+      "td_africa_application": "Apply the frameworks from 'Beyond the copilot: Scaling the agentic product development life cycle' directly to refine TD Africa's annual TNA cycle, integrate modular lessons into SIMBA Spark microlearning, and deliver measurable capability metrics for executive reporting.",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "practical_application": "",
       "free_alternative": null,
       "status": "NOT STARTED",
@@ -56,6 +86,7 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
+<<<<<<< HEAD
       "canonical_hash": "28eaff8294a6001fa05c3493611cb392b5da9ede4be32f68c918609d61eaff7a",
       "score_breakdown": {
         "career_relevance": 95.0,
@@ -88,6 +119,41 @@
       "free": true,
       "summary": "MIT Sloan master's level course covering organizational sociology, strategic human resource systems, and talent management.",
       "why_relevant": "World-class curriculum on how high-performance enterprise talent systems drive commercial execution.",
+=======
+      "canonical_hash": "0f4facfdfc20e66ea4f62d06ce39983450682dd04ac5b7c12bcba64861cc902f",
+      "score_breakdown": {
+        "career_relevance": 60.0,
+        "practical_ld_relevance": 50.0,
+        "talent_management": 90.0,
+        "quality_credibility": 100.0,
+        "free_accessibility": 100.0,
+        "recency": 100.0,
+        "depth_value": 90.0,
+        "total_score": 77.5
+      }
+    },
+    "core_tm": {
+      "title": "Earning and sustaining trust in the age of AI",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "type": "Research Report / Whitepaper",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/earning-and-sustaining-trust-in-the-age-of-ai",
+      "date_published": "2026-08-20T00:00:00+00:00",
+      "date_discovered": "2026-08-24T22:39:29.060381+00:00",
+      "duration": "Self-paced",
+      "cost": "100% Free",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Future of Work",
+        "AI Transformation",
+        "Skills-based organizations",
+        "Talent Management"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 77.5,
+      "free": true,
+      "summary": "Invesco President and CEO Andrew Schlossberg argues that AI should be part of a firm’s strategy, not on the sidelines, and that trust, once lost, is hard to win back.",
+      "why_relevant": "Published by Tier-1 authority (McKinsey Organization & People Strategy Insights) addressing core capability areas.",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "td_africa_application": "",
       "practical_application": "Use this resource to pilot a structured 9-Box talent assessment and succession slate across one critical department at TD Africa.",
       "free_alternative": null,
@@ -97,15 +163,22 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
+<<<<<<< HEAD
       "canonical_hash": "e1854cb50a989b71b7fd19b501a54504390eacbc740263a59e6432b18ce7dfff",
       "score_breakdown": {
         "career_relevance": 95.0,
+=======
+      "canonical_hash": "e87e368c96668789c4a97c6a2ee29fca64ae403fe80010014f51b5070995a0bf",
+      "score_breakdown": {
+        "career_relevance": 60.0,
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
         "practical_ld_relevance": 50.0,
         "talent_management": 90.0,
         "quality_credibility": 100.0,
         "free_accessibility": 100.0,
         "recency": 100.0,
         "depth_value": 90.0,
+<<<<<<< HEAD
         "total_score": 86.2
       }
     },
@@ -130,6 +203,33 @@
       "free": true,
       "summary": "Foundational certification on AI concepts, natural language processing, and ethical considerations in enterprise AI deployment.",
       "why_relevant": "Critical background for spearheading AI-driven talent development and TD Africa AI Academy.",
+=======
+        "total_score": 77.5
+      }
+    },
+    "core_broader": {
+      "title": "Develop Your Team’s Social Capital, Not Just Their Skills",
+      "provider": "MIT Sloan Management Review (Workforce & AI)",
+      "type": "Research Report / Whitepaper",
+      "url": "https://sloanreview.mit.edu/article/develop-your-teams-social-capital-not-just-their-skills",
+      "date_published": "2026-08-24T11:00:55+00:00",
+      "date_discovered": "2026-08-24T22:39:32.734746+00:00",
+      "duration": "Self-paced",
+      "cost": "100% Free",
+      "pricing_type": "Free Content",
+      "topics": [
+        "People Analytics",
+        "Skills Strategy",
+        "Leadership",
+        "Talent Agility",
+        "AI Governance"
+      ],
+      "career_stage": "Stage 1: L&D Foundations",
+      "relevance_score": 77.5,
+      "free": true,
+      "summary": "Leigh Wells/Ikon Images Leaders may prioritize executing strategy and driving organizational performance, but they are also responsible for developing the next generation of leaders. Traditionally, leadership development has focused heavily on performance — an understandable emphasis, given that leaders themselves are evaluated and rewarded based on execution and results. However, as organizationa...",
+      "why_relevant": "Published by Tier-1 authority (MIT Sloan Management Review (Workforce & AI)) addressing core capability areas.",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "td_africa_application": "",
       "practical_application": "",
       "free_alternative": null,
@@ -139,6 +239,7 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
+<<<<<<< HEAD
       "canonical_hash": "23fcea98efbbc0b89f7b240616956c0ba29638910f135042712718088b00ec97",
       "score_breakdown": {
         "career_relevance": 90.0,
@@ -149,6 +250,18 @@
         "recency": 100.0,
         "depth_value": 90.0,
         "total_score": 85.8
+=======
+      "canonical_hash": "c6becbdbc1479fb7e2ce015d240438c222ebe2124ad84d427a1d03dc8fbb00c3",
+      "score_breakdown": {
+        "career_relevance": 90.0,
+        "practical_ld_relevance": 50.0,
+        "talent_management": 40.0,
+        "quality_credibility": 100.0,
+        "free_accessibility": 100.0,
+        "recency": 100.0,
+        "depth_value": 90.0,
+        "total_score": 77.5
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       }
     },
     "challenge": {
@@ -162,7 +275,11 @@
       "description": "Strategic blueprint outlining the rollout of AI tools, microlearning integrations, and digital workforce capability."
     },
     "three_actions": {
+<<<<<<< HEAD
       "learn": "Complete 'Workplace Learning and Capability Development' and 'People and Organizations (MIT Sloan Management)' (12 hours (Self-paced) + Full Semester Courseware).",
+=======
+      "learn": "Complete 'Beyond the copilot: Scaling the agentic product development life cycle' and 'Earning and sustaining trust in the age of AI' (Self-paced + Self-paced).",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "apply": "Construct a Commercial Business Case for an Advanced Certification Programme (45 mins).",
       "capture": "Save 'Strategic AI in HR & L&D Capability Roadmap' to your professional career portfolio."
     },
@@ -616,7 +733,11 @@
     }
   },
   "history_summary": {
+<<<<<<< HEAD
     "total_recommended": 3,
+=======
+    "total_recommended": 12,
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
     "completed": 0,
     "in_progress": 0,
     "applied": 0,
@@ -653,6 +774,7 @@
   ],
   "top_free_resources": [
     {
+<<<<<<< HEAD
       "title": "Workplace Learning and Capability Development",
       "provider": "OpenLearn - The Open University (Free Certified Learning)",
       "type": "Course",
@@ -702,20 +824,43 @@
       "date_published": "2026-08-24T22:31:05.933098+00:00",
       "date_discovered": "2026-08-24T22:31:05.933098+00:00",
       "duration": "Full Semester Courseware",
+=======
+      "title": "Beyond the copilot: Scaling the agentic product development life cycle",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "type": "Research Report / Whitepaper",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle",
+      "date_published": "2026-08-21T00:00:00+00:00",
+      "date_discovered": "2026-08-24T22:39:29.060381+00:00",
+      "duration": "Self-paced",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "cost": "100% Free",
       "pricing_type": "Free Content",
       "topics": [
         "Talent Management",
+<<<<<<< HEAD
         "Strategic HR",
         "Organizational Development"
+=======
+        "Future of Work & AI",
+        "Future of Work",
+        "AI Transformation",
+        "Skills-based organizations"
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
-      "relevance_score": 86.2,
+      "relevance_score": 77.5,
       "free": true,
+<<<<<<< HEAD
       "summary": "MIT Sloan master's level course covering organizational sociology, strategic human resource systems, and talent management.",
       "why_relevant": "World-class curriculum on how high-performance enterprise talent systems drive commercial execution.",
       "td_africa_application": "",
       "practical_application": "Use this resource to pilot a structured 9-Box talent assessment and succession slate across one critical department at TD Africa.",
+=======
+      "summary": "Only a few software teams are seeing real impact from incorporating AI. The key is launching an AI-driven redesign of the entire product development system, rather than just deploying new tools.",
+      "why_relevant": "Published by Tier-1 authority (McKinsey Organization & People Strategy Insights) addressing core capability areas.",
+      "td_africa_application": "Apply the frameworks from 'Beyond the copilot: Scaling the agentic product development life cycle' directly to refine TD Africa's annual TNA cycle, integrate modular lessons into SIMBA Spark microlearning, and deliver measurable capability metrics for executive reporting.",
+      "practical_application": "",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "free_alternative": null,
       "status": "NOT STARTED",
       "difficulty": "Intermediate",
@@ -723,19 +868,20 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
-      "canonical_hash": "e1854cb50a989b71b7fd19b501a54504390eacbc740263a59e6432b18ce7dfff",
+      "canonical_hash": "0f4facfdfc20e66ea4f62d06ce39983450682dd04ac5b7c12bcba64861cc902f",
       "score_breakdown": {
-        "career_relevance": 95.0,
+        "career_relevance": 60.0,
         "practical_ld_relevance": 50.0,
         "talent_management": 90.0,
         "quality_credibility": 100.0,
         "free_accessibility": 100.0,
         "recency": 100.0,
         "depth_value": 90.0,
-        "total_score": 86.2
+        "total_score": 77.5
       }
     },
     {
+<<<<<<< HEAD
       "title": "Artificial Intelligence Fundamentals & Responsible AI",
       "provider": "IBM SkillsBuild (Free Tech & Professional Capability)",
       "type": "Course",
@@ -743,9 +889,19 @@
       "date_published": "2026-08-24T22:31:07.026607+00:00",
       "date_discovered": "2026-08-24T22:31:07.026607+00:00",
       "duration": "2.5 hours",
+=======
+      "title": "Earning and sustaining trust in the age of AI",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "type": "Research Report / Whitepaper",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/earning-and-sustaining-trust-in-the-age-of-ai",
+      "date_published": "2026-08-20T00:00:00+00:00",
+      "date_discovered": "2026-08-24T22:39:29.060381+00:00",
+      "duration": "Self-paced",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "cost": "100% Free",
-      "pricing_type": "Free Certified Course",
+      "pricing_type": "Free Content",
       "topics": [
+<<<<<<< HEAD
         "Digital HR",
         "AI Governance",
         "Future of Work & AI",
@@ -792,14 +948,20 @@
         "Nine-Box Grid",
         "Succession Planning",
         "Talent Reviews"
+=======
+        "Future of Work",
+        "AI Transformation",
+        "Skills-based organizations",
+        "Talent Management"
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
-      "relevance_score": 85.0,
+      "relevance_score": 77.5,
       "free": true,
-      "summary": "Comprehensive university course on identifying critical talent, running talent review boards, and building succession slates.",
-      "why_relevant": "Directly prepares the user for Stage 4: Talent Development & Talent Management leadership.",
+      "summary": "Invesco President and CEO Andrew Schlossberg argues that AI should be part of a firm’s strategy, not on the sidelines, and that trust, once lost, is hard to win back.",
+      "why_relevant": "Published by Tier-1 authority (McKinsey Organization & People Strategy Insights) addressing core capability areas.",
       "td_africa_application": "",
-      "practical_application": "",
+      "practical_application": "Use this resource to pilot a structured 9-Box talent assessment and succession slate across one critical department at TD Africa.",
       "free_alternative": null,
       "status": "NOT STARTED",
       "difficulty": "Intermediate",
@@ -807,8 +969,9 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
-      "canonical_hash": "639ee62e0736b60af7f42f077069c44b73bfb26499f599e96d127a3a932c033a",
+      "canonical_hash": "e87e368c96668789c4a97c6a2ee29fca64ae403fe80010014f51b5070995a0bf",
       "score_breakdown": {
+<<<<<<< HEAD
         "career_relevance": 95.0,
         "practical_ld_relevance": 50.0,
         "talent_management": 100.0,
@@ -987,6 +1150,268 @@
         "recency": 100.0,
         "depth_value": 90.0,
         "total_score": 83.5
+=======
+        "career_relevance": 60.0,
+        "practical_ld_relevance": 50.0,
+        "talent_management": 90.0,
+        "quality_credibility": 100.0,
+        "free_accessibility": 100.0,
+        "recency": 100.0,
+        "depth_value": 90.0,
+        "total_score": 77.5
+      }
+    },
+    {
+      "title": "Advancing American healthcare: An interview with Seema Verma",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "type": "Research Report / Whitepaper",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/advancing-american-healthcare-an-interview-with-seema-verma",
+      "date_published": "2026-08-19T00:00:00+00:00",
+      "date_discovered": "2026-08-24T22:39:29.060381+00:00",
+      "duration": "Self-paced",
+      "cost": "100% Free",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Future of Work",
+        "AI Transformation",
+        "Skills-based organizations",
+        "Talent Management"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 77.5,
+      "free": true,
+      "summary": "A former CMS administrator and current Oracle Health and Life Sciences executive discusses leadership, public–private collaboration, and the promise of AI and value-based care.",
+      "why_relevant": "Published by Tier-1 authority (McKinsey Organization & People Strategy Insights) addressing core capability areas.",
+      "td_africa_application": "",
+      "practical_application": "",
+      "free_alternative": null,
+      "status": "NOT STARTED",
+      "difficulty": "Intermediate",
+      "event_date": null,
+      "registration_deadline": null,
+      "location": "Virtual / Online",
+      "speaker_or_author": null,
+      "canonical_hash": "a602a244abc6a714dd8d0f2b8d2756cbc9c07b63d706b95c7c4e7cb7d433c258",
+      "score_breakdown": {
+        "career_relevance": 60.0,
+        "practical_ld_relevance": 50.0,
+        "talent_management": 90.0,
+        "quality_credibility": 100.0,
+        "free_accessibility": 100.0,
+        "recency": 100.0,
+        "depth_value": 90.0,
+        "total_score": 77.5
+      }
+    },
+    {
+      "title": "Some hard questions about a world of plenty",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "type": "Research Report / Whitepaper",
+      "url": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/some-hard-questions-about-a-world-of-plenty",
+      "date_published": "2026-08-19T00:00:00+00:00",
+      "date_discovered": "2026-08-24T22:39:29.060381+00:00",
+      "duration": "Self-paced",
+      "cost": "100% Free",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Future of Work",
+        "AI Transformation",
+        "Skills-based organizations",
+        "Talent Management"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 77.5,
+      "free": true,
+      "summary": "Plenty may be possible—but what would it take to make it probable?",
+      "why_relevant": "Published by Tier-1 authority (McKinsey Organization & People Strategy Insights) addressing core capability areas.",
+      "td_africa_application": "",
+      "practical_application": "",
+      "free_alternative": null,
+      "status": "NOT STARTED",
+      "difficulty": "Intermediate",
+      "event_date": null,
+      "registration_deadline": null,
+      "location": "Virtual / Online",
+      "speaker_or_author": null,
+      "canonical_hash": "440a6230134cb43333cd01363414374cfa9f1096e3013d82e407206685b93921",
+      "score_breakdown": {
+        "career_relevance": 60.0,
+        "practical_ld_relevance": 50.0,
+        "talent_management": 90.0,
+        "quality_credibility": 100.0,
+        "free_accessibility": 100.0,
+        "recency": 100.0,
+        "depth_value": 90.0,
+        "total_score": 77.5
+      }
+    },
+    {
+      "title": "Michelle Williams on why public health is public wealth",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "type": "Research Report / Whitepaper",
+      "url": "https://www.mckinsey.com/mhi/our-insights/michelle-williams-on-why-public-health-is-public-wealth",
+      "date_published": "2026-08-19T00:00:00+00:00",
+      "date_discovered": "2026-08-24T22:39:29.060381+00:00",
+      "duration": "Self-paced",
+      "cost": "100% Free",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Future of Work",
+        "AI Transformation",
+        "Skills-based organizations",
+        "Talent Management"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 77.5,
+      "free": true,
+      "summary": "Michelle Williams, a leading voice in epidemiology and public health, advocates that society view the health of a population not as charity but as infrastructure upon which thriving communities are built.",
+      "why_relevant": "Published by Tier-1 authority (McKinsey Organization & People Strategy Insights) addressing core capability areas.",
+      "td_africa_application": "",
+      "practical_application": "",
+      "free_alternative": null,
+      "status": "NOT STARTED",
+      "difficulty": "Intermediate",
+      "event_date": null,
+      "registration_deadline": null,
+      "location": "Virtual / Online",
+      "speaker_or_author": null,
+      "canonical_hash": "aed306f108f4e41b36e811ac2457f20fac3df9c07471131607c86b7f6b99babe",
+      "score_breakdown": {
+        "career_relevance": 60.0,
+        "practical_ld_relevance": 50.0,
+        "talent_management": 90.0,
+        "quality_credibility": 100.0,
+        "free_accessibility": 100.0,
+        "recency": 100.0,
+        "depth_value": 90.0,
+        "total_score": 77.5
+      }
+    },
+    {
+      "title": "How can the public sector meet the AI moment?",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "type": "Research Report / Whitepaper",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
+      "date_published": "2026-08-18T00:00:00+00:00",
+      "date_discovered": "2026-08-24T22:39:29.060381+00:00",
+      "duration": "Self-paced",
+      "cost": "100% Free",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Future of Work",
+        "AI Transformation",
+        "Skills-based organizations",
+        "Talent Management"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 77.5,
+      "free": true,
+      "summary": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered.",
+      "why_relevant": "Published by Tier-1 authority (McKinsey Organization & People Strategy Insights) addressing core capability areas.",
+      "td_africa_application": "",
+      "practical_application": "",
+      "free_alternative": null,
+      "status": "NOT STARTED",
+      "difficulty": "Intermediate",
+      "event_date": null,
+      "registration_deadline": null,
+      "location": "Virtual / Online",
+      "speaker_or_author": null,
+      "canonical_hash": "0acb10ef4446452dd40d6c725ea4326cf931c380b9a94c4585021b98e7700611",
+      "score_breakdown": {
+        "career_relevance": 60.0,
+        "practical_ld_relevance": 50.0,
+        "talent_management": 90.0,
+        "quality_credibility": 100.0,
+        "free_accessibility": 100.0,
+        "recency": 100.0,
+        "depth_value": 90.0,
+        "total_score": 77.5
+      }
+    },
+    {
+      "title": "Reinventing the European pulp and paper operating model",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "type": "Research Report / Whitepaper",
+      "url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
+      "date_published": "2026-08-18T00:00:00+00:00",
+      "date_discovered": "2026-08-24T22:39:29.060381+00:00",
+      "duration": "Self-paced",
+      "cost": "100% Free",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Future of Work",
+        "AI Transformation",
+        "Skills-based organizations",
+        "Talent Management"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 77.5,
+      "free": true,
+      "summary": "Europe’s pulp and paper industry faces weaker demand, rising costs, and growing competition. The next frontier will focus on operations, commercial management, and capital allocation.",
+      "why_relevant": "Published by Tier-1 authority (McKinsey Organization & People Strategy Insights) addressing core capability areas.",
+      "td_africa_application": "",
+      "practical_application": "",
+      "free_alternative": null,
+      "status": "NOT STARTED",
+      "difficulty": "Intermediate",
+      "event_date": null,
+      "registration_deadline": null,
+      "location": "Virtual / Online",
+      "speaker_or_author": null,
+      "canonical_hash": "7ae5898aba8d213e2669abce6961d7794d0111f230a19cf38f80deec3be27413",
+      "score_breakdown": {
+        "career_relevance": 60.0,
+        "practical_ld_relevance": 50.0,
+        "talent_management": 90.0,
+        "quality_credibility": 100.0,
+        "free_accessibility": 100.0,
+        "recency": 100.0,
+        "depth_value": 90.0,
+        "total_score": 77.5
+      }
+    },
+    {
+      "title": "Governing AI with intention in the social impact sector",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "type": "Research Report / Whitepaper",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/governing-ai-with-intention-in-the-social-impact-sector",
+      "date_published": "2026-08-17T00:00:00+00:00",
+      "date_discovered": "2026-08-24T22:39:29.060381+00:00",
+      "duration": "Self-paced",
+      "cost": "100% Free",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Future of Work",
+        "AI Transformation",
+        "Skills-based organizations",
+        "Talent Management"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 77.5,
+      "free": true,
+      "summary": "As AI adoption grows, mission-driven organizations must weigh how to adopt new capabilities without sacrificing the trust central to every donor relationship, constituent served, and mission pursued.",
+      "why_relevant": "Published by Tier-1 authority (McKinsey Organization & People Strategy Insights) addressing core capability areas.",
+      "td_africa_application": "",
+      "practical_application": "",
+      "free_alternative": null,
+      "status": "NOT STARTED",
+      "difficulty": "Intermediate",
+      "event_date": null,
+      "registration_deadline": null,
+      "location": "Virtual / Online",
+      "speaker_or_author": null,
+      "canonical_hash": "936cec54cff7f4634e84f0dd130856beb8a43c5e15177b231ab1ef5e36d735ca",
+      "score_breakdown": {
+        "career_relevance": 60.0,
+        "practical_ld_relevance": 50.0,
+        "talent_management": 90.0,
+        "quality_credibility": 100.0,
+        "free_accessibility": 100.0,
+        "recency": 100.0,
+        "depth_value": 90.0,
+        "total_score": 77.5
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       }
     }
   ]

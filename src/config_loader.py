@@ -40,6 +40,21 @@ class ConfigLoader:
             self.root_dir = Path(root_dir)
         self.config_dir = self.root_dir / "config"
         self.data_dir = self.root_dir / "data"
+        self._load_dotenv()
+
+    def _load_dotenv(self) -> None:
+        env_path = self.root_dir / ".env"
+        if env_path.exists():
+            with open(env_path, "r", encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if not line or line.startswith("#") or "=" not in line:
+                        continue
+                    key, val = line.split("=", 1)
+                    key = key.strip()
+                    val = val.strip().strip("\"'")
+                    if key not in os.environ:
+                        os.environ[key] = val
 
     def load_profile(self) -> Dict[str, Any]:
         path = self.config_dir / "profile.yaml"

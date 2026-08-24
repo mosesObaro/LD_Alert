@@ -10,7 +10,7 @@ user:
   organization: "TD Africa"
   country: "Nigeria"
   timezone: "Africa/Lagos"
-  email: "${RECIPIENT_EMAIL:-emuesiri.agbabune@example.com}"
+  email: "${EMAIL_TO:-${RECIPIENT_EMAIL:-obaro.moses.emisho@gmail.com}}"
 
 professional_background:
   current_responsibilities:

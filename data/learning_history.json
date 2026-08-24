@@ -1,8 +1,14 @@
 {
   "user": "Emuesiri Jessica Agbabune",
+<<<<<<< HEAD
   "last_updated": "2026-08-24T22:31:12.142748+00:00",
   "summary": {
     "total_recommended": 3,
+=======
+  "last_updated": "2026-08-24T22:39:38.275291+00:00",
+  "summary": {
+    "total_recommended": 12,
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
     "completed": 0,
     "in_progress": 0,
     "applied": 0,
@@ -17,15 +23,26 @@
       "type": "Course",
       "pricing_type": "Free Certified Course",
       "topics": [
+<<<<<<< HEAD
         "Talent Development",
         "Learning Culture",
         "Adult Learning",
         "L&D Strategy"
+=======
+        "L&D Strategy",
+        "Talent Development",
+        "Adult Learning",
+        "Learning Culture"
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       ],
       "career_stage": "Stage 3: Strategic Learning & Capability Development",
       "relevance_score": 92.5,
       "week_recommended": 35,
+<<<<<<< HEAD
       "date_recommended": "2026-08-24T22:31:12.142425+00:00",
+=======
+      "date_recommended": "2026-08-24T22:36:56.192559+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "NOT STARTED",
       "rating": null,
       "key_learning": "",
@@ -39,14 +56,24 @@
       "type": "Course",
       "pricing_type": "Free Content",
       "topics": [
+<<<<<<< HEAD
         "Talent Management",
         "Strategic HR",
         "Organizational Development"
+=======
+        "Organizational Development",
+        "Strategic HR",
+        "Talent Management"
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
       "relevance_score": 86.2,
       "week_recommended": 35,
+<<<<<<< HEAD
       "date_recommended": "2026-08-24T22:31:12.142485+00:00",
+=======
+      "date_recommended": "2026-08-24T22:36:56.192595+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "NOT STARTED",
       "rating": null,
       "key_learning": "",
@@ -60,15 +87,227 @@
       "type": "Course",
       "pricing_type": "Free Certified Course",
       "topics": [
+<<<<<<< HEAD
         "Digital HR",
         "AI Governance",
         "Future of Work & AI",
         "AI for HR"
+=======
+        "AI for HR",
+        "AI Governance",
+        "Digital HR",
+        "Future of Work & AI"
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       ],
       "career_stage": "Stage 1: L&D Foundations",
       "relevance_score": 85.8,
       "week_recommended": 35,
+<<<<<<< HEAD
       "date_recommended": "2026-08-24T22:31:12.142555+00:00",
+=======
+      "date_recommended": "2026-08-24T22:36:56.192631+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "Developing Leadership Character and Capability",
+      "provider": "OpenLearn - The Open University (Free Certified Learning)",
+      "url": "https://www.open.edu/openlearn/money-business/leadership-management/developing-leadership-practice/content-section-0",
+      "type": "Course",
+      "pricing_type": "Free Certified Course",
+      "topics": [
+        "Executive Presence",
+        "Adult Learning",
+        "Leadership Development"
+      ],
+      "career_stage": "Stage 5: Enterprise Talent / Strategic HR Leadership",
+      "relevance_score": 82.5,
+      "week_recommended": 35,
+      "date_recommended": "2026-08-24T22:38:24.355469+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "Strategic Talent Management (University of Michigan)",
+      "provider": "Coursera Free Audit Catalog (L&D, HR, People Analytics)",
+      "url": "https://www.coursera.org/learn/talent-management",
+      "type": "Course",
+      "pricing_type": "Course content: Free to audit (Certificate: Paid)",
+      "topics": [
+        "Nine-Box Grid",
+        "Succession Planning",
+        "Talent Reviews",
+        "Talent Management"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 85.0,
+      "week_recommended": 35,
+      "date_recommended": "2026-08-24T22:38:24.355536+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "How GenAI Can and Can’t Help Manage Customer Insights",
+      "provider": "MIT Sloan Management Review (Workforce & AI)",
+      "url": "https://sloanreview.mit.edu/article/how-genai-can-and-cant-help-manage-customer-insights",
+      "type": "Research Report / Whitepaper",
+      "pricing_type": "Free Content",
+      "topics": [
+        "AI Governance",
+        "Skills Strategy",
+        "People Analytics",
+        "Future of Work & AI",
+        "Talent Agility"
+      ],
+      "career_stage": "Stage 1: L&D Foundations",
+      "relevance_score": 85.0,
+      "week_recommended": 35,
+      "date_recommended": "2026-08-24T22:38:24.355590+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "How to close the agentic adoption gap",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-close-the-agentic-adoption-gap",
+      "type": "Research Report / Whitepaper",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Talent Management",
+        "Leadership",
+        "Future of Work",
+        "Skills-based organizations",
+        "AI Transformation",
+        "Human Resource Management"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 84.2,
+      "week_recommended": 35,
+      "date_recommended": "2026-08-24T22:39:12.143224+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "People Analytics: Transforming HR with Data (Wharton)",
+      "provider": "Coursera Free Audit Catalog (L&D, HR, People Analytics)",
+      "url": "https://www.coursera.org/learn/wharton-people-analytics",
+      "type": "Course",
+      "pricing_type": "Course content: Free to audit (Certificate: Paid)",
+      "topics": [
+        "Workforce Planning",
+        "Learning Analytics",
+        "People Analytics",
+        "Talent Development"
+      ],
+      "career_stage": "Stage 3: Strategic Learning & Capability Development",
+      "relevance_score": 83.5,
+      "week_recommended": 35,
+      "date_recommended": "2026-08-24T22:39:12.143304+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "Build Interactive Dashboards in Power BI for People Analytics",
+      "provider": "Microsoft Learn - AI, Digital Skills & Copilot for Workplace",
+      "url": "https://learn.microsoft.com/en-us/training/paths/create-use-analytics-reports-power-bi",
+      "type": "Course",
+      "pricing_type": "Free Certified Course",
+      "topics": [
+        "Learning Analytics",
+        "People Analytics",
+        "L&D Dashboards"
+      ],
+      "career_stage": "Stage 5: Enterprise Talent / Strategic HR Leadership",
+      "relevance_score": 83.8,
+      "week_recommended": 35,
+      "date_recommended": "2026-08-24T22:39:12.143374+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "Beyond the copilot: Scaling the agentic product development life cycle",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle",
+      "type": "Research Report / Whitepaper",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Talent Management",
+        "Future of Work & AI",
+        "Future of Work",
+        "AI Transformation",
+        "Skills-based organizations"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 77.5,
+      "week_recommended": 35,
+      "date_recommended": "2026-08-24T22:39:38.274692+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "Earning and sustaining trust in the age of AI",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/earning-and-sustaining-trust-in-the-age-of-ai",
+      "type": "Research Report / Whitepaper",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Future of Work",
+        "AI Transformation",
+        "Skills-based organizations",
+        "Talent Management"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 77.5,
+      "week_recommended": 35,
+      "date_recommended": "2026-08-24T22:39:38.274788+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "Develop Your Team’s Social Capital, Not Just Their Skills",
+      "provider": "MIT Sloan Management Review (Workforce & AI)",
+      "url": "https://sloanreview.mit.edu/article/develop-your-teams-social-capital-not-just-their-skills",
+      "type": "Research Report / Whitepaper",
+      "pricing_type": "Free Content",
+      "topics": [
+        "People Analytics",
+        "Skills Strategy",
+        "Leadership",
+        "Talent Agility",
+        "AI Governance"
+      ],
+      "career_stage": "Stage 1: L&D Foundations",
+      "relevance_score": 77.5,
+      "week_recommended": 35,
+      "date_recommended": "2026-08-24T22:39:38.274875+00:00",
+>>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
       "status": "NOT STARTED",
       "rating": null,
       "key_learning": "",
