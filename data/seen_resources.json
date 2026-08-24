@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T22:47:43.585535+00:00",
-  "total_seen": 4,
+  "last_updated": "2026-08-24T22:52:18.166640+00:00",
+  "total_seen": 7,
   "seen_urls": {
     "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0": {
       "title": "Workplace Learning and Capability Development",
@@ -29,6 +29,27 @@
       "date_seen": "2026-08-24T22:47:43.585507+00:00",
       "score": 85.8,
       "doi": null
+    },
+    "https://www.coursera.org/learn/talent-management": {
+      "title": "Strategic Talent Management (University of Michigan)",
+      "provider": "Coursera Free Audit Catalog (L&D, HR, People Analytics)",
+      "date_seen": "2026-08-24T22:52:18.166423+00:00",
+      "score": 85.0,
+      "doi": null
+    },
+    "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-close-the-agentic-adoption-gap": {
+      "title": "How to close the agentic adoption gap",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "date_seen": "2026-08-24T22:52:18.166549+00:00",
+      "score": 84.2,
+      "doi": null
+    },
+    "https://sloanreview.mit.edu/article/how-genai-can-and-cant-help-manage-customer-insights": {
+      "title": "How GenAI Can and Can’t Help Manage Customer Insights",
+      "provider": "MIT Sloan Management Review (Workforce & AI)",
+      "date_seen": "2026-08-24T22:52:18.166600+00:00",
+      "score": 85.0,
+      "doi": null
     }
   },
   "seen_hashes": {
@@ -51,6 +72,21 @@
       "title": "Artificial Intelligence Fundamentals & Responsible AI",
       "url": "https://skillsbuild.org/students/course-catalog/artificial-intelligence",
       "date_seen": "2026-08-24T22:47:43.585507+00:00"
+    },
+    "639ee62e0736b60af7f42f077069c44b73bfb26499f599e96d127a3a932c033a": {
+      "title": "Strategic Talent Management (University of Michigan)",
+      "url": "https://www.coursera.org/learn/talent-management",
+      "date_seen": "2026-08-24T22:52:18.166423+00:00"
+    },
+    "9ac894f81f4856ed40a3ad2b3e61b641bf7443d6ea66868b19f434cb73a32fd5": {
+      "title": "How to close the agentic adoption gap",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-close-the-agentic-adoption-gap",
+      "date_seen": "2026-08-24T22:52:18.166549+00:00"
+    },
+    "1a01126601e00f274b7654834d852ef1872331cdb204c304fb95f894d093e2cf": {
+      "title": "How GenAI Can and Can’t Help Manage Customer Insights",
+      "url": "https://sloanreview.mit.edu/article/how-genai-can-and-cant-help-manage-customer-insights",
+      "date_seen": "2026-08-24T22:52:18.166600+00:00"
     }
   }
 }
