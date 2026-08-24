@@ -22,32 +22,35 @@ class MemoryEngine:
             self.history_file = Path(history_file)
         self.data = self._load()
 
+    def _get_default_state(self) -> Dict[str, Any]:
+        return {
+            "user": "Emuesiri Jessica Agbabune",
+            "last_updated": to_iso_string(),
+            "summary": {
+                "total_recommended": 0,
+                "completed": 0,
+                "in_progress": 0,
+                "applied": 0,
+                "skipped": 0,
+                "total_learning_minutes": 0
+            },
+            "history": [],
+            "feedback_penalties": {
+                "skipped_topics": {},
+                "skipped_providers": {},
+                "highly_rated_topics": {}
+            }
+        }
+
     def _load(self) -> Dict[str, Any]:
         if not self.history_file.exists():
-            return {
-                "user": "Emuesiri Jessica Agbabune",
-                "last_updated": to_iso_string(),
-                "summary": {
-                    "total_recommended": 0,
-                    "completed": 0,
-                    "in_progress": 0,
-                    "applied": 0,
-                    "skipped": 0,
-                    "total_learning_minutes": 0
-                },
-                "history": [],
-                "feedback_penalties": {
-                    "skipped_topics": {},
-                    "skipped_providers": {},
-                    "highly_rated_topics": {}
-                }
-            }
+            return self._get_default_state()
         try:
             with open(self.history_file, "r", encoding="utf-8") as f:
                 return json.load(f)
         except Exception as e:
-            logger.warning(f"Could not load learning history: {e}. Reinitializing.")
-            return self._load()
+            logger.warning(f"Could not load learning history: {e}. Reinitializing default state.")
+            return self._get_default_state()
 
     def save(self) -> None:
         """Persists learning history to JSON file."""

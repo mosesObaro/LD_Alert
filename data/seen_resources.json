@@ -1,183 +1,20 @@
 {
-<<<<<<< HEAD
-  "last_updated": "2026-08-24T22:31:12.142561+00:00",
-  "total_seen": 3,
-=======
   "last_updated": "2026-08-24T22:39:38.274879+00:00",
-  "total_seen": 12,
->>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
+  "total_seen": 1,
   "seen_urls": {
     "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0": {
       "title": "Workplace Learning and Capability Development",
       "provider": "OpenLearn - The Open University (Free Certified Learning)",
-<<<<<<< HEAD
-      "date_seen": "2026-08-24T22:31:12.142391+00:00",
-=======
-      "date_seen": "2026-08-24T22:36:56.192533+00:00",
->>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
+      "date_seen": "2026-08-24T22:39:38.274879+00:00",
       "score": 92.5,
       "doi": null
-    },
-    "https://ocw.mit.edu/courses/15-668-people-and-organizations-fall-2010": {
-      "title": "People and Organizations (MIT Sloan Management)",
-      "provider": "MIT OpenCourseWare (Management & Leadership)",
-<<<<<<< HEAD
-      "date_seen": "2026-08-24T22:31:12.142456+00:00",
-=======
-      "date_seen": "2026-08-24T22:36:56.192575+00:00",
->>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
-      "score": 86.2,
-      "doi": null
-    },
-    "https://skillsbuild.org/students/course-catalog/artificial-intelligence": {
-      "title": "Artificial Intelligence Fundamentals & Responsible AI",
-      "provider": "IBM SkillsBuild (Free Tech & Professional Capability)",
-<<<<<<< HEAD
-      "date_seen": "2026-08-24T22:31:12.142517+00:00",
-      "score": 85.8,
-      "doi": null
-=======
-      "date_seen": "2026-08-24T22:36:56.192608+00:00",
-      "score": 85.8,
-      "doi": null
-    },
-    "https://www.open.edu/openlearn/money-business/leadership-management/developing-leadership-practice/content-section-0": {
-      "title": "Developing Leadership Character and Capability",
-      "provider": "OpenLearn - The Open University (Free Certified Learning)",
-      "date_seen": "2026-08-24T22:38:24.355412+00:00",
-      "score": 82.5,
-      "doi": null
-    },
-    "https://www.coursera.org/learn/talent-management": {
-      "title": "Strategic Talent Management (University of Michigan)",
-      "provider": "Coursera Free Audit Catalog (L&D, HR, People Analytics)",
-      "date_seen": "2026-08-24T22:38:24.355489+00:00",
-      "score": 85.0,
-      "doi": null
-    },
-    "https://sloanreview.mit.edu/article/how-genai-can-and-cant-help-manage-customer-insights": {
-      "title": "How GenAI Can and Can’t Help Manage Customer Insights",
-      "provider": "MIT Sloan Management Review (Workforce & AI)",
-      "date_seen": "2026-08-24T22:38:24.355549+00:00",
-      "score": 85.0,
-      "doi": null
-    },
-    "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-close-the-agentic-adoption-gap": {
-      "title": "How to close the agentic adoption gap",
-      "provider": "McKinsey Organization & People Strategy Insights",
-      "date_seen": "2026-08-24T22:39:12.143136+00:00",
-      "score": 84.2,
-      "doi": null
-    },
-    "https://www.coursera.org/learn/wharton-people-analytics": {
-      "title": "People Analytics: Transforming HR with Data (Wharton)",
-      "provider": "Coursera Free Audit Catalog (L&D, HR, People Analytics)",
-      "date_seen": "2026-08-24T22:39:12.143239+00:00",
-      "score": 83.5,
-      "doi": null
-    },
-    "https://learn.microsoft.com/en-us/training/paths/create-use-analytics-reports-power-bi": {
-      "title": "Build Interactive Dashboards in Power BI for People Analytics",
-      "provider": "Microsoft Learn - AI, Digital Skills & Copilot for Workplace",
-      "date_seen": "2026-08-24T22:39:12.143316+00:00",
-      "score": 83.8,
-      "doi": null
-    },
-    "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle": {
-      "title": "Beyond the copilot: Scaling the agentic product development life cycle",
-      "provider": "McKinsey Organization & People Strategy Insights",
-      "date_seen": "2026-08-24T22:39:38.274578+00:00",
-      "score": 77.5,
-      "doi": null
-    },
-    "https://www.mckinsey.com/industries/financial-services/our-insights/earning-and-sustaining-trust-in-the-age-of-ai": {
-      "title": "Earning and sustaining trust in the age of AI",
-      "provider": "McKinsey Organization & People Strategy Insights",
-      "date_seen": "2026-08-24T22:39:38.274706+00:00",
-      "score": 77.5,
-      "doi": null
-    },
-    "https://sloanreview.mit.edu/article/develop-your-teams-social-capital-not-just-their-skills": {
-      "title": "Develop Your Team’s Social Capital, Not Just Their Skills",
-      "provider": "MIT Sloan Management Review (Workforce & AI)",
-      "date_seen": "2026-08-24T22:39:38.274800+00:00",
-      "score": 77.5,
-      "doi": null
->>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
     }
   },
   "seen_hashes": {
     "28eaff8294a6001fa05c3493611cb392b5da9ede4be32f68c918609d61eaff7a": {
       "title": "Workplace Learning and Capability Development",
       "url": "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0",
-<<<<<<< HEAD
-      "date_seen": "2026-08-24T22:31:12.142391+00:00"
-=======
-      "date_seen": "2026-08-24T22:36:56.192533+00:00"
->>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
-    },
-    "e1854cb50a989b71b7fd19b501a54504390eacbc740263a59e6432b18ce7dfff": {
-      "title": "People and Organizations (MIT Sloan Management)",
-      "url": "https://ocw.mit.edu/courses/15-668-people-and-organizations-fall-2010",
-<<<<<<< HEAD
-      "date_seen": "2026-08-24T22:31:12.142456+00:00"
-=======
-      "date_seen": "2026-08-24T22:36:56.192575+00:00"
->>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
-    },
-    "23fcea98efbbc0b89f7b240616956c0ba29638910f135042712718088b00ec97": {
-      "title": "Artificial Intelligence Fundamentals & Responsible AI",
-      "url": "https://skillsbuild.org/students/course-catalog/artificial-intelligence",
-<<<<<<< HEAD
-      "date_seen": "2026-08-24T22:31:12.142517+00:00"
-=======
-      "date_seen": "2026-08-24T22:36:56.192608+00:00"
-    },
-    "397eb99ff4a015f377fd560b4cd7ea7220219583c8f6e6f5aeaba11055b2cdd1": {
-      "title": "Developing Leadership Character and Capability",
-      "url": "https://www.open.edu/openlearn/money-business/leadership-management/developing-leadership-practice/content-section-0",
-      "date_seen": "2026-08-24T22:38:24.355412+00:00"
-    },
-    "639ee62e0736b60af7f42f077069c44b73bfb26499f599e96d127a3a932c033a": {
-      "title": "Strategic Talent Management (University of Michigan)",
-      "url": "https://www.coursera.org/learn/talent-management",
-      "date_seen": "2026-08-24T22:38:24.355489+00:00"
-    },
-    "1a01126601e00f274b7654834d852ef1872331cdb204c304fb95f894d093e2cf": {
-      "title": "How GenAI Can and Can’t Help Manage Customer Insights",
-      "url": "https://sloanreview.mit.edu/article/how-genai-can-and-cant-help-manage-customer-insights",
-      "date_seen": "2026-08-24T22:38:24.355549+00:00"
-    },
-    "9ac894f81f4856ed40a3ad2b3e61b641bf7443d6ea66868b19f434cb73a32fd5": {
-      "title": "How to close the agentic adoption gap",
-      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-close-the-agentic-adoption-gap",
-      "date_seen": "2026-08-24T22:39:12.143136+00:00"
-    },
-    "b62dc63157ebaa7eeaebcb4dccb593abde4ce1c357bb70ace0d6382381d41750": {
-      "title": "People Analytics: Transforming HR with Data (Wharton)",
-      "url": "https://www.coursera.org/learn/wharton-people-analytics",
-      "date_seen": "2026-08-24T22:39:12.143239+00:00"
-    },
-    "5337aa2504c6238d69731899e769afb9ab3fe35c47db0800c17951b4bc799258": {
-      "title": "Build Interactive Dashboards in Power BI for People Analytics",
-      "url": "https://learn.microsoft.com/en-us/training/paths/create-use-analytics-reports-power-bi",
-      "date_seen": "2026-08-24T22:39:12.143316+00:00"
-    },
-    "0f4facfdfc20e66ea4f62d06ce39983450682dd04ac5b7c12bcba64861cc902f": {
-      "title": "Beyond the copilot: Scaling the agentic product development life cycle",
-      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle",
-      "date_seen": "2026-08-24T22:39:38.274578+00:00"
-    },
-    "e87e368c96668789c4a97c6a2ee29fca64ae403fe80010014f51b5070995a0bf": {
-      "title": "Earning and sustaining trust in the age of AI",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/earning-and-sustaining-trust-in-the-age-of-ai",
-      "date_seen": "2026-08-24T22:39:38.274706+00:00"
-    },
-    "c6becbdbc1479fb7e2ce015d240438c222ebe2124ad84d427a1d03dc8fbb00c3": {
-      "title": "Develop Your Team’s Social Capital, Not Just Their Skills",
-      "url": "https://sloanreview.mit.edu/article/develop-your-teams-social-capital-not-just-their-skills",
-      "date_seen": "2026-08-24T22:39:38.274800+00:00"
->>>>>>> df8416a (feat: enhance recipient resolution and add live email delivery support)
+      "date_seen": "2026-08-24T22:39:38.274879+00:00"
     }
   }
 }
