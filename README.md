@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Free Infrastructure](https://img.shields.io/badge/infrastructure-100%25%20Free%20Tier-success)
 
-An automated personal career development intelligence system designed specifically for **Emuesiri Jessica Agbabune** (Head / Learning & Development Manager at **TD Africa**) to accelerate progression from L&D management into strategic **Talent Development, Talent Management, and Executive HR Leadership**.
+An automated personal career development intelligence system designed specifically for a Head / Learning & Development Manager at a tech compamy to accelerate progression from L&D management into strategic **Talent Development, Talent Management, and Executive HR Leadership**.
 
 ---
 
