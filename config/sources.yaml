@@ -221,6 +221,39 @@ sources:
     pricing_bias: "mostly_free"
     enabled: true
 
+  - id: "wharton_knowledge"
+    name: "Knowledge at Wharton (University of Pennsylvania)"
+    url: "https://knowledge.wharton.upenn.edu"
+    feed_url: "https://knowledge.wharton.upenn.edu/feed/"
+    type: "rss"
+    tier: 1
+    category: "academic_journal"
+    topics: ["Talent Management", "People Analytics", "Leadership Development", "Strategic HR"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  - id: "stanford_ssir"
+    name: "Stanford Social Innovation Review (SSIR)"
+    url: "https://ssir.org"
+    feed_url: "https://ssir.org/site/rss_2.0/"
+    type: "rss"
+    tier: 1
+    category: "academic_journal"
+    topics: ["Organizational Development", "Leadership", "Change Management", "Culture"]
+    pricing_bias: "always_free"
+    enabled: true
+
+  - id: "mit_sloan_news"
+    name: "MIT Sloan Management School News & Research"
+    url: "https://news.mit.edu"
+    feed_url: "https://news.mit.edu/rss/topic/sloan-school-management"
+    type: "rss"
+    tier: 1
+    category: "academic_journal"
+    topics: ["Future of Work & AI", "Leadership", "Digital HR", "Organizational Learning"]
+    pricing_bias: "always_free"
+    enabled: true
+
   # ----------------------------------------------------------------------------
   # TIER 1/2: YOUTUBE UNIVERSITY & EXPERT LECTURE FEEDS
   # ----------------------------------------------------------------------------
