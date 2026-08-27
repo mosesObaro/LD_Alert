@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T22:52:18.166640+00:00",
-  "total_seen": 7,
+  "last_updated": "2026-08-27T17:22:27.270352+00:00",
+  "total_seen": 8,
   "seen_urls": {
     "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0": {
       "title": "Workplace Learning and Capability Development",
@@ -50,6 +50,13 @@
       "date_seen": "2026-08-24T22:52:18.166600+00:00",
       "score": 85.0,
       "doi": null
+    },
+    "https://www.td.org/capability-model": {
+      "title": "ATD Talent Development Capability Model & Microlearning Design Guide",
+      "provider": "ATD (Association for Talent Development)",
+      "date_seen": "2026-08-27T17:22:27.270331+00:00",
+      "score": 93.8,
+      "doi": null
     }
   },
   "seen_hashes": {
@@ -87,6 +94,11 @@
       "title": "How GenAI Can and Can’t Help Manage Customer Insights",
       "url": "https://sloanreview.mit.edu/article/how-genai-can-and-cant-help-manage-customer-insights",
       "date_seen": "2026-08-24T22:52:18.166600+00:00"
+    },
+    "4b85254c04f1e0e8677cfdcefa1f99a0cb606a30a9f9af7cb642ae48735d1fd7": {
+      "title": "ATD Talent Development Capability Model & Microlearning Design Guide",
+      "url": "https://www.td.org/capability-model",
+      "date_seen": "2026-08-27T17:22:27.270331+00:00"
     }
   }
 }
