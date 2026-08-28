@@ -1,8 +1,8 @@
 {
   "user": "Emuesiri Jessica Agbabune",
-  "last_updated": "2026-08-27T17:22:27.270959+00:00",
+  "last_updated": "2026-08-28T18:15:21.757943+00:00",
   "summary": {
-    "total_recommended": 8,
+    "total_recommended": 9,
     "completed": 0,
     "in_progress": 0,
     "applied": 0,
@@ -182,6 +182,31 @@
       "relevance_score": 93.8,
       "week_recommended": 35,
       "date_recommended": "2026-08-27T17:22:27.270943+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "How to Build a Strategic HR Competency Framework Step-by-Step (AIHR)",
+      "provider": "Academy to Innovate HR (AIHR Public Masterclasses) (YouTube)",
+      "url": "https://www.youtube.com/watch?v=7hR9qQZk9Yg",
+      "type": "University / Expert Public Lecture",
+      "pricing_type": "Free Event / Webinar",
+      "topics": [
+        "Learning & Development",
+        "People Analytics",
+        "HR Dashboards",
+        "TNA",
+        "Competency Frameworks",
+        "Talent Development",
+        "Strategic HRBP"
+      ],
+      "career_stage": "Stage 5: Enterprise Talent / Strategic HR Leadership",
+      "relevance_score": 93.5,
+      "week_recommended": 35,
+      "date_recommended": "2026-08-28T18:15:21.757918+00:00",
       "status": "NOT STARTED",
       "rating": null,
       "key_learning": "",
