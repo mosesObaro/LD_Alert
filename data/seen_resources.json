@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T18:15:21.672265+00:00",
-  "total_seen": 9,
+  "last_updated": "2026-08-31T12:52:55.359225+00:00",
+  "total_seen": 12,
   "seen_urls": {
     "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0": {
       "title": "Workplace Learning and Capability Development",
@@ -64,6 +64,27 @@
       "date_seen": "2026-08-28T18:15:21.672242+00:00",
       "score": 93.5,
       "doi": null
+    },
+    "https://www.cipd.org/en/knowledge/profession-map": {
+      "title": "CIPD Profession Map: Core Knowledge & Specialist Capability in L&D",
+      "provider": "CIPD (Chartered Institute of Personnel and Development)",
+      "date_seen": "2026-08-31T12:52:55.358856+00:00",
+      "score": 82.2,
+      "doi": null
+    },
+    "https://www.youtube.com/watch?v=0kF6l4e-n7o": {
+      "title": "How to Conduct High-Impact Talent Reviews & Succession Calibration (HBR)",
+      "provider": "Harvard Business School & HBR Channel (YouTube)",
+      "date_seen": "2026-08-31T12:52:55.359032+00:00",
+      "score": 87.8,
+      "doi": null
+    },
+    "https://www.shrm.org/credentials/certification/shrm-bask": {
+      "title": "SHRM Body of Applied Skills & Knowledge (BASK) - Talent Management Framework",
+      "provider": "SHRM (Society for Human Resource Management)",
+      "date_seen": "2026-08-31T12:52:55.359123+00:00",
+      "score": 86.8,
+      "doi": null
     }
   },
   "seen_hashes": {
@@ -111,6 +132,21 @@
       "title": "How to Build a Strategic HR Competency Framework Step-by-Step (AIHR)",
       "url": "https://www.youtube.com/watch?v=7hR9qQZk9Yg",
       "date_seen": "2026-08-28T18:15:21.672242+00:00"
+    },
+    "96f60cdf38ca4a14ed1dc3a17bdfd30e0e2b34fd0dc59c8c2a240e4bd27ef4dd": {
+      "title": "CIPD Profession Map: Core Knowledge & Specialist Capability in L&D",
+      "url": "https://www.cipd.org/en/knowledge/profession-map",
+      "date_seen": "2026-08-31T12:52:55.358856+00:00"
+    },
+    "9669b74186659111a7ab2f7fa3a7cef23f5e206f649b40155394cdc2461adef7": {
+      "title": "How to Conduct High-Impact Talent Reviews & Succession Calibration (HBR)",
+      "url": "https://www.youtube.com/watch?v=0kF6l4e-n7o",
+      "date_seen": "2026-08-31T12:52:55.359032+00:00"
+    },
+    "cc89b9374fa651782980d8f4f1865a0af8200c0cca60ce0bc9367ed0f783f100": {
+      "title": "SHRM Body of Applied Skills & Knowledge (BASK) - Talent Management Framework",
+      "url": "https://www.shrm.org/credentials/certification/shrm-bask",
+      "date_seen": "2026-08-31T12:52:55.359123+00:00"
     }
   }
 }
