@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T12:52:55.359225+00:00",
-  "total_seen": 12,
+  "last_updated": "2026-09-07T11:44:31.279331+00:00",
+  "total_seen": 15,
   "seen_urls": {
     "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0": {
       "title": "Workplace Learning and Capability Development",
@@ -85,6 +85,27 @@
       "date_seen": "2026-08-31T12:52:55.359123+00:00",
       "score": 86.8,
       "doi": null
+    },
+    "https://hbr.org/topic/subject/learning-and-development": {
+      "title": "Harvard Business Review Guide: How to Evaluate Training and Prove L&D ROI",
+      "provider": "Harvard Business Review (Managing People & Learning)",
+      "date_seen": "2026-09-07T11:44:31.279031+00:00",
+      "score": 79.0,
+      "doi": null
+    },
+    "https://www.hci.org/research": {
+      "title": "Succession Management in Practice: Moving Beyond the Static 9-Box",
+      "provider": "Human Capital Institute (HCI)",
+      "date_seen": "2026-09-07T11:44:31.279194+00:00",
+      "score": 87.0,
+      "doi": null
+    },
+    "https://www.cipd.org/en/knowledge/factsheets/strategic-workforce-planning-factsheet": {
+      "title": "Strategic Workforce Planning & Capability Forecasting Factsheet",
+      "provider": "CIPD (Chartered Institute of Personnel and Development)",
+      "date_seen": "2026-09-07T11:44:31.279267+00:00",
+      "score": 86.2,
+      "doi": null
     }
   },
   "seen_hashes": {
@@ -147,6 +168,21 @@
       "title": "SHRM Body of Applied Skills & Knowledge (BASK) - Talent Management Framework",
       "url": "https://www.shrm.org/credentials/certification/shrm-bask",
       "date_seen": "2026-08-31T12:52:55.359123+00:00"
+    },
+    "536fc0198e0eaaf81e4584df58158a1640a986a1e21e1be097d2206ae0d22295": {
+      "title": "Harvard Business Review Guide: How to Evaluate Training and Prove L&D ROI",
+      "url": "https://hbr.org/topic/subject/learning-and-development",
+      "date_seen": "2026-09-07T11:44:31.279031+00:00"
+    },
+    "697a065de17f441a7095187343040da192fdb7f0e7c795ffa3923ca8b13a97d7": {
+      "title": "Succession Management in Practice: Moving Beyond the Static 9-Box",
+      "url": "https://www.hci.org/research",
+      "date_seen": "2026-09-07T11:44:31.279194+00:00"
+    },
+    "34d553a02067b9bfdc4b380783e31704663b76849fc43475c679abee1a1e599b": {
+      "title": "Strategic Workforce Planning & Capability Forecasting Factsheet",
+      "url": "https://www.cipd.org/en/knowledge/factsheets/strategic-workforce-planning-factsheet",
+      "date_seen": "2026-09-07T11:44:31.279267+00:00"
     }
   }
 }
