@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T11:44:31.279331+00:00",
-  "total_seen": 15,
+  "last_updated": "2026-09-14T11:58:29.390903+00:00",
+  "total_seen": 18,
   "seen_urls": {
     "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0": {
       "title": "Workplace Learning and Capability Development",
@@ -106,6 +106,27 @@
       "date_seen": "2026-09-07T11:44:31.279267+00:00",
       "score": 86.2,
       "doi": null
+    },
+    "https://www2.deloitte.com/us/en/insights/focus/human-capital-trends/2023/skills-based-organization.html": {
+      "title": "Deloitte Skills-Based Organization Blueprint",
+      "provider": "Deloitte Human Capital Trends & Research",
+      "date_seen": "2026-09-14T11:58:29.390426+00:00",
+      "score": 85.5,
+      "doi": null
+    },
+    "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/the-fdnys-transformation-after-9-11": {
+      "title": "The FDNY’s Transformation After 9/11",
+      "provider": "Knowledge at Wharton (University of Pennsylvania)",
+      "date_seen": "2026-09-14T11:58:29.390676+00:00",
+      "score": 85.5,
+      "doi": null
+    },
+    "https://knowledge.wharton.upenn.edu/podcast/marketing-matters/how-the-nfl-is-winning-a-new-generation-of-fans": {
+      "title": "How the NFL Is Winning a New Generation of Fans",
+      "provider": "Knowledge at Wharton (University of Pennsylvania)",
+      "date_seen": "2026-09-14T11:58:29.390795+00:00",
+      "score": 85.5,
+      "doi": null
     }
   },
   "seen_hashes": {
@@ -183,6 +204,21 @@
       "title": "Strategic Workforce Planning & Capability Forecasting Factsheet",
       "url": "https://www.cipd.org/en/knowledge/factsheets/strategic-workforce-planning-factsheet",
       "date_seen": "2026-09-07T11:44:31.279267+00:00"
+    },
+    "164b97cdcf2be0a681ab3aba7d9e9fd63b3e996adee06e1b201a3dfc0a1c6c09": {
+      "title": "Deloitte Skills-Based Organization Blueprint",
+      "url": "https://www2.deloitte.com/us/en/insights/focus/human-capital-trends/2023/skills-based-organization.html",
+      "date_seen": "2026-09-14T11:58:29.390426+00:00"
+    },
+    "0ae6781c4f8c0bbd699d97bd6de15a2d13dd5222750cea19da59c964ffebad8d": {
+      "title": "The FDNY’s Transformation After 9/11",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/the-fdnys-transformation-after-9-11",
+      "date_seen": "2026-09-14T11:58:29.390676+00:00"
+    },
+    "be4986800ad23bfca9d7a53c104142e2b40ac38b3df1b8d83e14a59147fde5c3": {
+      "title": "How the NFL Is Winning a New Generation of Fans",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/marketing-matters/how-the-nfl-is-winning-a-new-generation-of-fans",
+      "date_seen": "2026-09-14T11:58:29.390795+00:00"
     }
   }
 }

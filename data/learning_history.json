@@ -1,8 +1,8 @@
 {
   "user": "Emuesiri Jessica Agbabune",
-  "last_updated": "2026-09-07T11:44:31.279732+00:00",
+  "last_updated": "2026-09-14T11:58:29.391459+00:00",
   "summary": {
-    "total_recommended": 15,
+    "total_recommended": 18,
     "completed": 0,
     "in_progress": 0,
     "applied": 0,
@@ -342,6 +342,71 @@
       "relevance_score": 86.2,
       "week_recommended": 37,
       "date_recommended": "2026-09-07T11:44:31.279328+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "Deloitte Skills-Based Organization Blueprint",
+      "provider": "Deloitte Human Capital Trends & Research",
+      "url": "https://www2.deloitte.com/us/en/insights/focus/human-capital-trends/2023/skills-based-organization.html",
+      "type": "Research Report / Whitepaper",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Future of Work",
+        "Skills-based organizations",
+        "Talent Development"
+      ],
+      "career_stage": "Stage 1: L&D Foundations",
+      "relevance_score": 85.5,
+      "week_recommended": 38,
+      "date_recommended": "2026-09-14T11:58:29.390655+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "The FDNY’s Transformation After 9/11",
+      "provider": "Knowledge at Wharton (University of Pennsylvania)",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/the-fdnys-transformation-after-9-11",
+      "type": "Research Report / Whitepaper",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Talent Management",
+        "Leadership Development",
+        "People Analytics",
+        "Strategic HR"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 85.5,
+      "week_recommended": 38,
+      "date_recommended": "2026-09-14T11:58:29.390778+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "How the NFL Is Winning a New Generation of Fans",
+      "provider": "Knowledge at Wharton (University of Pennsylvania)",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/marketing-matters/how-the-nfl-is-winning-a-new-generation-of-fans",
+      "type": "Research Report / Whitepaper",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Talent Management",
+        "Leadership Development",
+        "People Analytics",
+        "Strategic HR"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 85.5,
+      "week_recommended": 38,
+      "date_recommended": "2026-09-14T11:58:29.390899+00:00",
       "status": "NOT STARTED",
       "rating": null,
       "key_learning": "",
