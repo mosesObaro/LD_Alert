@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T11:58:29.390903+00:00",
-  "total_seen": 18,
+  "last_updated": "2026-09-21T12:09:38.662233+00:00",
+  "total_seen": 21,
   "seen_urls": {
     "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0": {
       "title": "Workplace Learning and Capability Development",
@@ -127,6 +127,27 @@
       "date_seen": "2026-09-14T11:58:29.390795+00:00",
       "score": 85.5,
       "doi": null
+    },
+    "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/ai-is-changing-jobs-not-eliminating-them": {
+      "title": "AI Is Changing Jobs, Not Eliminating Them",
+      "provider": "Knowledge at Wharton (University of Pennsylvania)",
+      "date_seen": "2026-09-21T12:09:38.661849+00:00",
+      "score": 85.5,
+      "doi": null
+    },
+    "https://knowledge.wharton.upenn.edu/podcast/moneyball/the-signals-that-matter-after-nfl-week-1": {
+      "title": "The Signals That Matter After NFL Week 1",
+      "provider": "Knowledge at Wharton (University of Pennsylvania)",
+      "date_seen": "2026-09-21T12:09:38.662048+00:00",
+      "score": 85.5,
+      "doi": null
+    },
+    "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/why-more-americans-are-filing-for-bankruptcy": {
+      "title": "Why More Americans Are Filing for Bankruptcy",
+      "provider": "Knowledge at Wharton (University of Pennsylvania)",
+      "date_seen": "2026-09-21T12:09:38.662151+00:00",
+      "score": 85.5,
+      "doi": null
     }
   },
   "seen_hashes": {
@@ -219,6 +240,21 @@
       "title": "How the NFL Is Winning a New Generation of Fans",
       "url": "https://knowledge.wharton.upenn.edu/podcast/marketing-matters/how-the-nfl-is-winning-a-new-generation-of-fans",
       "date_seen": "2026-09-14T11:58:29.390795+00:00"
+    },
+    "d582529c2fff8b1a189e8ffbfba130c05000e29bd21e2c8715aa871a06829d13": {
+      "title": "AI Is Changing Jobs, Not Eliminating Them",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/ai-is-changing-jobs-not-eliminating-them",
+      "date_seen": "2026-09-21T12:09:38.661849+00:00"
+    },
+    "44e4efc61781dec766d4c811b4a1acd543c25f3e55885a9e665992ab3ce1c101": {
+      "title": "The Signals That Matter After NFL Week 1",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/moneyball/the-signals-that-matter-after-nfl-week-1",
+      "date_seen": "2026-09-21T12:09:38.662048+00:00"
+    },
+    "2601fcde6d77b15c903fa9571db64a767378b35b5fb964752150fa853789e1b1": {
+      "title": "Why More Americans Are Filing for Bankruptcy",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/why-more-americans-are-filing-for-bankruptcy",
+      "date_seen": "2026-09-21T12:09:38.662151+00:00"
     }
   }
 }
