@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T12:09:39.025454+00:00",
-  "last_updated_lagos": "Monday, 21 September 2026 | 01:09 PM WAT",
+  "last_updated": "2026-09-28T13:04:46.612125+00:00",
+  "last_updated_lagos": "Monday, 28 September 2026 | 02:04 PM WAT",
   "user": {
     "name": "Emuesiri Jessica Agbabune",
     "preferred_first_name": "Emuesiri",
@@ -22,31 +22,31 @@
     ]
   },
   "weekly_plan": {
-    "week_number": 39,
-    "theme": "Succession Planning & Critical-Role Risk Mitigation",
-    "why_matters": "Implementing 9-box talent review boards and multi-tier leadership pipelines across business units.",
+    "week_number": 40,
+    "theme": "Kirkpatrick Level 4 Evaluation & Phillips L&D ROI",
+    "why_matters": "Quantifying the commercial business impact and revenue enablement of technical and OEM certifications.",
     "core_ld": {
-      "title": "AI Is Changing Jobs, Not Eliminating Them",
+      "title": "What Strong Growth Means for the Fed and Markets",
       "provider": "Knowledge at Wharton (University of Pennsylvania)",
       "type": "Research Report / Whitepaper",
-      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/ai-is-changing-jobs-not-eliminating-them",
-      "date_published": "2026-09-18T05:12:10+00:00",
-      "date_discovered": "2026-09-21T12:09:34.135836+00:00",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/what-strong-growth-means-for-the-fed-and-markets",
+      "date_published": "2026-09-25T14:19:24+00:00",
+      "date_discovered": "2026-09-28T13:04:42.365677+00:00",
       "duration": "Self-paced",
       "cost": "100% Free",
       "pricing_type": "Free Content",
       "topics": [
-        "Leadership Development",
         "Talent Management",
-        "Strategic HR",
-        "People Analytics"
+        "People Analytics",
+        "Leadership Development",
+        "Strategic HR"
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
       "relevance_score": 85.5,
       "free": true,
-      "summary": "Peter Cappelli, Wharton professor of management, explains how AI is changing jobs, automating tasks and reshaping the workplace. … Read More",
+      "summary": "Jeremy Siegel, Wharton emeritus professor of finance, examines what persistent growth, inflation pressures, and global trade developments could mean for interest rates and markets. … Read More",
       "why_relevant": "Published by Tier-1 authority (Knowledge at Wharton (University of Pennsylvania)) addressing core capability areas.",
-      "td_africa_application": "Apply the frameworks from 'AI Is Changing Jobs, Not Eliminating Them' directly to refine TD Africa's annual TNA cycle, integrate modular lessons into SIMBA Spark microlearning, and deliver measurable capability metrics for executive reporting.",
+      "td_africa_application": "Apply the frameworks from 'What Strong Growth Means for the Fed and Markets' directly to refine TD Africa's annual TNA cycle, integrate modular lessons into SIMBA Spark microlearning, and deliver measurable capability metrics for executive reporting.",
       "practical_application": "",
       "free_alternative": null,
       "status": "NOT STARTED",
@@ -55,7 +55,7 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
-      "canonical_hash": "d582529c2fff8b1a189e8ffbfba130c05000e29bd21e2c8715aa871a06829d13",
+      "canonical_hash": "20b666d025379a6dc51d452a7c4c15dbb3a6fd54dd90b60c8ef78542e6ad1771",
       "score_breakdown": {
         "career_relevance": 95.0,
         "practical_ld_relevance": 50.0,
@@ -68,25 +68,25 @@
       }
     },
     "core_tm": {
-      "title": "The Signals That Matter After NFL Week 1",
+      "title": "The Rise of Relaxation Beverages",
       "provider": "Knowledge at Wharton (University of Pennsylvania)",
       "type": "Research Report / Whitepaper",
-      "url": "https://knowledge.wharton.upenn.edu/podcast/moneyball/the-signals-that-matter-after-nfl-week-1",
-      "date_published": "2026-09-16T14:57:28+00:00",
-      "date_discovered": "2026-09-21T12:09:34.135836+00:00",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/marketing-matters/the-rise-of-relaxation-beverages",
+      "date_published": "2026-09-24T14:55:44+00:00",
+      "date_discovered": "2026-09-28T13:04:42.365677+00:00",
       "duration": "Self-paced",
       "cost": "100% Free",
       "pricing_type": "Free Content",
       "topics": [
-        "Leadership Development",
         "Talent Management",
-        "Strategic HR",
-        "People Analytics"
+        "People Analytics",
+        "Leadership Development",
+        "Strategic HR"
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
       "relevance_score": 85.5,
       "free": true,
-      "summary": "Tej Seth, data scientist, explains how to separate meaningful NFL Week 1 trends from the noise behind early results. … Read More",
+      "summary": "Zech Francis, CMO of Recess, explains how the functional beverage brand is creating a new consumer occasion around calm, ritual, and moderation. … Read More",
       "why_relevant": "Published by Tier-1 authority (Knowledge at Wharton (University of Pennsylvania)) addressing core capability areas.",
       "td_africa_application": "",
       "practical_application": "Use this resource to pilot a structured 9-Box talent assessment and succession slate across one critical department at TD Africa.",
@@ -97,7 +97,7 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
-      "canonical_hash": "44e4efc61781dec766d4c811b4a1acd543c25f3e55885a9e665992ab3ce1c101",
+      "canonical_hash": "f0ccef7d3ae2c607d490aa62ed57e699299786dee9736e235e6fd2d390de16bc",
       "score_breakdown": {
         "career_relevance": 95.0,
         "practical_ld_relevance": 50.0,
@@ -110,25 +110,25 @@
       }
     },
     "core_broader": {
-      "title": "Why More Americans Are Filing for Bankruptcy",
+      "title": "2026 AI Adoption Report",
       "provider": "Knowledge at Wharton (University of Pennsylvania)",
       "type": "Research Report / Whitepaper",
-      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/why-more-americans-are-filing-for-bankruptcy",
-      "date_published": "2026-09-16T14:50:35+00:00",
-      "date_discovered": "2026-09-21T12:09:34.135836+00:00",
+      "url": "https://knowledge.wharton.upenn.edu/special-report/2026-ai-adoption-report",
+      "date_published": "2026-09-23T19:31:43+00:00",
+      "date_discovered": "2026-09-28T13:04:42.365677+00:00",
       "duration": "Self-paced",
       "cost": "100% Free",
       "pricing_type": "Free Content",
       "topics": [
-        "Leadership Development",
         "Talent Management",
-        "Strategic HR",
-        "People Analytics"
+        "People Analytics",
+        "Leadership Development",
+        "Strategic HR"
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
       "relevance_score": 85.5,
       "free": true,
-      "summary": "Sasha Indarte, Wharton associate professor, explains why consumer bankruptcies are rising, what drives people to file, and why bankruptcy can sometimes provide a financial fresh start. … Read More",
+      "summary": "There is no excerpt because this is a protected post.",
       "why_relevant": "Published by Tier-1 authority (Knowledge at Wharton (University of Pennsylvania)) addressing core capability areas.",
       "td_africa_application": "",
       "practical_application": "",
@@ -139,7 +139,7 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
-      "canonical_hash": "2601fcde6d77b15c903fa9571db64a767378b35b5fb964752150fa853789e1b1",
+      "canonical_hash": "3505adb86da55ea3453ac52a38135f3f9e5dd3cc2e6e480d7ec829e600d10073",
       "score_breakdown": {
         "career_relevance": 95.0,
         "practical_ld_relevance": 50.0,
@@ -152,26 +152,26 @@
       }
     },
     "challenge": {
-      "title": "Construct a Commercial Business Case for an Advanced Certification Programme",
+      "title": "Draft a 9-Box Talent Review Calibration Grid for One Strategic Department",
       "minutes": 45,
-      "instructions": "Formulate a financial justification deck detailing: Problem Statement, Target Cohort, Direct Cost, Productivity Enablement, and Projected ROI over 12 months.",
-      "deliverable": "L&D Commercial Business Case Executive Deck (PowerPoint / PDF)"
+      "instructions": "Map 5-8 key roles across Performance (Low/Med/High) vs Potential (Low/Med/High). Define one specific development action for each quadrant.",
+      "deliverable": "1-Page 9-Box Calibration Matrix & Succession Slate Draft"
     },
     "portfolio_evidence": {
-      "artifact_type": "Strategic AI in HR & L&D Capability Roadmap",
-      "description": "Strategic blueprint outlining the rollout of AI tools, microlearning integrations, and digital workforce capability."
+      "artifact_type": "Succession Planning & 9-Box Review Template",
+      "description": "A standardized executive framework for identifying critical talent, flight risks, and succession readiness."
     },
     "three_actions": {
-      "learn": "Complete 'AI Is Changing Jobs, Not Eliminating Them' and 'The Signals That Matter After NFL Week 1' (Self-paced + Self-paced).",
-      "apply": "Construct a Commercial Business Case for an Advanced Certification Programme (45 mins).",
-      "capture": "Save 'Strategic AI in HR & L&D Capability Roadmap' to your professional career portfolio."
+      "learn": "Complete 'What Strong Growth Means for the Fed and Markets' and 'The Rise of Relaxation Beverages' (Self-paced + Self-paced).",
+      "apply": "Draft a 9-Box Talent Review Calibration Grid for One Strategic Department (45 mins).",
+      "capture": "Save 'Succession Planning & 9-Box Review Template' to your professional career portfolio."
     },
     "reflection_questions": [
       "What critical insight from this week's resources challenges our current approach at TD Africa?",
       "How can the practical challenge deliverable be integrated into upcoming talent review or training cycles?",
       "What behavioral shift in leadership or capability development did this study reveal?"
     ],
-    "next_action": "Complete the 'Construct a Commercial Business Case for an Advanced Certification Programme' and archive the evidence in your portfolio before next Monday."
+    "next_action": "Complete the 'Draft a 9-Box Talent Review Calibration Grid for One Strategic Department' and archive the evidence in your portfolio before next Monday."
   },
   "competencies": [
     {
@@ -616,7 +616,7 @@
     }
   },
   "history_summary": {
-    "total_recommended": 21,
+    "total_recommended": 24,
     "completed": 0,
     "in_progress": 0,
     "applied": 0,
@@ -653,27 +653,27 @@
   ],
   "top_free_resources": [
     {
-      "title": "AI Is Changing Jobs, Not Eliminating Them",
+      "title": "What Strong Growth Means for the Fed and Markets",
       "provider": "Knowledge at Wharton (University of Pennsylvania)",
       "type": "Research Report / Whitepaper",
-      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/ai-is-changing-jobs-not-eliminating-them",
-      "date_published": "2026-09-18T05:12:10+00:00",
-      "date_discovered": "2026-09-21T12:09:34.135836+00:00",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/what-strong-growth-means-for-the-fed-and-markets",
+      "date_published": "2026-09-25T14:19:24+00:00",
+      "date_discovered": "2026-09-28T13:04:42.365677+00:00",
       "duration": "Self-paced",
       "cost": "100% Free",
       "pricing_type": "Free Content",
       "topics": [
-        "Leadership Development",
         "Talent Management",
-        "Strategic HR",
-        "People Analytics"
+        "People Analytics",
+        "Leadership Development",
+        "Strategic HR"
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
       "relevance_score": 85.5,
       "free": true,
-      "summary": "Peter Cappelli, Wharton professor of management, explains how AI is changing jobs, automating tasks and reshaping the workplace. … Read More",
+      "summary": "Jeremy Siegel, Wharton emeritus professor of finance, examines what persistent growth, inflation pressures, and global trade developments could mean for interest rates and markets. … Read More",
       "why_relevant": "Published by Tier-1 authority (Knowledge at Wharton (University of Pennsylvania)) addressing core capability areas.",
-      "td_africa_application": "Apply the frameworks from 'AI Is Changing Jobs, Not Eliminating Them' directly to refine TD Africa's annual TNA cycle, integrate modular lessons into SIMBA Spark microlearning, and deliver measurable capability metrics for executive reporting.",
+      "td_africa_application": "Apply the frameworks from 'What Strong Growth Means for the Fed and Markets' directly to refine TD Africa's annual TNA cycle, integrate modular lessons into SIMBA Spark microlearning, and deliver measurable capability metrics for executive reporting.",
       "practical_application": "",
       "free_alternative": null,
       "status": "NOT STARTED",
@@ -682,7 +682,7 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
-      "canonical_hash": "d582529c2fff8b1a189e8ffbfba130c05000e29bd21e2c8715aa871a06829d13",
+      "canonical_hash": "20b666d025379a6dc51d452a7c4c15dbb3a6fd54dd90b60c8ef78542e6ad1771",
       "score_breakdown": {
         "career_relevance": 95.0,
         "practical_ld_relevance": 50.0,
@@ -695,25 +695,25 @@
       }
     },
     {
-      "title": "The Signals That Matter After NFL Week 1",
+      "title": "The Rise of Relaxation Beverages",
       "provider": "Knowledge at Wharton (University of Pennsylvania)",
       "type": "Research Report / Whitepaper",
-      "url": "https://knowledge.wharton.upenn.edu/podcast/moneyball/the-signals-that-matter-after-nfl-week-1",
-      "date_published": "2026-09-16T14:57:28+00:00",
-      "date_discovered": "2026-09-21T12:09:34.135836+00:00",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/marketing-matters/the-rise-of-relaxation-beverages",
+      "date_published": "2026-09-24T14:55:44+00:00",
+      "date_discovered": "2026-09-28T13:04:42.365677+00:00",
       "duration": "Self-paced",
       "cost": "100% Free",
       "pricing_type": "Free Content",
       "topics": [
-        "Leadership Development",
         "Talent Management",
-        "Strategic HR",
-        "People Analytics"
+        "People Analytics",
+        "Leadership Development",
+        "Strategic HR"
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
       "relevance_score": 85.5,
       "free": true,
-      "summary": "Tej Seth, data scientist, explains how to separate meaningful NFL Week 1 trends from the noise behind early results. … Read More",
+      "summary": "Zech Francis, CMO of Recess, explains how the functional beverage brand is creating a new consumer occasion around calm, ritual, and moderation. … Read More",
       "why_relevant": "Published by Tier-1 authority (Knowledge at Wharton (University of Pennsylvania)) addressing core capability areas.",
       "td_africa_application": "",
       "practical_application": "Use this resource to pilot a structured 9-Box talent assessment and succession slate across one critical department at TD Africa.",
@@ -724,7 +724,7 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
-      "canonical_hash": "44e4efc61781dec766d4c811b4a1acd543c25f3e55885a9e665992ab3ce1c101",
+      "canonical_hash": "f0ccef7d3ae2c607d490aa62ed57e699299786dee9736e235e6fd2d390de16bc",
       "score_breakdown": {
         "career_relevance": 95.0,
         "practical_ld_relevance": 50.0,
@@ -737,25 +737,25 @@
       }
     },
     {
-      "title": "Why More Americans Are Filing for Bankruptcy",
+      "title": "2026 AI Adoption Report",
       "provider": "Knowledge at Wharton (University of Pennsylvania)",
       "type": "Research Report / Whitepaper",
-      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/why-more-americans-are-filing-for-bankruptcy",
-      "date_published": "2026-09-16T14:50:35+00:00",
-      "date_discovered": "2026-09-21T12:09:34.135836+00:00",
+      "url": "https://knowledge.wharton.upenn.edu/special-report/2026-ai-adoption-report",
+      "date_published": "2026-09-23T19:31:43+00:00",
+      "date_discovered": "2026-09-28T13:04:42.365677+00:00",
       "duration": "Self-paced",
       "cost": "100% Free",
       "pricing_type": "Free Content",
       "topics": [
-        "Leadership Development",
         "Talent Management",
-        "Strategic HR",
-        "People Analytics"
+        "People Analytics",
+        "Leadership Development",
+        "Strategic HR"
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
       "relevance_score": 85.5,
       "free": true,
-      "summary": "Sasha Indarte, Wharton associate professor, explains why consumer bankruptcies are rising, what drives people to file, and why bankruptcy can sometimes provide a financial fresh start. … Read More",
+      "summary": "There is no excerpt because this is a protected post.",
       "why_relevant": "Published by Tier-1 authority (Knowledge at Wharton (University of Pennsylvania)) addressing core capability areas.",
       "td_africa_application": "",
       "practical_application": "",
@@ -766,7 +766,7 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
-      "canonical_hash": "2601fcde6d77b15c903fa9571db64a767378b35b5fb964752150fa853789e1b1",
+      "canonical_hash": "3505adb86da55ea3453ac52a38135f3f9e5dd3cc2e6e480d7ec829e600d10073",
       "score_breakdown": {
         "career_relevance": 95.0,
         "practical_ld_relevance": 50.0,
@@ -779,25 +779,25 @@
       }
     },
     {
-      "title": "Is Overreliance on AI Causing Agency Decay?",
+      "title": "Why NFL Teams Need a Better Backup Plan",
       "provider": "Knowledge at Wharton (University of Pennsylvania)",
       "type": "Research Report / Whitepaper",
-      "url": "https://knowledge.wharton.upenn.edu/article/is-overreliance-on-ai-causing-agency-decay",
-      "date_published": "2026-09-15T17:00:10+00:00",
-      "date_discovered": "2026-09-21T12:09:34.135836+00:00",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/moneyball/why-nfl-teams-need-a-better-backup-plan",
+      "date_published": "2026-09-23T15:59:24+00:00",
+      "date_discovered": "2026-09-28T13:04:42.365677+00:00",
       "duration": "Self-paced",
       "cost": "100% Free",
       "pricing_type": "Free Content",
       "topics": [
-        "Leadership Development",
         "Talent Management",
-        "Strategic HR",
-        "People Analytics"
+        "People Analytics",
+        "Leadership Development",
+        "Strategic HR"
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
       "relevance_score": 85.5,
       "free": true,
-      "summary": "Relying too much on AI will hurt both individuals and organizations in the long run, warns Wharton’s Cornelia Walther. … Read More",
+      "summary": "Neil Paine, sports writer and data analyst, examines how NFL teams can withstand quarterback injuries, why MLB playoff seeding is misaligned, and what it takes for an injured champion to return to form. … Read More",
       "why_relevant": "Published by Tier-1 authority (Knowledge at Wharton (University of Pennsylvania)) addressing core capability areas.",
       "td_africa_application": "",
       "practical_application": "",
@@ -808,7 +808,7 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
-      "canonical_hash": "3192a6bca42d46d3bced1aa5876053ab87a0b33f5fd3b71f076e39aef10c09cb",
+      "canonical_hash": "f04e91c29403af9d56e9270111f0941fe23e2b0604bb6d59e171738cc06a38f4",
       "score_breakdown": {
         "career_relevance": 95.0,
         "practical_ld_relevance": 50.0,
@@ -821,25 +821,25 @@
       }
     },
     {
-      "title": "Top Tips for Persuading Others",
+      "title": "Why Retailers Are Rethinking Risk",
       "provider": "Knowledge at Wharton (University of Pennsylvania)",
       "type": "Research Report / Whitepaper",
-      "url": "https://knowledge.wharton.upenn.edu/article/top-tips-for-persuading-others",
-      "date_published": "2026-09-15T16:19:59+00:00",
-      "date_discovered": "2026-09-21T12:09:34.135836+00:00",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/why-retailers-are-rethinking-risk",
+      "date_published": "2026-09-23T15:47:33+00:00",
+      "date_discovered": "2026-09-28T13:04:42.365677+00:00",
       "duration": "Self-paced",
       "cost": "100% Free",
       "pricing_type": "Free Content",
       "topics": [
-        "Leadership Development",
         "Talent Management",
-        "Strategic HR",
-        "People Analytics"
+        "People Analytics",
+        "Leadership Development",
+        "Strategic HR"
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
       "relevance_score": 85.5,
       "free": true,
-      "summary": "In this Nano Tool for Leaders, Wharton’s G. Richard Shell explains why persuasion is about preparation, not just rhetoric. … Read More",
+      "summary": "John Zhang, professor of marketing at the Wharton School, explains how store in store models can help retailers reduce inventory risk and adapt to changing consumer demand. … Read More",
       "why_relevant": "Published by Tier-1 authority (Knowledge at Wharton (University of Pennsylvania)) addressing core capability areas.",
       "td_africa_application": "",
       "practical_application": "",
@@ -850,7 +850,7 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
-      "canonical_hash": "844aa1230f58e5a6f1917df84fcf375fd4709a0703c73e8d9f988dc591a7c438",
+      "canonical_hash": "e39eae3431ccfdad96e357f75a21d35a1c5b4964ab05cd98cb8f9442214c0369",
       "score_breakdown": {
         "career_relevance": 95.0,
         "practical_ld_relevance": 50.0,
@@ -863,25 +863,25 @@
       }
     },
     {
-      "title": "The Liquidity Risk in Private Credit",
+      "title": "ICE Raids Have a Chilling Effect on Local Economies",
       "provider": "Knowledge at Wharton (University of Pennsylvania)",
       "type": "Research Report / Whitepaper",
-      "url": "https://knowledge.wharton.upenn.edu/podcast/ripple-effect/the-liquidity-risk-in-private-credit",
-      "date_published": "2026-09-15T15:13:10+00:00",
-      "date_discovered": "2026-09-21T12:09:34.135836+00:00",
+      "url": "https://knowledge.wharton.upenn.edu/article/ice-raids-have-a-chilling-effect-on-local-economies",
+      "date_published": "2026-09-22T15:41:15+00:00",
+      "date_discovered": "2026-09-28T13:04:42.365677+00:00",
       "duration": "Self-paced",
       "cost": "100% Free",
       "pricing_type": "Free Content",
       "topics": [
-        "Leadership Development",
         "Talent Management",
-        "Strategic HR",
-        "People Analytics"
+        "People Analytics",
+        "Leadership Development",
+        "Strategic HR"
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
       "relevance_score": 85.5,
       "free": true,
-      "summary": "Itay Goldstein, Wharton professor of finance, examines why semi-liquid private credit funds can become fragile when investors want their money back. … Read More",
+      "summary": "New research from Wharton’s Zeke Hernandez reveals how cities targeted in last year’s Immigration and Customs Enforcement raids suffered long-term economic losses of up to $14 billion. … Read More",
       "why_relevant": "Published by Tier-1 authority (Knowledge at Wharton (University of Pennsylvania)) addressing core capability areas.",
       "td_africa_application": "",
       "practical_application": "",
@@ -892,7 +892,7 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
-      "canonical_hash": "71be14be842c90d559c55cff734dfa8504e9b69420acdc6b0b30271fbfeeaa4c",
+      "canonical_hash": "16034be20c60fc871319899b56d62da130a1bae1cd84128726f62ea9e941f4a1",
       "score_breakdown": {
         "career_relevance": 95.0,
         "practical_ld_relevance": 50.0,
@@ -905,25 +905,25 @@
       }
     },
     {
-      "title": "How AI Is Reshaping Quantitative Finance",
+      "title": "How Extreme Heat Affects the Economy",
       "provider": "Knowledge at Wharton (University of Pennsylvania)",
       "type": "Research Report / Whitepaper",
-      "url": "https://knowledge.wharton.upenn.edu/article/how-ai-is-reshaping-quantitative-finance",
-      "date_published": "2026-09-14T15:00:29+00:00",
-      "date_discovered": "2026-09-21T12:09:34.135836+00:00",
+      "url": "https://knowledge.wharton.upenn.edu/article/how-extreme-heat-affects-the-economy",
+      "date_published": "2026-09-22T13:41:11+00:00",
+      "date_discovered": "2026-09-28T13:04:42.365677+00:00",
       "duration": "Self-paced",
       "cost": "100% Free",
       "pricing_type": "Free Content",
       "topics": [
-        "Leadership Development",
         "Talent Management",
-        "Strategic HR",
-        "People Analytics"
+        "People Analytics",
+        "Leadership Development",
+        "Strategic HR"
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
       "relevance_score": 85.5,
       "free": true,
-      "summary": "Wharton's Nikolai Roussanov and Goldman Sachs' Ingrid Tierens discuss how AI is transforming quantitative finance, from investment research and data analysis to the future of quantitative investing. … Read More",
+      "summary": "Professor R. Jisung Park discusses climate change and the impact of extreme heat on academic success and worker productivity. … Read More",
       "why_relevant": "Published by Tier-1 authority (Knowledge at Wharton (University of Pennsylvania)) addressing core capability areas.",
       "td_africa_application": "",
       "practical_application": "",
@@ -934,7 +934,7 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
-      "canonical_hash": "08db3924fe2c027304f015dce986da92fc96dd941ead2d26b48504a59360a1d7",
+      "canonical_hash": "325b9b7c743ad7f7efa227da437f6078d0d14aff69071dea37314d019c0920da",
       "score_breakdown": {
         "career_relevance": 95.0,
         "practical_ld_relevance": 50.0,
@@ -947,25 +947,25 @@
       }
     },
     {
-      "title": "The Business of Shared Scooters",
+      "title": "AI and Financial Regulation",
       "provider": "Knowledge at Wharton (University of Pennsylvania)",
       "type": "Research Report / Whitepaper",
-      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/the-business-of-shared-scooters",
-      "date_published": "2026-09-09T13:49:10+00:00",
-      "date_discovered": "2026-09-21T12:09:34.135836+00:00",
+      "url": "https://knowledge.wharton.upenn.edu/article/ai-and-financial-regulation",
+      "date_published": "2026-09-21T16:19:41+00:00",
+      "date_discovered": "2026-09-28T13:04:42.365677+00:00",
       "duration": "Self-paced",
       "cost": "100% Free",
       "pricing_type": "Free Content",
       "topics": [
-        "Leadership Development",
         "Talent Management",
-        "Strategic HR",
-        "People Analytics"
+        "People Analytics",
+        "Leadership Development",
+        "Strategic HR"
       ],
       "career_stage": "Stage 4: Talent Development & Talent Management",
-      "relevance_score": 84.8,
+      "relevance_score": 85.5,
       "free": true,
-      "summary": "Gad Allon, Wharton professor of operations, information and decisions, explains how shared bikes and scooters make money, why cities regulate them, and what their future looks like in urban transportation. … Read More",
+      "summary": "Bank of England Deputy Governor Sarah Breeden examines how regulators can promote innovation while ensuring financial stability as AI becomes increasingly autonomous and powerful. … Read More",
       "why_relevant": "Published by Tier-1 authority (Knowledge at Wharton (University of Pennsylvania)) addressing core capability areas.",
       "td_africa_application": "",
       "practical_application": "",
@@ -976,16 +976,16 @@
       "registration_deadline": null,
       "location": "Virtual / Online",
       "speaker_or_author": null,
-      "canonical_hash": "e54e4b4ef0ec7bf74d015af1923689076e4d3bc874a6644189bb1d0ae362c9bf",
+      "canonical_hash": "8ce75826c1855f000a1c3399db4c59495850c2f993df6b9374e33c05bce9bb26",
       "score_breakdown": {
         "career_relevance": 95.0,
         "practical_ld_relevance": 50.0,
         "talent_management": 90.0,
         "quality_credibility": 95.0,
         "free_accessibility": 100.0,
-        "recency": 85.0,
+        "recency": 100.0,
         "depth_value": 90.0,
-        "total_score": 84.8
+        "total_score": 85.5
       }
     }
   ]

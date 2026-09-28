@@ -1,8 +1,8 @@
 {
   "user": "Emuesiri Jessica Agbabune",
-  "last_updated": "2026-09-21T12:09:38.662665+00:00",
+  "last_updated": "2026-09-28T13:04:46.209332+00:00",
   "summary": {
-    "total_recommended": 21,
+    "total_recommended": 24,
     "completed": 0,
     "in_progress": 0,
     "applied": 0,
@@ -473,6 +473,72 @@
       "relevance_score": 85.5,
       "week_recommended": 39,
       "date_recommended": "2026-09-21T12:09:38.662230+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "What Strong Growth Means for the Fed and Markets",
+      "provider": "Knowledge at Wharton (University of Pennsylvania)",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/what-strong-growth-means-for-the-fed-and-markets",
+      "type": "Research Report / Whitepaper",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Talent Management",
+        "People Analytics",
+        "Leadership Development",
+        "Strategic HR"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 85.5,
+      "week_recommended": 40,
+      "date_recommended": "2026-09-28T13:04:46.208271+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "The Rise of Relaxation Beverages",
+      "provider": "Knowledge at Wharton (University of Pennsylvania)",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/marketing-matters/the-rise-of-relaxation-beverages",
+      "type": "Research Report / Whitepaper",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Talent Management",
+        "People Analytics",
+        "Leadership Development",
+        "Strategic HR"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 85.5,
+      "week_recommended": 40,
+      "date_recommended": "2026-09-28T13:04:46.208414+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "2026 AI Adoption Report",
+      "provider": "Knowledge at Wharton (University of Pennsylvania)",
+      "url": "https://knowledge.wharton.upenn.edu/special-report/2026-ai-adoption-report",
+      "type": "Research Report / Whitepaper",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Talent Management",
+        "People Analytics",
+        "Leadership Development",
+        "Strategic HR"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 85.5,
+      "week_recommended": 40,
+      "date_recommended": "2026-09-28T13:04:46.208553+00:00",
       "status": "NOT STARTED",
       "rating": null,
       "key_learning": "",

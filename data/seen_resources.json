@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T12:09:38.662233+00:00",
-  "total_seen": 21,
+  "last_updated": "2026-09-28T13:04:46.208558+00:00",
+  "total_seen": 24,
   "seen_urls": {
     "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0": {
       "title": "Workplace Learning and Capability Development",
@@ -148,6 +148,27 @@
       "date_seen": "2026-09-21T12:09:38.662151+00:00",
       "score": 85.5,
       "doi": null
+    },
+    "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/what-strong-growth-means-for-the-fed-and-markets": {
+      "title": "What Strong Growth Means for the Fed and Markets",
+      "provider": "Knowledge at Wharton (University of Pennsylvania)",
+      "date_seen": "2026-09-28T13:04:46.208015+00:00",
+      "score": 85.5,
+      "doi": null
+    },
+    "https://knowledge.wharton.upenn.edu/podcast/marketing-matters/the-rise-of-relaxation-beverages": {
+      "title": "The Rise of Relaxation Beverages",
+      "provider": "Knowledge at Wharton (University of Pennsylvania)",
+      "date_seen": "2026-09-28T13:04:46.208287+00:00",
+      "score": 85.5,
+      "doi": null
+    },
+    "https://knowledge.wharton.upenn.edu/special-report/2026-ai-adoption-report": {
+      "title": "2026 AI Adoption Report",
+      "provider": "Knowledge at Wharton (University of Pennsylvania)",
+      "date_seen": "2026-09-28T13:04:46.208427+00:00",
+      "score": 85.5,
+      "doi": null
     }
   },
   "seen_hashes": {
@@ -255,6 +276,21 @@
       "title": "Why More Americans Are Filing for Bankruptcy",
       "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/why-more-americans-are-filing-for-bankruptcy",
       "date_seen": "2026-09-21T12:09:38.662151+00:00"
+    },
+    "20b666d025379a6dc51d452a7c4c15dbb3a6fd54dd90b60c8ef78542e6ad1771": {
+      "title": "What Strong Growth Means for the Fed and Markets",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/what-strong-growth-means-for-the-fed-and-markets",
+      "date_seen": "2026-09-28T13:04:46.208015+00:00"
+    },
+    "f0ccef7d3ae2c607d490aa62ed57e699299786dee9736e235e6fd2d390de16bc": {
+      "title": "The Rise of Relaxation Beverages",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/marketing-matters/the-rise-of-relaxation-beverages",
+      "date_seen": "2026-09-28T13:04:46.208287+00:00"
+    },
+    "3505adb86da55ea3453ac52a38135f3f9e5dd3cc2e6e480d7ec829e600d10073": {
+      "title": "2026 AI Adoption Report",
+      "url": "https://knowledge.wharton.upenn.edu/special-report/2026-ai-adoption-report",
+      "date_seen": "2026-09-28T13:04:46.208427+00:00"
     }
   }
 }
