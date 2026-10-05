@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T13:04:46.208558+00:00",
-  "total_seen": 24,
+  "last_updated": "2026-10-05T13:47:05.988585+00:00",
+  "total_seen": 27,
   "seen_urls": {
     "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0": {
       "title": "Workplace Learning and Capability Development",
@@ -169,6 +169,27 @@
       "date_seen": "2026-09-28T13:04:46.208427+00:00",
       "score": 85.5,
       "doi": null
+    },
+    "https://learn.microsoft.com/en-us/training/paths/create-use-analytics-reports-power-bi": {
+      "title": "Build Interactive Dashboards in Power BI for People Analytics",
+      "provider": "Microsoft Learn - AI, Digital Skills & Copilot for Workplace",
+      "date_seen": "2026-10-05T13:47:05.988244+00:00",
+      "score": 83.8,
+      "doi": null
+    },
+    "https://www.coursera.org/learn/wharton-people-analytics": {
+      "title": "People Analytics: Transforming HR with Data (Wharton)",
+      "provider": "Coursera Free Audit Catalog (L&D, HR, People Analytics)",
+      "date_seen": "2026-10-05T13:47:05.988434+00:00",
+      "score": 83.5,
+      "doi": null
+    },
+    "https://ssir.org/articles/entry/donor-retention-requires-transformation": {
+      "title": "Donor Retention Requires Transformation (Blog)",
+      "provider": "Stanford Social Innovation Review (SSIR)",
+      "date_seen": "2026-10-05T13:47:05.988513+00:00",
+      "score": 83.5,
+      "doi": null
     }
   },
   "seen_hashes": {
@@ -291,6 +312,21 @@
       "title": "2026 AI Adoption Report",
       "url": "https://knowledge.wharton.upenn.edu/special-report/2026-ai-adoption-report",
       "date_seen": "2026-09-28T13:04:46.208427+00:00"
+    },
+    "5337aa2504c6238d69731899e769afb9ab3fe35c47db0800c17951b4bc799258": {
+      "title": "Build Interactive Dashboards in Power BI for People Analytics",
+      "url": "https://learn.microsoft.com/en-us/training/paths/create-use-analytics-reports-power-bi",
+      "date_seen": "2026-10-05T13:47:05.988244+00:00"
+    },
+    "b62dc63157ebaa7eeaebcb4dccb593abde4ce1c357bb70ace0d6382381d41750": {
+      "title": "People Analytics: Transforming HR with Data (Wharton)",
+      "url": "https://www.coursera.org/learn/wharton-people-analytics",
+      "date_seen": "2026-10-05T13:47:05.988434+00:00"
+    },
+    "60dd4e48889bf0f63eacefeb5e119dd3a0ad6551018850c4b05b3355c88414d1": {
+      "title": "Donor Retention Requires Transformation (Blog)",
+      "url": "https://ssir.org/articles/entry/donor-retention-requires-transformation",
+      "date_seen": "2026-10-05T13:47:05.988513+00:00"
     }
   }
 }

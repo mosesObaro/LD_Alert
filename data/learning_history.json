@@ -1,8 +1,8 @@
 {
   "user": "Emuesiri Jessica Agbabune",
-  "last_updated": "2026-09-28T13:04:46.209332+00:00",
+  "last_updated": "2026-10-05T13:47:05.989043+00:00",
   "summary": {
-    "total_recommended": 24,
+    "total_recommended": 27,
     "completed": 0,
     "in_progress": 0,
     "applied": 0,
@@ -539,6 +539,72 @@
       "relevance_score": 85.5,
       "week_recommended": 40,
       "date_recommended": "2026-09-28T13:04:46.208553+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "Build Interactive Dashboards in Power BI for People Analytics",
+      "provider": "Microsoft Learn - AI, Digital Skills & Copilot for Workplace",
+      "url": "https://learn.microsoft.com/en-us/training/paths/create-use-analytics-reports-power-bi",
+      "type": "Course",
+      "pricing_type": "Free Certified Course",
+      "topics": [
+        "L&D Dashboards",
+        "Learning Analytics",
+        "People Analytics"
+      ],
+      "career_stage": "Stage 5: Enterprise Talent / Strategic HR Leadership",
+      "relevance_score": 83.8,
+      "week_recommended": 41,
+      "date_recommended": "2026-10-05T13:47:05.988422+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "People Analytics: Transforming HR with Data (Wharton)",
+      "provider": "Coursera Free Audit Catalog (L&D, HR, People Analytics)",
+      "url": "https://www.coursera.org/learn/wharton-people-analytics",
+      "type": "Course",
+      "pricing_type": "Course content: Free to audit (Certificate: Paid)",
+      "topics": [
+        "Workforce Planning",
+        "Learning Analytics",
+        "People Analytics",
+        "Talent Development"
+      ],
+      "career_stage": "Stage 3: Strategic Learning & Capability Development",
+      "relevance_score": 83.5,
+      "week_recommended": 41,
+      "date_recommended": "2026-10-05T13:47:05.988505+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "Donor Retention Requires Transformation (Blog)",
+      "provider": "Stanford Social Innovation Review (SSIR)",
+      "url": "https://ssir.org/articles/entry/donor-retention-requires-transformation",
+      "type": "Research Report / Whitepaper",
+      "pricing_type": "Free Content",
+      "topics": [
+        "Leadership",
+        "Talent Management",
+        "Culture",
+        "Change Management",
+        "Organizational Development"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 83.5,
+      "week_recommended": 41,
+      "date_recommended": "2026-10-05T13:47:05.988583+00:00",
       "status": "NOT STARTED",
       "rating": null,
       "key_learning": "",
