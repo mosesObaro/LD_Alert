@@ -1,8 +1,8 @@
 {
   "user": "Emuesiri Jessica Agbabune",
-  "last_updated": "2026-10-05T13:47:05.989043+00:00",
+  "last_updated": "2026-10-12T14:35:32.094830+00:00",
   "summary": {
-    "total_recommended": 27,
+    "total_recommended": 30,
     "completed": 0,
     "in_progress": 0,
     "applied": 0,
@@ -605,6 +605,72 @@
       "relevance_score": 83.5,
       "week_recommended": 41,
       "date_recommended": "2026-10-05T13:47:05.988583+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "Asset management 2026: Plenty for the few?",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/asset-management-2026-plenty-for-the-few",
+      "type": "Research Report / Whitepaper",
+      "pricing_type": "Free Content",
+      "topics": [
+        "AI Transformation",
+        "Talent Management",
+        "Skills-based organizations",
+        "Future of Work"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 77.5,
+      "week_recommended": 42,
+      "date_recommended": "2026-10-12T14:35:32.093778+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "The six strategy roles a CEO must not delegate",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate",
+      "type": "Research Report / Whitepaper",
+      "pricing_type": "Free Content",
+      "topics": [
+        "AI Transformation",
+        "Talent Management",
+        "Skills-based organizations",
+        "Future of Work"
+      ],
+      "career_stage": "Stage 4: Talent Development & Talent Management",
+      "relevance_score": 77.5,
+      "week_recommended": 42,
+      "date_recommended": "2026-10-12T14:35:32.093950+00:00",
+      "status": "NOT STARTED",
+      "rating": null,
+      "key_learning": "",
+      "workplace_application": "",
+      "portfolio_evidence": ""
+    },
+    {
+      "title": "When Compliance Workarounds Backfire",
+      "provider": "MIT Sloan Management Review (Workforce & AI)",
+      "url": "https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire",
+      "type": "Research Report / Whitepaper",
+      "pricing_type": "Free Content",
+      "topics": [
+        "AI Governance",
+        "People Analytics",
+        "Talent Agility",
+        "Skills Strategy"
+      ],
+      "career_stage": "Stage 1: L&D Foundations",
+      "relevance_score": 77.5,
+      "week_recommended": 42,
+      "date_recommended": "2026-10-12T14:35:32.094122+00:00",
       "status": "NOT STARTED",
       "rating": null,
       "key_learning": "",

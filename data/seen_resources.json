@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-05T13:47:05.988585+00:00",
-  "total_seen": 27,
+  "last_updated": "2026-10-12T14:35:32.094127+00:00",
+  "total_seen": 30,
   "seen_urls": {
     "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0": {
       "title": "Workplace Learning and Capability Development",
@@ -190,6 +190,27 @@
       "date_seen": "2026-10-05T13:47:05.988513+00:00",
       "score": 83.5,
       "doi": null
+    },
+    "https://www.mckinsey.com/industries/financial-services/our-insights/asset-management-2026-plenty-for-the-few": {
+      "title": "Asset management 2026: Plenty for the few?",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "date_seen": "2026-10-12T14:35:32.093407+00:00",
+      "score": 77.5,
+      "doi": null
+    },
+    "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate": {
+      "title": "The six strategy roles a CEO must not delegate",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "date_seen": "2026-10-12T14:35:32.093800+00:00",
+      "score": 77.5,
+      "doi": null
+    },
+    "https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire": {
+      "title": "When Compliance Workarounds Backfire",
+      "provider": "MIT Sloan Management Review (Workforce & AI)",
+      "date_seen": "2026-10-12T14:35:32.093967+00:00",
+      "score": 77.5,
+      "doi": null
     }
   },
   "seen_hashes": {
@@ -327,6 +348,21 @@
       "title": "Donor Retention Requires Transformation (Blog)",
       "url": "https://ssir.org/articles/entry/donor-retention-requires-transformation",
       "date_seen": "2026-10-05T13:47:05.988513+00:00"
+    },
+    "7e7cb729d6c8b2a98e3d94f6ebbe0561727e52c0b91aca85ecff521cc8f15d6b": {
+      "title": "Asset management 2026: Plenty for the few?",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/asset-management-2026-plenty-for-the-few",
+      "date_seen": "2026-10-12T14:35:32.093407+00:00"
+    },
+    "cc44c083fbce443474bab65d9477213d52344eaca204a0fd7498939d4612016c": {
+      "title": "The six strategy roles a CEO must not delegate",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate",
+      "date_seen": "2026-10-12T14:35:32.093800+00:00"
+    },
+    "96ef0379b47b5d6834f6014f0992f5ced170dd3381fe6abdf8df75ebc77fd111": {
+      "title": "When Compliance Workarounds Backfire",
+      "url": "https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire",
+      "date_seen": "2026-10-12T14:35:32.093967+00:00"
     }
   }
 }
