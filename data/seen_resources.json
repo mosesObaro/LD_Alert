@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T14:35:32.094127+00:00",
-  "total_seen": 30,
+  "last_updated": "2026-10-19T12:19:26.672718+00:00",
+  "total_seen": 33,
   "seen_urls": {
     "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0": {
       "title": "Workplace Learning and Capability Development",
@@ -211,6 +211,27 @@
       "date_seen": "2026-10-12T14:35:32.093967+00:00",
       "score": 77.5,
       "doi": null
+    },
+    "https://businessday.ng/uncategorized/article/top-5-nollywood-films-breaking-decembers-box-office-tradition": {
+      "title": "Top 5 Nollywood films breaking December’s box office tradition",
+      "provider": "BusinessDay Nigeria (Human Capital & Enterprise Intelligence)",
+      "date_seen": "2026-10-19T12:19:26.671979+00:00",
+      "score": 83.0,
+      "doi": null
+    },
+    "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade": {
+      "title": "The hidden opportunity in the next $2 trillion of US–Latin America trade",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "date_seen": "2026-10-19T12:19:26.672371+00:00",
+      "score": 77.5,
+      "doi": null
+    },
+    "https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough": {
+      "title": "Why Data Modeling Is Not Enough",
+      "provider": "MIT Sloan Management Review (Workforce & AI)",
+      "date_seen": "2026-10-19T12:19:26.672548+00:00",
+      "score": 77.5,
+      "doi": null
     }
   },
   "seen_hashes": {
@@ -363,6 +384,21 @@
       "title": "When Compliance Workarounds Backfire",
       "url": "https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire",
       "date_seen": "2026-10-12T14:35:32.093967+00:00"
+    },
+    "3980d5ff0c67c824c954acadbfd07de27358277c40961ba5bae145a8039e70fd": {
+      "title": "Top 5 Nollywood films breaking December’s box office tradition",
+      "url": "https://businessday.ng/uncategorized/article/top-5-nollywood-films-breaking-decembers-box-office-tradition",
+      "date_seen": "2026-10-19T12:19:26.671979+00:00"
+    },
+    "d8e3aa105bfecd099fec942a2b215fe4c3df31643475676c9482a3c994e32e1c": {
+      "title": "The hidden opportunity in the next $2 trillion of US–Latin America trade",
+      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade",
+      "date_seen": "2026-10-19T12:19:26.672371+00:00"
+    },
+    "c0709c06bdbdd2678cf52989cfbfc1d672de2bcfa7c88f909d6b4b9cd6e44fd8": {
+      "title": "Why Data Modeling Is Not Enough",
+      "url": "https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough",
+      "date_seen": "2026-10-19T12:19:26.672548+00:00"
     }
   }
 }
