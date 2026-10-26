@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T12:19:26.672718+00:00",
-  "total_seen": 33,
+  "last_updated": "2026-10-26T12:22:21.318044+00:00",
+  "total_seen": 36,
   "seen_urls": {
     "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0": {
       "title": "Workplace Learning and Capability Development",
@@ -232,6 +232,27 @@
       "date_seen": "2026-10-19T12:19:26.672548+00:00",
       "score": 77.5,
       "doi": null
+    },
+    "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-ai-is-advancing-is-our-judgment-keeping-up": {
+      "title": "Author Talks: AI is advancing. Is our judgment keeping up?",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "date_seen": "2026-10-26T12:22:21.317088+00:00",
+      "score": 77.5,
+      "doi": null
+    },
+    "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players": {
+      "title": "The State of Grocery Retail Europe: Implications for packaging players",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "date_seen": "2026-10-26T12:22:21.317661+00:00",
+      "score": 77.5,
+      "doi": null
+    },
+    "https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy": {
+      "title": "Is HR Tech Undermining Your Strategy?",
+      "provider": "MIT Sloan Management Review (Workforce & AI)",
+      "date_seen": "2026-10-26T12:22:21.317857+00:00",
+      "score": 77.5,
+      "doi": null
     }
   },
   "seen_hashes": {
@@ -399,6 +420,21 @@
       "title": "Why Data Modeling Is Not Enough",
       "url": "https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough",
       "date_seen": "2026-10-19T12:19:26.672548+00:00"
+    },
+    "4699a7b67516b26ed395e9ba8dd2c3163af6b3feb4ea2fca34e904f6ca454f1a": {
+      "title": "Author Talks: AI is advancing. Is our judgment keeping up?",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-ai-is-advancing-is-our-judgment-keeping-up",
+      "date_seen": "2026-10-26T12:22:21.317088+00:00"
+    },
+    "69d1b1a11bfbf6e3e060478dab832d9af92f2225afff11a167e26f974e15b78b": {
+      "title": "The State of Grocery Retail Europe: Implications for packaging players",
+      "url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players",
+      "date_seen": "2026-10-26T12:22:21.317661+00:00"
+    },
+    "99a2ae6fc296f5f921c80b342f53eddac63a1f4f35f39f6ad4f2a9610081c8f7": {
+      "title": "Is HR Tech Undermining Your Strategy?",
+      "url": "https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy",
+      "date_seen": "2026-10-26T12:22:21.317857+00:00"
     }
   }
 }
