@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T12:22:21.318044+00:00",
-  "total_seen": 36,
+  "last_updated": "2026-11-02T14:54:40.307696+00:00",
+  "total_seen": 39,
   "seen_urls": {
     "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0": {
       "title": "Workplace Learning and Capability Development",
@@ -253,6 +253,27 @@
       "date_seen": "2026-10-26T12:22:21.317857+00:00",
       "score": 77.5,
       "doi": null
+    },
+    "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/critical-infrastructure-is-under-threat-are-organizations-prepared": {
+      "title": "Critical infrastructure is under threat. Are organizations prepared?",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "date_seen": "2026-11-02T14:54:40.306782+00:00",
+      "score": 77.5,
+      "doi": null
+    },
+    "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/turning-executive-judgment-into-organizational-intelligence-leveraging-ai-in-ceo-leadership": {
+      "title": "Turning executive judgment into organizational intelligence: Leveraging AI in CEO leadership",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "date_seen": "2026-11-02T14:54:40.307285+00:00",
+      "score": 77.5,
+      "doi": null
+    },
+    "https://sloanreview.mit.edu/article/the-ai-governance-paradox": {
+      "title": "The AI Governance Paradox",
+      "provider": "MIT Sloan Management Review (Workforce & AI)",
+      "date_seen": "2026-11-02T14:54:40.307498+00:00",
+      "score": 77.5,
+      "doi": null
     }
   },
   "seen_hashes": {
@@ -435,6 +456,21 @@
       "title": "Is HR Tech Undermining Your Strategy?",
       "url": "https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy",
       "date_seen": "2026-10-26T12:22:21.317857+00:00"
+    },
+    "643fe5123ac456ca4626b010d0ab12d2c3031e1e29cb008974d6b8ca209a3a91": {
+      "title": "Critical infrastructure is under threat. Are organizations prepared?",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/critical-infrastructure-is-under-threat-are-organizations-prepared",
+      "date_seen": "2026-11-02T14:54:40.306782+00:00"
+    },
+    "16f6268f4cd607614ac83aa6737928b983bfb781e88026454dae18b92cab4322": {
+      "title": "Turning executive judgment into organizational intelligence: Leveraging AI in CEO leadership",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/turning-executive-judgment-into-organizational-intelligence-leveraging-ai-in-ceo-leadership",
+      "date_seen": "2026-11-02T14:54:40.307285+00:00"
+    },
+    "895700a04f84d3e96f7f77321edb2c8e4bf3bf24c199baefda9dd99185afa4d9": {
+      "title": "The AI Governance Paradox",
+      "url": "https://sloanreview.mit.edu/article/the-ai-governance-paradox",
+      "date_seen": "2026-11-02T14:54:40.307498+00:00"
     }
   }
 }
