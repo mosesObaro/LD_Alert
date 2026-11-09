@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-02T14:54:40.307696+00:00",
-  "total_seen": 39,
+  "last_updated": "2026-11-09T15:23:23.056479+00:00",
+  "total_seen": 42,
   "seen_urls": {
     "https://www.open.edu/openlearn/education-development/learning-workplace/content-section-0": {
       "title": "Workplace Learning and Capability Development",
@@ -274,6 +274,27 @@
       "date_seen": "2026-11-02T14:54:40.307498+00:00",
       "score": 77.5,
       "doi": null
+    },
+    "https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare": {
+      "title": "Future of healthcare: Extinction or accelerated evolution?",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "date_seen": "2026-11-09T15:23:23.055617+00:00",
+      "score": 77.5,
+      "doi": null
+    },
+    "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-cfos-can-make-ai-pay-off": {
+      "title": "How CFOs can make AI pay off",
+      "provider": "McKinsey Organization & People Strategy Insights",
+      "date_seen": "2026-11-09T15:23:23.056063+00:00",
+      "score": 77.5,
+      "doi": null
+    },
+    "https://sloanreview.mit.edu/article/do-more-with-sustainability-data": {
+      "title": "Do More With Sustainability Data",
+      "provider": "MIT Sloan Management Review (Workforce & AI)",
+      "date_seen": "2026-11-09T15:23:23.056262+00:00",
+      "score": 77.5,
+      "doi": null
     }
   },
   "seen_hashes": {
@@ -471,6 +492,21 @@
       "title": "The AI Governance Paradox",
       "url": "https://sloanreview.mit.edu/article/the-ai-governance-paradox",
       "date_seen": "2026-11-02T14:54:40.307498+00:00"
+    },
+    "267e96cc803fcf9dfe76aa209dac2606fb00096cb6517ca92f45154fae43d8bb": {
+      "title": "Future of healthcare: Extinction or accelerated evolution?",
+      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare",
+      "date_seen": "2026-11-09T15:23:23.055617+00:00"
+    },
+    "ba3da67288a5f7aa1b6160b6b40a8450023307e33787f97ae545232499808e6f": {
+      "title": "How CFOs can make AI pay off",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-cfos-can-make-ai-pay-off",
+      "date_seen": "2026-11-09T15:23:23.056063+00:00"
+    },
+    "d22e79439f9dfbd7ce4dfff72f4635c48be5353ae537f25582325318d008d961": {
+      "title": "Do More With Sustainability Data",
+      "url": "https://sloanreview.mit.edu/article/do-more-with-sustainability-data",
+      "date_seen": "2026-11-09T15:23:23.056262+00:00"
     }
   }
 }
